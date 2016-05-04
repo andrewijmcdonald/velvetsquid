@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Velvet Squid - Experts in web &amp; mobile, brand identity, creative direction, and innovation.</title>
+    <description>Velvet Squid is a Sydney based design studio focusing on creating pixel perfect digital media. If you are a small business owner with a killer idea, or an established brand looking for creative direction, we can help you bring your ideas to life in print, web, and digital media.
+</description>
+    <link>http://www.velvetsquid.com/</link>
+    <atom:link href="http://www.velvetsquid.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 04 May 2016 21:55:54 +1000</pubDate>
+    <lastBuildDate>Wed, 04 May 2016 21:55:54 +1000</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Tyroe</title>
+        <description>&lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/tyroe-ipad.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;Tyroe - Marketing&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;Promotional landing page and videos, business cards, and branding.&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;about&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+              &lt;p class=&quot;lead-text serif text-center&quot;&gt;The client required a full suite of marketing material for their SAAS product. The landing pages were used to build their Mailchimp Newsletter. Two promotional videos were created in-house to drive traffic to the Tyroe website. Business cards, brochures, and stickers were designed and printed for use at various live events.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section style=&quot;background-color: #e8e8e8; padding-bottom: 120px;&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;media-video&quot;&gt;
+          &lt;iframe width=&quot;1140&quot; height=&quot;641&quot; src=&quot;https://www.youtube.com/embed/vXUy0cfiROU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+          &lt;div style=&quot;position: absolute; bottom: -57px;width: 100%;text-align: center;&quot;&gt;Promotional video used to showcase the benefits of the service and encourage pre-registrations.&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;b-1&quot;&gt;
+      &lt;div class=&quot;container stacked&quot;&gt;
+        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe-landing-01.png&quot; alt=&quot;&quot;&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;simple-parallax&quot; style=&quot;height:640px&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/tyroe-business-cards.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section style=&quot;background-color:#DEDEDE&quot;&gt;
+      &lt;div class=&quot;container stacked&quot;&gt;
+        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe-landing-02.png&quot; alt=&quot;&quot;&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+     &lt;section class=&quot;b-1&quot;&gt;
+      &lt;div class=&quot;container stacked&quot;&gt;
+        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe-brochure-01.jpg&quot; alt=&quot;&quot;&gt;
+        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe_mockup.jpg&quot; alt=&quot;&quot;&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+   
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/promo-video.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;#&quot; class=&quot;prev&quot;&gt;&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Thu, 14 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://www.velvetsquid.com/tyroe-marketing.html</link>
+        <guid isPermaLink="true">http://www.velvetsquid.com/tyroe-marketing.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>The Rookies Promo Video</title>
+        <description>    &lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/promo-cover.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;Promo Video&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;Annual promotional videos to engage community.&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;intro&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;The Rookies&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+              &lt;p class=&quot;lead-text serif text-center&quot;&gt;The Rookies (formerly the CG Student Awards) use our team annually to get the word out to their fans and build some hype. Each year, the videos need to be fast paced, engaging, and informative.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;media-video&quot;&gt;
+          &lt;iframe src=&quot;https://player.vimeo.com/video/153838098&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;media-video&quot;&gt;
+          &lt;iframe src=&quot;https://player.vimeo.com/video/88405518&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;simple-parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/promo-parallax.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/ricewarner.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/tyroe-marketing.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Mon, 11 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://www.velvetsquid.com/promo-video.html</link>
+        <guid isPermaLink="true">http://www.velvetsquid.com/promo-video.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Rice Warner</title>
+        <description>    &lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/ricewarner-cover.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;RiceWarner&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;Australias leading financial consultants.&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;b-0&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;img src=&quot;images/portfolio/ricewarner-01.jpg&quot; alt=&quot;&quot;&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;p-0 b-0&quot;&gt;
+      &lt;div class=&quot;boxes&quot;&gt;
+        &lt;div class=&quot;container-fluid&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div data-bg-color=&quot;#eaeaea&quot; class=&quot;col-md-4&quot;&gt;
+              &lt;div class=&quot;number-box&quot;&gt;&lt;span&gt;Step No.&lt;/span&gt;
+                &lt;h2&gt;01&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+                &lt;h4&gt;Wireframe.&lt;/h4&gt;
+                &lt;p&gt;To allow for quick and interactive design iterations, a simple wireframe was built using Photoshop. This was then added to Invision for client testing.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div data-bg-color=&quot;#f0f0f0&quot; class=&quot;col-md-4&quot;&gt;
+              &lt;div class=&quot;number-box&quot;&gt;&lt;span&gt;Step No.&lt;/span&gt;
+                &lt;h2&gt;02&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+                &lt;h4&gt;Mockup.&lt;/h4&gt;
+                &lt;p&gt;After wireframes had been locked down, colour and final content was added to Photoshop files and Invision was upated to showcase a finished mockup with interactions.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div data-bg-color=&quot;#f4f4f4&quot; class=&quot;col-md-4&quot;&gt;
+              &lt;div class=&quot;number-box&quot;&gt;&lt;span&gt;Step No.&lt;/span&gt;
+                &lt;h2&gt;03&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+                &lt;h4&gt;Delivery.&lt;/h4&gt;
+                &lt;p&gt;The project was delivered using Wordpress CMS. The reason for this decision was to allow staff to update the site content and publish blog posts every week.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/tyroe.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/promo-video.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+    </description>
+        <pubDate>Sun, 10 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://www.velvetsquid.com/ricewarner.html</link>
+        <guid isPermaLink="true">http://www.velvetsquid.com/ricewarner.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Tyroe</title>
+        <description>&lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/tyroe_mockup.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;Tyroe - Applicant Tracking System &amp; Portfolio Service&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;Recruitment SAAS product used by studios to find junior artists.&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;about&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+              &lt;p class=&quot;lead-text serif text-center&quot;&gt;The project required a great deal of wireframing, workflow design, and prototypes. Intial concepts and workflows were fleshed out using Photoshop and good old pen/paper. From here Photoshop concepts were developed for all usertypes and uploaded to InVision to create working mockups.  Full working HTML prototypes were developed for the Software Developer brief.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;b-1&quot;&gt;
+      &lt;div class=&quot;title center&quot;&gt;
+          &lt;h4 class=&quot;upper&quot;&gt;Custom built recruitment application&lt;/h4&gt;
+          &lt;h2&gt;Recruitment Simplified&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+      &lt;div class=&quot;container stacked&quot;&gt;
+        &lt;img src=&quot;images/portfolio/tyroe-2.jpg&quot; alt=&quot;&quot;&gt;
+        &lt;img src=&quot;images/portfolio/tyroe-4.jpg&quot; alt=&quot;&quot;&gt;
+        &lt;img src=&quot;images/portfolio/tyroe-1.jpg&quot; alt=&quot;&quot;&gt;
+        &lt;img src=&quot;images/portfolio/tyroe-3.jpg&quot; alt=&quot;&quot;&gt;
+        &lt;img src=&quot;images/portfolio/tyroe-5.jpg&quot; alt=&quot;&quot;&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h4 class=&quot;upper&quot;&gt;Fully compatible and stable&lt;/h4&gt;
+          &lt;h2&gt;100% Mobile Responsive&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content mt-50&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-3 col-sm-3&quot;&gt;
+              &lt;div class=&quot;text-box txt-md-right txt-xs-center pr-15 pl-15&quot;&gt;
+                &lt;h4&gt;Unqualified Applicants&lt;/h4&gt;
+                &lt;p&gt;Wasted time sifting through applicants applying for jobs which they are clearly unqualified.&lt;/p&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;text-box txt-md-right txt-xs-center pr-15 pl-15&quot;&gt;
+                &lt;h4&gt;No Team Feedback&lt;/h4&gt;
+                &lt;p&gt;Key stakeholders involved with candidate selection are often too busy to review applications.&lt;/p&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;text-box txt-md-right txt-xs-center pr-15 pl-15&quot;&gt;
+                &lt;h4&gt;Volume of Applicants&lt;/h4&gt;
+                &lt;p&gt;Not enough time or resources to respond to all applicants or provide some form of feedback to help them.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-6 col-sm-6 text-center&quot;&gt;
+              &lt;div class=&quot;row&quot;&gt;
+                &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+                  &lt;img src=&quot;images/portfolio/tyroe-iphone.jpg&quot; alt=&quot;&quot;&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;!-- end of row--&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-3 visible-md visible-lg&quot;&gt;
+              &lt;div class=&quot;text-box pr-15 pl-15&quot;&gt;
+                &lt;h4&gt;Juggling Websites&lt;/h4&gt;
+                &lt;p&gt;Submitting jobs and managing applications coming in from company website, job boards, and forum&lt;/p&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;text-box pr-15 pl-15&quot;&gt;
+                &lt;h4&gt;Data Entry&lt;/h4&gt;
+                &lt;p&gt;Adding candidates to a database, sifting through feedback from staff, and manually inserting notes&lt;/p&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;text-box pr-15 pl-15&quot;&gt;
+                &lt;h4&gt;Rejection Process&lt;/h4&gt;
+                &lt;p&gt;The uncomfortable process of informing applicants they were not selected for the job opening&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h4 class=&quot;upper&quot;&gt;Advanced portfolio building system&lt;/h4&gt;
+          &lt;h2&gt;One-page member portfolios&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+      &lt;div class=&quot;container stacked&quot;&gt;
+        &lt;img class=&quot;img-border&quot; style=&quot;margin-top: 40px;&quot; src=&quot;images/portfolio/tyroe-6.jpg&quot; alt=&quot;&quot;&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+   
+    
+
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/babyology.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/ricewarner.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Sat, 09 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://www.velvetsquid.com/tyroe.html</link>
+        <guid isPermaLink="true">http://www.velvetsquid.com/tyroe.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Babyology</title>
+        <description>   &lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/babyology-header.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;Babyology&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;E-commerce solution for subscription box service.&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;intro&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h4 class=&quot;upper&quot;&gt;Packages delivered to your door.&lt;/h4&gt;
+          &lt;h2&gt;Subscription Box Service&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+              &lt;p class=&quot;lead-text serif text-center&quot;&gt;Velvet Squid was contracted by Babyology to design and build a landing page for their new subscription boxes. The project had a very short delivery schedule and required some seriously fast design and development. The landing page integrated an e-Commerce solution that allowed visitors to purchase a variety of packages.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;  
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div&gt;
+          &lt;img src=&quot;images/portfolio/babyology-boxes-01.png&quot;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-5 mb-25&quot;&gt;
+            &lt;div class=&quot;title txt-md-right txt-sm-center txt-xs-center&quot;&gt;
+              &lt;h4 class=&quot;upper&quot;&gt;Porject Breakdown.&lt;/h4&gt;
+              &lt;h3&gt;The challenge&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+              &lt;hr&gt;
+              &lt;p&gt;Working to an insanely tight deadline and a client with a highly established reputation for quality.&lt;/p&gt;&lt;a class=&quot;btn btn-color-out mb-25&quot;&gt;Key components&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-6 col-md-offset-1&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+              &lt;div class=&quot;col-md-12 col-sm-4&quot;&gt;
+                &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-tools&quot;&gt;&lt;/i&gt;
+                  &lt;h4&gt;Design.&lt;/h4&gt;
+                  &lt;p&gt;The design needed to reflect the clients existing style guide which included the use of fonts and colour palettes. The solution needed a clean, simple, and striking design.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-md-12 col-sm-4&quot;&gt;
+                &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-target&quot;&gt;&lt;/i&gt;
+                  &lt;h4&gt;Concept.&lt;/h4&gt;
+                  &lt;p&gt;The concept came together quite quickly with the objective to keep everything accessible on one page. Scrolling from top to bottom, the user would be pitched the product, it&#39;s benefits, read testimonials, and be directed to call-to-action purchasing buttons.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-md-12 col-sm-4&quot;&gt;
+                &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-expand&quot;&gt;&lt;/i&gt;
+                  &lt;h4&gt;Delivery.&lt;/h4&gt;
+                  &lt;p&gt;The final deliveries included a complete HTML website, integrated into a third-party subscription package tool to track orders and manage custom service.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;simple-parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/babyology-02.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;div class=&quot;project-detail&quot;&gt;
+              &lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt;Babyology Pty Ltd.&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;02 August, 2014&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt;Website, E-Commerce&lt;/p&gt;
+              &lt;a href=&quot;http://babyology.com.au/boxes/&quot;&gt;http://babyology.com.au/boxes/&lt;/a&gt;&lt;/p&gt;
+              
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;Babyology is the online market leader in high-quality product-focused editorial content for Australian parents.&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;Babyology is the premium online resource for parents, providing information and reviews on products and services for them and their children. It facilitates a community where parents can discuss products and services and ask questions of experts in the field.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+   
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/the-rookies.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/tyroe.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+    </description>
+        <pubDate>Fri, 08 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://www.velvetsquid.com/babyology.html</link>
+        <guid isPermaLink="true">http://www.velvetsquid.com/babyology.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>The Rookie</title>
+        <description>   &lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/rookies-cover.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;The Rookies&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;International competition for junior creatives&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div&gt;
+          &lt;img src=&quot;images/portfolio/rookies-page-01.jpg&quot;&gt;
+          &lt;img src=&quot;images/portfolio/rookies-page-02.jpg&quot;&gt;
+          &lt;img src=&quot;images/portfolio/rookies-page-03.jpg&quot;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-5 mb-25&quot;&gt;
+            &lt;div class=&quot;title txt-md-right txt-sm-center txt-xs-center&quot;&gt;
+              &lt;h4 class=&quot;upper&quot;&gt;Short description.&lt;/h4&gt;
+              &lt;h3&gt;The challenge&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+              &lt;hr&gt;
+              &lt;p&gt;Design and build a full CMS to handle image and video submissions from thousands of students around the world.&lt;/p&gt;&lt;a class=&quot;btn btn-color-out mb-25&quot;&gt;Key components&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-6 col-md-offset-1&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+              &lt;div class=&quot;col-md-12 col-sm-4&quot;&gt;
+                &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-tools&quot;&gt;&lt;/i&gt;
+                  &lt;h4&gt;Design.&lt;/h4&gt;
+                  &lt;p&gt;The client required a clean and intuative user interface for artists to submit work, find schools, and read articles.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-md-12 col-sm-4&quot;&gt;
+                &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-target&quot;&gt;&lt;/i&gt;
+                  &lt;h4&gt;Development.&lt;/h4&gt;
+                  &lt;p&gt;The site was developed using Wordpress. Multiple custom plugins were created to handle different actions and processes.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-md-12 col-sm-4&quot;&gt;
+                &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-expand&quot;&gt;&lt;/i&gt;
+                  &lt;h4&gt;Delivery.&lt;/h4&gt;
+                  &lt;p&gt;The site was delivered in 4 months which included full concept wireframes through to finished product testing and version control releases.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;simple-parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/rookies-parallax.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;div class=&quot;project-detail&quot;&gt;
+              &lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt;CG Student Awards Pty Ltd.&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;12 December, 2015&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt;Design, Development, Website.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;The client runs a successful online awards that discovers the next generation of creators, innovators, and artists. The client had recently rebranded and was looking for a new website and CMS to handle the growing community.&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;The project involved handling everything from concept wireframes through to the delivery of a working prototype. The most interesting and complex area of the build was creating an engaging, yet simple, entry page for each member.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+   
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/australia-post.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/babyology.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+    </description>
+        <pubDate>Thu, 07 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://www.velvetsquid.com/the-rookies.html</link>
+        <guid isPermaLink="true">http://www.velvetsquid.com/the-rookies.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Australia Post</title>
+        <description>    &lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div class=&quot;parallax-overlay&quot; style=&quot;background-color:#c81f33&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;Australia Post - Benefit &amp; Retirement Calculator&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;Re-design of Australia Post retirement website and tools.&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;intro&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;The Brief&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+              &lt;p class=&quot;lead-text serif text-center&quot;&gt;Velvet Squid was contracted to create a set of  wireframe mockups to help improve the existing Benefit &amp; Retirement Calculator used by Australia Post. The existing tool was very dated, and was causing staff many issues, which were due to the poor user experience. The goal of these wireframes were to show how simple and fast it could be to completely overhaul the user-flow, gather more relevant information, and allow staff to really dig into the data and maximise their return.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;  
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div&gt;
+          &lt;img src=&quot;images/portfolio/australia-post-01.jpg&quot;&gt;
+        &lt;/div&gt;
+        &lt;div style=&quot;margin-top:40px&quot;&gt;
+          &lt;img src=&quot;images/portfolio/australia-post-02.jpg&quot;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;div class=&quot;project-detail&quot;&gt;
+              &lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt;Australia Post&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;23 February, 2015&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt;Website, UI, UX.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;The client was looking to redesign their staff portal for accessing their retirement and benefits information. The challenge was to condense and simplify the data into as few pages as possible and still have a clear user journey.&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;These wireframes were the result of user testing and revisions both internally and externally. The success of this project was it&#39;s ability to remove all the confusing steps and bloated content and strip the tool back to it&#39;s core objective, all while keeping the user informed at each stage.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/cgstudentawards.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/the-rookies.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+    </description>
+        <pubDate>Wed, 06 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://www.velvetsquid.com/australia-post.html</link>
+        <guid isPermaLink="true">http://www.velvetsquid.com/australia-post.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>CG Student Awards</title>
+        <description>    &lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/portfolio-cgsa-cover.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;cgstudentawards.com&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;Creative community for young digital artists.&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;b-0&quot; style=&quot;background:#3D3D3D&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;img src=&quot;images/portfolio/portfolio-cgsa-01.jpg&quot; alt=&quot;&quot;&gt;
+        &lt;img src=&quot;images/portfolio/portfolio-cgsa-02.jpg&quot; alt=&quot;&quot;&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;div class=&quot;project-detail&quot;&gt;
+              &lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt;CG Student Awards Pty Ltd.&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;12 January, 2015&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt;&lt;a href=&quot;http://www.cgstudentawards.com&quot;&gt;www.cgstudentawards.com&lt;/a&gt;
+              &lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt;Redesign, Branding, Website, Video&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;The CG Student Awards is a creative community for young digital artists studying Visual Effects, Animation, and Next-Gen Gaming. The backbone of the website includes a portfolio system for students, and a review system for the judging panel. &lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;The client required a complete redesign of their existing site, brand identity, and an overhaul of the backend systems in place to deal with 500,000 monthly visitors and over 1,000 student entries submitted over a 3 month peak period.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/sovereign.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/australia-post.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+    </description>
+        <pubDate>Tue, 05 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://www.velvetsquid.com/cgstudentawards.html</link>
+        <guid isPermaLink="true">http://www.velvetsquid.com/cgstudentawards.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Sovereign- Branding</title>
+        <description>&lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/sovereign-05.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;Sovereign&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;Official harbour stamp branding.&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;about&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+              &lt;p class=&quot;lead-text serif text-center&quot;&gt;One of the largest yachts available for charter in Australia, Sovereign proudly offers European standards to an emerging region. At 44.2m, SOVEREIGN has been recently launched to the charter market by her experienced Owners.&lt;/p&gt;
+              &lt;p class=&quot;lead-text serif text-center&quot;&gt;SOVEREIGN required a new official harbour stamp for all purchasing orders and international travel requirements. The brief required a traditional nautical theme with information simple and easy to read.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;b-0&quot;&gt;
+      &lt;div class=&quot;container stacked&quot;&gt;
+        &lt;img src=&quot;images/portfolio/sovereign-03.jpg&quot; alt=&quot;&quot;&gt;
+        &lt;img src=&quot;images/portfolio/sovereign-02.jpg&quot; alt=&quot;&quot;&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;simple-parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/sovereign-01.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/vanguard.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/cgstudentawards.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Mon, 04 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://www.velvetsquid.com/sovereign.html</link>
+        <guid isPermaLink="true">http://www.velvetsquid.com/sovereign.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Vanguard Investments</title>
+        <description>&lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/vanguard-cover.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;Vanguard Investments&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;Key Facts Statement iPad App.&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-6&quot;&gt;
+            &lt;div class=&quot;project-detail&quot;&gt;
+              &lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt;Vangaurd Investements Australia Ltd.&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;01 February, 2015&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt;&lt;a href=&quot;#&quot;&gt;https://www.vanguardinvestments.com.au/&lt;/a&gt;
+              &lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt;Wireframing, Mockups, iPad Application&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-6&quot;&gt;
+            &lt;img style=&quot;float:right&quot;src=&quot;images/portfolio/vanguard-logo.jpg&quot;&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container-fluid&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-6 img-side img-left&quot;&gt;
+            &lt;div class=&quot;img-holder&quot;&gt;
+              &lt;img src=&quot;images/portfolio/vanguard-01.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row            --&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-5 col-md-offset-7 col-sm-6 col-sm-offset-6&quot;&gt;
+            &lt;div class=&quot;title&quot;&gt;
+              &lt;h4 class=&quot;upper mb-10&quot;&gt;Short description.&lt;/h4&gt;
+              &lt;h3 class=&quot;upper fw-400&quot;&gt;The challenge&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+              &lt;hr&gt;
+            &lt;/div&gt;
+            &lt;p class=&quot;mb-25 alt-paragraph&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla sint molestiae iusto voluptatum omnis debitis quisquam placeat ipsa repudiandae alias quam tempora, deleniti quas ad, sapiente pariatur. Atque, consequuntur, sequi.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row        --&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container-fluid&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-6 img-side img-right&quot;&gt;
+            &lt;div class=&quot;img-holder&quot;&gt;
+              &lt;img src=&quot;images/portfolio/vanguard-02.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row              --&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-5 col-sm-6 txt-sm-right txt-md-right&quot;&gt;
+            &lt;div class=&quot;title&quot;&gt;
+              &lt;h4 class=&quot;upper mb-10&quot;&gt;Short description.&lt;/h4&gt;
+              &lt;h3 class=&quot;upper fw-400&quot;&gt;The process&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+              &lt;hr&gt;
+            &lt;/div&gt;
+            &lt;p class=&quot;mb-25 alt-paragraph&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla sint molestiae iusto voluptatum omnis debitis quisquam placeat ipsa repudiandae alias quam tempora, deleniti quas ad, sapiente pariatur. Atque, consequuntur, sequi.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container-fluid&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-6 img-side img-left&quot;&gt;
+            &lt;div class=&quot;img-holder&quot;&gt;
+              &lt;img src=&quot;images/portfolio/vanguard-03.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row              --&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-5 col-md-offset-7 col-sm-6 col-sm-offset-6&quot;&gt;
+            &lt;div class=&quot;title&quot;&gt;
+              &lt;h4 class=&quot;upper mb-10&quot;&gt;Short description.&lt;/h4&gt;
+              &lt;h3 class=&quot;upper fw-400&quot;&gt;The solution&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+              &lt;hr&gt;
+            &lt;/div&gt;
+            &lt;p class=&quot;mb-25 alt-paragraph&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla sint molestiae iusto voluptatum omnis debitis quisquam placeat ipsa repudiandae alias quam tempora, deleniti quas ad, sapiente pariatur. Atque, consequuntur, sequi.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;simple-parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/vanguard-parallax.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/motorist.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/sovereign.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://www.velvetsquid.com/vanguard.html</link>
+        <guid isPermaLink="true">http://www.velvetsquid.com/vanguard.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
+    
+  </channel>
+</rss>
