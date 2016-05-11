@@ -108,20 +108,29 @@
       </div>
     </header>
   
+  <!-- Disqus code -->
+    
+    <script>
+      var disqus_config = function() {
+        this.page.url = "http://www.velvetsquid.com/blog02.html"; // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = "/blog02"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      };
+      (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document,
+          s = d.createElement('script');
+
+        s.src = '//velvetsquid.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', + new Date());
+        (d.head || d.body).appendChild(s);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the
+      <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
+    </noscript>
+    
 
   <body>
-
-    <!-- Facebook Script Start -->
-    <div id="fb-root"></div>
-      <script>(function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s); js.id = id;
-          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=229158540785322";
-          fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-      </script>
-    <!-- end -->
 
         <section class="page-title parallax">
       <div data-parallax="scroll" data-image-src="images/bg/15.jpg" class="parallax-bg"></div>
@@ -176,22 +185,19 @@
       </div>
     </section>
     
-    <!-- FB Comments -->
+    <!-- Disqus Comments -->
     
-      <section>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2">
-        <article class="post-single">
-          <div id="comments">
-            <h5 class="upper">Comments</h5>
-              <div class="fb-comments" data-href="http://www.velvetsquid.com/blog02.html" data-num-posts="4" data-width="706"></div>
+       <section>
+          <div class="container">
+            <div class="row">
+              <div class="col-md-8 col-md-offset-2">
+                <article class="post-single">
+                <div id="disqus_thread"></div>
+                </article>
+              </div>
+            </div>
           </div>
-        </article>
-      </div>
-    </div>
-</section>
-
+        </section>
     
 
     <section class="controllers p-0">
@@ -215,7 +221,8 @@
 </section>
 
     
-
+    
+    
     <!-- Footer-->
     <footer id="footer-widgets">
       <div class="container">
