@@ -4,17 +4,10 @@
     <title>Velvet Squid - Experts in web &amp; mobile, brand identity, creative direction, and innovation.</title>
     <description>Velvet Squid is a Sydney based design studio focusing on creating pixel perfect digital media. If you are a small business owner with a killer idea, or an established brand looking for creative direction, we can help you bring your ideas to life in print, web, and digital media.
 </description>
-<<<<<<< HEAD
-    <link>http://velvetsquid.com/</link>
-    <atom:link href="http://velvetsquid.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 May 2016 22:52:14 +1000</pubDate>
-    <lastBuildDate>Wed, 11 May 2016 22:52:14 +1000</lastBuildDate>
-=======
-    <link>http://127.0.0.1:4000/</link>
-    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 May 2016 16:37:05 +1000</pubDate>
-    <lastBuildDate>Wed, 11 May 2016 16:37:05 +1000</lastBuildDate>
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+    <link>http://localhost:3000/</link>
+    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 11 May 2016 23:01:10 +1000</pubDate>
+    <lastBuildDate>Wed, 11 May 2016 23:01:10 +1000</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -86,11 +79,7 @@
 				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
 			&lt;/a&gt;
 		 
-<<<<<<< HEAD
-			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
-=======
-			&lt;a href=&quot;http://127.0.0.1:4000/#portfolio&quot; class=&quot;all&quot;&gt;
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+			&lt;a href=&quot;http://localhost:3000/#portfolio&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -101,13 +90,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Thu, 14 Jan 2016 20:28:25 +1100</pubDate>
-<<<<<<< HEAD
-        <link>http://velvetsquid.com/tyroe-marketing.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/tyroe-marketing.html</guid>
-=======
-        <link>http://127.0.0.1:4000/tyroe-marketing.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/tyroe-marketing.html</guid>
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+        <link>http://localhost:3000/tyroe-marketing.html</link>
+        <guid isPermaLink="true">http://localhost:3000/tyroe-marketing.html</guid>
         
         
         <category>Portfolio</category>
@@ -176,11 +160,7 @@
 				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
 			&lt;/a&gt;
 		 
-<<<<<<< HEAD
-			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
-=======
-			&lt;a href=&quot;http://127.0.0.1:4000/#portfolio&quot; class=&quot;all&quot;&gt;
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+			&lt;a href=&quot;http://localhost:3000/#portfolio&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -193,13 +173,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Mon, 11 Jan 2016 20:28:25 +1100</pubDate>
-<<<<<<< HEAD
-        <link>http://velvetsquid.com/promo-video.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/promo-video.html</guid>
-=======
-        <link>http://127.0.0.1:4000/promo-video.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/promo-video.html</guid>
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+        <link>http://localhost:3000/promo-video.html</link>
+        <guid isPermaLink="true">http://localhost:3000/promo-video.html</guid>
         
         
         <category>Portfolio</category>
@@ -269,11 +244,7 @@
 				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
 			&lt;/a&gt;
 		 
-<<<<<<< HEAD
-			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
-=======
-			&lt;a href=&quot;http://127.0.0.1:4000/#portfolio&quot; class=&quot;all&quot;&gt;
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+			&lt;a href=&quot;http://localhost:3000/#portfolio&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -287,13 +258,8 @@
 
     </description>
         <pubDate>Sun, 10 Jan 2016 20:28:25 +1100</pubDate>
-<<<<<<< HEAD
-        <link>http://velvetsquid.com/ricewarner.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/ricewarner.html</guid>
-=======
-        <link>http://127.0.0.1:4000/ricewarner.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/ricewarner.html</guid>
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+        <link>http://localhost:3000/ricewarner.html</link>
+        <guid isPermaLink="true">http://localhost:3000/ricewarner.html</guid>
         
         
         <category>Portfolio</category>
@@ -421,11 +387,7 @@
 				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
 			&lt;/a&gt;
 		 
-<<<<<<< HEAD
-			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
-=======
-			&lt;a href=&quot;http://127.0.0.1:4000/#portfolio&quot; class=&quot;all&quot;&gt;
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+			&lt;a href=&quot;http://localhost:3000/#portfolio&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -438,13 +400,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Sat, 09 Jan 2016 20:28:25 +1100</pubDate>
-<<<<<<< HEAD
-        <link>http://velvetsquid.com/tyroe.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/tyroe.html</guid>
-=======
-        <link>http://127.0.0.1:4000/tyroe.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/tyroe.html</guid>
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+        <link>http://localhost:3000/tyroe.html</link>
+        <guid isPermaLink="true">http://localhost:3000/tyroe.html</guid>
         
         
         <category>Portfolio</category>
@@ -565,11 +522,7 @@
 				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
 			&lt;/a&gt;
 		 
-<<<<<<< HEAD
-			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
-=======
-			&lt;a href=&quot;http://127.0.0.1:4000/#portfolio&quot; class=&quot;all&quot;&gt;
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+			&lt;a href=&quot;http://localhost:3000/#portfolio&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -583,13 +536,8 @@
 
     </description>
         <pubDate>Fri, 08 Jan 2016 20:28:25 +1100</pubDate>
-<<<<<<< HEAD
-        <link>http://velvetsquid.com/babyology.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/babyology.html</guid>
-=======
-        <link>http://127.0.0.1:4000/babyology.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/babyology.html</guid>
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+        <link>http://localhost:3000/babyology.html</link>
+        <guid isPermaLink="true">http://localhost:3000/babyology.html</guid>
         
         
         <category>Portfolio</category>
@@ -691,11 +639,7 @@
 				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
 			&lt;/a&gt;
 		 
-<<<<<<< HEAD
-			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
-=======
-			&lt;a href=&quot;http://127.0.0.1:4000/#portfolio&quot; class=&quot;all&quot;&gt;
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+			&lt;a href=&quot;http://localhost:3000/#portfolio&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -709,13 +653,8 @@
 
     </description>
         <pubDate>Thu, 07 Jan 2016 20:28:25 +1100</pubDate>
-<<<<<<< HEAD
-        <link>http://velvetsquid.com/the-rookies.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/the-rookies.html</guid>
-=======
-        <link>http://127.0.0.1:4000/the-rookies.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/the-rookies.html</guid>
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+        <link>http://localhost:3000/the-rookies.html</link>
+        <guid isPermaLink="true">http://localhost:3000/the-rookies.html</guid>
         
         
         <category>Portfolio</category>
@@ -796,11 +735,7 @@
 				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
 			&lt;/a&gt;
 		 
-<<<<<<< HEAD
-			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
-=======
-			&lt;a href=&quot;http://127.0.0.1:4000/#portfolio&quot; class=&quot;all&quot;&gt;
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+			&lt;a href=&quot;http://localhost:3000/#portfolio&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -814,13 +749,8 @@
 
     </description>
         <pubDate>Wed, 06 Jan 2016 20:28:25 +1100</pubDate>
-<<<<<<< HEAD
-        <link>http://velvetsquid.com/australia-post.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/australia-post.html</guid>
-=======
-        <link>http://127.0.0.1:4000/australia-post.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/australia-post.html</guid>
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+        <link>http://localhost:3000/australia-post.html</link>
+        <guid isPermaLink="true">http://localhost:3000/australia-post.html</guid>
         
         
         <category>Portfolio</category>
@@ -882,11 +812,7 @@
 				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
 			&lt;/a&gt;
 		 
-<<<<<<< HEAD
-			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
-=======
-			&lt;a href=&quot;http://127.0.0.1:4000/#portfolio&quot; class=&quot;all&quot;&gt;
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+			&lt;a href=&quot;http://localhost:3000/#portfolio&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -900,13 +826,8 @@
 
     </description>
         <pubDate>Tue, 05 Jan 2016 20:28:25 +1100</pubDate>
-<<<<<<< HEAD
-        <link>http://velvetsquid.com/cgstudentawards.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/cgstudentawards.html</guid>
-=======
-        <link>http://127.0.0.1:4000/cgstudentawards.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/cgstudentawards.html</guid>
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+        <link>http://localhost:3000/cgstudentawards.html</link>
+        <guid isPermaLink="true">http://localhost:3000/cgstudentawards.html</guid>
         
         
         <category>Portfolio</category>
@@ -964,11 +885,7 @@
 				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
 			&lt;/a&gt;
 		 
-<<<<<<< HEAD
-			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
-=======
-			&lt;a href=&quot;http://127.0.0.1:4000/#portfolio&quot; class=&quot;all&quot;&gt;
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+			&lt;a href=&quot;http://localhost:3000/#portfolio&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -981,13 +898,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Mon, 04 Jan 2016 20:28:25 +1100</pubDate>
-<<<<<<< HEAD
-        <link>http://velvetsquid.com/sovereign.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/sovereign.html</guid>
-=======
-        <link>http://127.0.0.1:4000/sovereign.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/sovereign.html</guid>
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+        <link>http://localhost:3000/sovereign.html</link>
+        <guid isPermaLink="true">http://localhost:3000/sovereign.html</guid>
         
         
         <category>Portfolio</category>
@@ -1122,11 +1034,7 @@
 				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
 			&lt;/a&gt;
 		 
-<<<<<<< HEAD
-			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
-=======
-			&lt;a href=&quot;http://127.0.0.1:4000/#portfolio&quot; class=&quot;all&quot;&gt;
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+			&lt;a href=&quot;http://localhost:3000/#portfolio&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -1139,13 +1047,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Sun, 03 Jan 2016 20:28:25 +1100</pubDate>
-<<<<<<< HEAD
-        <link>http://velvetsquid.com/vanguard.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/vanguard.html</guid>
-=======
-        <link>http://127.0.0.1:4000/vanguard.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/vanguard.html</guid>
->>>>>>> 09585c9ece480ce6741040b669229f21f161b860
+        <link>http://localhost:3000/vanguard.html</link>
+        <guid isPermaLink="true">http://localhost:3000/vanguard.html</guid>
         
         
         <category>Portfolio</category>
