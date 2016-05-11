@@ -19,9 +19,13 @@ body {
   -moz-font-feature-settings: "kern" 1;
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
+<<<<<<< HEAD
   -webkit-font-kerning: normal;
      -moz-font-kerning: normal;
           font-kerning: normal; }
+=======
+  font-kerning: normal; }
+>>>>>>> 09585c9ece480ce6741040b669229f21f161b860
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -114,6 +118,10 @@ pre {
  * Wrapper
  */
 .wrapper {
+<<<<<<< HEAD
+=======
+  max-width: -webkit-calc(800px - (30px * 2));
+>>>>>>> 09585c9ece480ce6741040b669229f21f161b860
   max-width: calc(800px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
@@ -121,6 +129,10 @@ pre {
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
+<<<<<<< HEAD
+=======
+      max-width: -webkit-calc(800px - (30px));
+>>>>>>> 09585c9ece480ce6741040b669229f21f161b860
       max-width: calc(800px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
@@ -235,17 +247,30 @@ pre {
   padding-left: 15px; }
 
 .footer-col-1 {
+<<<<<<< HEAD
   width: calc(35% - (30px / 2)); }
 
 .footer-col-2 {
   width: calc(20% - (30px / 2)); }
 
 .footer-col-3 {
+=======
+  width: -webkit-calc(35% - (30px / 2));
+  width: calc(35% - (30px / 2)); }
+
+.footer-col-2 {
+  width: -webkit-calc(20% - (30px / 2));
+  width: calc(20% - (30px / 2)); }
+
+.footer-col-3 {
+  width: -webkit-calc(45% - (30px / 2));
+>>>>>>> 09585c9ece480ce6741040b669229f21f161b860
   width: calc(45% - (30px / 2)); }
 
 @media screen and (max-width: 800px) {
   .footer-col-1,
   .footer-col-2 {
+<<<<<<< HEAD
     width: calc(50% - (30px / 2)); }
   .footer-col-3 {
     width: calc(100% - (30px / 2)); } }
@@ -255,6 +280,19 @@ pre {
     float: none;
     width: calc(100% - (30px / 2)); } }
 
+=======
+    width: -webkit-calc(50% - (30px / 2));
+    width: calc(50% - (30px / 2)); }
+
+  .footer-col-3 {
+    width: -webkit-calc(100% - (30px / 2));
+    width: calc(100% - (30px / 2)); } }
+@media screen and (max-width: 600px) {
+  .footer-col {
+    float: none;
+    width: -webkit-calc(100% - (30px / 2));
+    width: calc(100% - (30px / 2)); } }
+>>>>>>> 09585c9ece480ce6741040b669229f21f161b860
 /**
  * Page content
  */
