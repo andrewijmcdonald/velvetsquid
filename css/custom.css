@@ -1,0 +1,4 @@
+h3 {
+	padding-top:80px;
+}
+h3:first-child {padding-top:20px;}
