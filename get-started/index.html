@@ -2,13 +2,12 @@
 <html lang="en">
   <head>
 	
-		<title>404</title>
+		<title>Get Started</title>
 	
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	
-		<meta name="description" content="Velvet Squid is a Sydney based design studio focusing on creating pixel perfect digital media. If you are a small business owner with a killer idea, or an established brand looking for creative direction, we can help you bring your ideas to life in print, web, and digital media.
-">
+		<meta name="description" content="Experts in web & mobile, brand identity, creative direction, and innovation.">
 	
 	
 		<meta name="keywords" content="web, design, wordpress, creative director, innovation, brand identity, web design, web development, mobile apps">
@@ -27,20 +26,19 @@
 	<![endif]-->
 	<meta content="Velvet Squid - Experts in web & mobile, brand identity, creative direction, and innovation." property="og:site_name">
 	
-	  <meta content="404" property="og:title">
+	  <meta content="Get Started" property="og:title">
 	
 	
 	  <meta content="article" property="og:type">
 	
 	
-	  <meta content="Velvet Squid is a Sydney based design studio focusing on creating pixel perfect digital media. If you are a small business owner with a killer idea, or an established brand looking for creative direction, we can help you bring your ideas to life in print, web, and digital media.
-" property="og:description">
+	  <meta content="Experts in web & mobile, brand identity, creative direction, and innovation." property="og:description">
 	
 	
 	  <meta content="http://localhost:3000/images/bg/services.jpg" property="og:image">
 	
 	
-	  <meta content="http://localhost:3000/404.html" property="og:url">
+	  <meta content="http://localhost:3000/get-started/" property="og:url">
 	
 	
 	
@@ -97,29 +95,177 @@
       </div>
     </header>
   
+    <link rel="stylesheet" href="http://localhost:3000/css/ion.rangeSlider.css" />
+    <link rel="stylesheet" href="http://localhost:3000/css/ion.rangeSlider.skinFlat.css" />
+  
 
   <body>
   
-    <section id="error-404" class="parallax">
-  <div data-parallax="scroll" data-image-src="images/bg/12.jpg" class="parallax-bg"></div>
-  <div class="parallax-overlay">
-    <div class="centrize">
-      <div class="v-center">
-        <div class="container">
-          <div class="error-page"><i class="icon-sad"></i>
-            <div class="title">
-              <h2 class="mb-25 upper">Error 404<span class="red-dot"></span></h2>
-              <h4 class="upper">The requested page was not found on this server. That’s all we know.              </h4>
-            </div>
-            <!-- end of inline form    --><a href="#" class="btn btn-color">Back to the home</a>
-          </div>
-          <!-- end of error page-->
+    <script type="text/javascript" src="http://localhost:3000/js/jquery.js"></script>
+<section>
+    <div class="container">
+        <div class="title center">
+            <h4 class="upper">Let's work together.</h4>
+            <h2>Drop a Line<span class="red-dot"></span></h2>
+            <hr>
         </div>
-        <!-- end of container    -->
-      </div>
+        <div class="section-content">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+                    <div class="contact-form">
+                        <form id="contact-form" method="POST" action="mail.php">
+                            
+                            <h4>Please tell us a little about yourself.</h4>
+
+                            <div class="form-group">
+                                <input name="fullname" type="text" placeholder="Your Name" data-required="true" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <input name="business" type="text" placeholder="Business Name" data-required="true" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <input name="email" type="email" placeholder="Your Email" data-required="true" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <input name="phone" type="text" placeholder="Phone Number" class="form-control">
+                            </div>
+                            
+                            <hr></br>
+
+                            <h4>What can we build for you?</h4>
+
+                            <div class="form-group">
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" value="1">Website</label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" value="2">Branding</label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" value="1">E-Commerce</label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" value="2">Application</label>
+                            </div>
+
+                            <hr></br>
+
+                            <h4>What services are you intersted in?</h4>
+
+                            <div class="form-group">
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" value="1">Design</label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" value="2">Development</label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" value="1">Writing & SEO</label>
+                                <label class="checkbox-inline">
+                                    <input type="checkbox" value="2">Hosting & Maintenance</label>
+                            </div>
+                            
+                            </br><hr>
+
+                            <h4>What is your preferred timeline?</h4>
+                            <div>
+                                <input type="text" id="timeline" value="" name="timeline" />
+                            </div>
+
+                            </br>
+
+                            <h4>What is your budget?</h4>
+                            <div>
+                                <input type="text" id="budget" value="" name="budget" />
+                            </div>
+
+                            <hr><br>
+
+                            <h4>What are the details of your project?</h4>
+
+                            <div class="form-group">
+                                <textarea name="message" placeholder="Tell us about your project." data-required="true" class="form-control" rows="13"></textarea>
+                            </div>
+
+                            <br>
+
+                            <div class="form-group text-center">
+                                <button type="submit" class="btn btn-color">Send Message</button>
+                            </div>           
+
+                            <br>                
+                        </form>
+                    </div>
+                    <!-- end of contact form-->
+                </div>
+            </div>
+            <!-- end of row-->
+        </div>
+        <!-- end of section content-->
     </div>
-  </div>
 </section>
+<section class="p-0">
+    <div id="map" data-lat="40.773328" data-lang="-73.960088" class="full-width"></div>
+</section>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="icon-box-small"><i class="icon-map"></i>
+                    <hr>
+                    <h4>Address</h4>
+                    <p><span>Fourth Floor</span><span>76 Ninth Ave, New York</span>
+                    </p>
+                </div>
+                <!-- end of icon box-->
+            </div>
+            <div class="col-sm-4">
+                <div class="icon-box-small"><i class="icon-phone"></i>
+                    <hr>
+                    <h4>Phones</h4>
+                    <p><span>+12 212-568-999</span><span>+12 323-999-568</span>
+                    </p>
+                </div>
+                <!-- end of icon box-->
+            </div>
+            <div class="col-sm-4">
+                <div class="icon-box-small"><i class="icon-envelope"></i>
+                    <hr>
+                    <h4>E-mail</h4>
+                    <p><span>hello@comet.com</span><span>business@comet.com</span>
+                    </p>
+                </div>
+                <!-- end of icon box-->
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- All JS -->
+<script src="http://localhost:3000/js/ion.rangeSlider.min.js"></script>
+
+<script>
+
+    $("#budget").ionRangeSlider({
+        type: "double",
+        grid: true,
+        min: 5000,
+        max: 55000,
+        prefix: "$",
+        from: 20000,
+        to: 25000,
+        step: 2500,
+        max_postfix: "+"
+    });
+
+    $("#timeline").ionRangeSlider({
+        type: "double",
+        grid: true,
+        min: 1,
+        max: 12,
+        from: 3,
+        to: 4,
+        step: 1,
+        postfix: " months",
+        max_postfix: "+"
+    });
+
+</script>
 
     <!-- Footer-->
     <footer id="footer-widgets">

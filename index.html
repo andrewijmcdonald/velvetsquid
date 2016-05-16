@@ -20,7 +20,6 @@
 	<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Halant:300,400" rel="stylesheet" type="text/css">
 	<link rel="shortcut icon" href="http://localhost:3000/favicon.ico" type="image/x-icon" />
-	<script src="//load.sumome.com/" data-sumo-site-id="5ca5a75cbecfab83aea90b3d7adeccc517005b58031f6a9b989ff9007ff9b908" async="async"></script>
 	<!--[if lt IE 9]>
 	  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
@@ -73,14 +72,6 @@
             <img src="http://localhost:3000/images/logo_dark-vs.png" alt="" class="logo-dark">
           </a>
         </div>
-        <div class="menu-extras">
-          <div class="menu-item">
-            <a class="navbar-toggle">
-              <div class="lines"><span></span><span></span><span></span>
-              </div>
-            </a>
-          </div>  
-        </div>
         <div id="navigation" data-onepage="true">
           <ul class="navigation-menu nav">
             <li><a href="/#home" data-scroll="true">Home</a>
@@ -96,6 +87,8 @@
             <!-- <li><a href="blog-side" data-scroll="true">Blog</a>
             </li> -->
             <li><a href="/#contact" data-scroll="true">Contact</a>
+            </li>
+            <li id="menu-button"><a href="/get-started/" data-scroll="true">Get Started</a>
             </li>
           </ul>
         </div>
@@ -146,7 +139,7 @@
         <!-- end of section content-->
       </div>
       <!-- end of container-->
-    </section>  
+    </section> 
     <section id="services" class="p-0">
       <div class="container-fluid">
         <div class="row">
@@ -169,10 +162,32 @@
             <div class="services">
               <div class="row">
                 <div class="col-sm-6 border-bottom border-right">
-                  <div class="service"><i class="icon-focus"></i><span class="back-icon"><i class="icon-focus"></i></span>
+                  <div class="service"><i class="icon-mobile"></i><span class="back-icon"><i class="icon-mobile"></i></span>
                     <h4>Web & Mobile</h4>
                     <hr>
-                    <p class="alt-paragraph">Our team are experts are creating everything from basic business website, e-commerce stores, and mobile apps.</p>
+                    <p class="alt-paragraph">Our team are experts are creating everything from basic business website to complex mobile apps.</p>
+                    <br>
+                    <a href="#" class="btn btn-color btn-sm">Learn more</a>
+                  </div>
+                  <!-- end of service-->
+                </div>
+                <div class="col-sm-6 border-bottom">
+                  <div class="service"><i class="icon-basket"></i><span class="back-icon"><i class="icon-basket"></i></span>
+                    <h4>E-Commerce</h4>
+                    <hr>
+                    <p class="alt-paragraph">We create custom ecommerce sites that will move your merchandise fast and effectively.</p>
+                    <br>
+                    <a href="#" class="btn btn-color btn-sm">Learn more</a>
+                  </div>
+                  <!-- end of service-->
+                </div>
+               <div class="col-sm-6 border-bottom border-right">
+                  <div class="service"><i class="icon-heart"></i><span class="back-icon"><i class="icon-heart"></i></span>
+                    <h4>Wordpress Care</h4>
+                    <hr>
+                    <p class="alt-paragraph">Whether it's updates, security, performance problems, theme & plugin issues, we're here to help.</p>
+                    <br>
+                    <a href="#" class="btn btn-color btn-sm">Learn more</a>
                   </div>
                   <!-- end of service-->
                 </div>
@@ -181,22 +196,8 @@
                     <h4>Brand Identity</h4>
                     <hr>
                     <p class="alt-paragraph">We do more than just create slick looking logos and letterheads, we help build your brand.</p>
-                  </div>
-                  <!-- end of service-->
-                </div>
-                <div class="col-sm-6 border-bottom border-right">
-                  <div class="service"><i class="icon-mobile"></i><span class="back-icon"><i class="icon-mobile"></i></span>
-                    <h4>Corporate Media</h4>
-                    <hr>
-                    <p class="alt-paragraph">Stop boring people with your Powerpoint and Keynote presentation. We can grab your audiences attention.</p>
-                  </div>
-                  <!-- end of service-->
-                </div>
-                <div class="col-sm-6 border-bottom">
-                  <div class="service"><i class="icon-globe"></i><span class="back-icon"><i class="icon-globe"></i></span>
-                    <h4>Video</h4>
-                    <hr>
-                    <p class="alt-paragraph">Video is the hottest thing right now on the internet. We build teasers and idents that engage with your audience.</p>
+                    <br>
+                    <a href="#" class="btn btn-color btn-sm">Learn more</a>
                   </div>
                   <!-- end of service-->
                 </div>
@@ -640,12 +641,23 @@
     </footer>
     <!-- end of footer-->
     
-
     <script type="text/javascript" src="http://localhost:3000/js/jquery.js"></script>
     <script type="text/javascript" src="http://localhost:3000/js/bundle.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
     <script type="text/javascript" src="http://localhost:3000/js/main.js"></script>
-  
+    
+    
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-77795020-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+    
   </body>
 
 </html>

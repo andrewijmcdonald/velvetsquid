@@ -1,4 +1,37 @@
-h3 {
-	padding-top:80px;
+#blog-post h3 {
+    padding-top: 80px;
 }
-h3:first-child {padding-top:20px;}
+
+#blog-post h3:first-child {
+    padding-top: 20px;
+}
+
+li#menu-button {
+    background-color: #EF2D56;
+    font-weight: 600;
+    color: white!important;
+}
+
+label.checkbox-inline {
+    width: 48%;
+    margin: 10px 0!important;
+}
+
+.form-group label {
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #555 padding: 18px 24px;
+}
+
+.irs-min,
+.irs-max {
+    font-size: 13px;
+}
+
+.irs-from,
+.irs-to,
+.irs-single {
+    font-size: 13px;
+}

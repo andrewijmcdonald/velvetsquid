@@ -20,7 +20,6 @@
 	<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Halant:300,400" rel="stylesheet" type="text/css">
 	<link rel="shortcut icon" href="http://localhost:3000/favicon.ico" type="image/x-icon" />
-	<script src="//load.sumome.com/" data-sumo-site-id="5ca5a75cbecfab83aea90b3d7adeccc517005b58031f6a9b989ff9007ff9b908" async="async"></script>
 	<!--[if lt IE 9]>
 	  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
@@ -113,6 +112,8 @@
   
   <!-- Disqus code -->
     
+
+    <script type="text/javascript" src="http://localhost:3000/js/jquery.js"></script>
 
   <body>
 
@@ -296,7 +297,20 @@
     <script type="text/javascript" src="http://localhost:3000/js/bundle.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
     <script type="text/javascript" src="http://localhost:3000/js/main.js"></script>
-  
+    
+    
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-77795020-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+    
+
   </body>
 
 </html>
