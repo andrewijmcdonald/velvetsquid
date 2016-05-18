@@ -35,3 +35,11 @@ label.checkbox-inline {
 .irs-single {
     font-size: 13px;
 }
+
+.services a.btn.btn-color.btn-sm {
+    z-index: 99999;
+}
+
+#care .col-md-4.col-sm-6 {
+    min-height: 176px;
+}

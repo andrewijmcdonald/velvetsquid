@@ -1,51 +1,1122 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <title type="text" xml:lang="en">Blog 1</title>
-    <link type="application/atom+xml" href="http://www.example.com/blog1/atom.xml" rel="self"/>
-    <link type="text" href="http://garron.me" rel="alternate"/>
-    <updated>2016-05-18T16:54:30+10:00</updated>
-    <id>http://example.com</id>
-    <author>
-        <name>Guillermo Garron</name>
-    </author>
-    <rights>Copyright (c) 2010-2011 Guillermo Garron</rights>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Velvet Squid - Experts in web &amp; mobile, brand identity, creative direction, and innovation.</title>
+    <description>Velvet Squid is a Sydney based design studio focusing on creating pixel perfect digital media. If you are a small business owner with a killer idea, or an established brand looking for creative direction, we can help you bring your ideas to life in print, web, and digital media.
+</description>
+    <link>http://velvetsquid.com/</link>
+    <atom:link href="http://velvetsquid.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 18 May 2016 22:43:43 +1000</pubDate>
+    <lastBuildDate>Wed, 18 May 2016 22:43:43 +1000</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
     
+      <item>
+        <title>2016 Web Design Trends you need to consider for your site</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/1.jpg&quot; alt=&quot;Mobile usage infographic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae ut ratione similique temporibus tempora dicta soluta? Qui hic, voluptatem nemo quo corporis dignissimos voluptatum debitis cumque fugiat mollitia quasi quod. Repudiandae possimus quas odio nisi optio asperiores, vitae error laudantium, ratione odit ipsa obcaecati debitis deleniti minus, illo maiores placeat omnis magnam.&lt;/p&gt;
+
+&lt;p&gt;Modi perferendis ipsa, dolorum eaque accusantium! Velit libero fugit dolores repellendus consequatur nisi, deserunt aperiam a ea ex hic, iusto atque, quas. Aliquam rerum dolores saepe sunt, assumenda voluptas.&lt;/p&gt;
+
+&lt;p&gt;Ipsa in adipisci eius qui quos minima ratione velit reprehenderit fuga deleniti amet quidem commodi ducimus.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 May 2016 19:28:25 +1000</pubDate>
+        <link>http://velvetsquid.com/blog/2016-web-design-trends.html</link>
+        <guid isPermaLink="true">http://velvetsquid.com/blog/2016-web-design-trends.html</guid>
+        
+        <category>web</category>
+        
+        <category>design</category>
+        
+        <category>trends</category>
+        
+        <category>2016</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
+      <item>
+        <title>Stop boring people to death with your presenatations</title>
+        <description>&lt;h3 id=&quot;you-are-using-too-much&quot;&gt;You are using too much&lt;/h3&gt;
+
+&lt;p&gt;Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Cras dapibus. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Vivamus quis mi. Cras ultricies mi eu turpis hendrerit fringilla.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Nullam quis ante. Phasellus nec sem in justo pellentesque facilisis. Cras sagittis. Duis lobortis massa imperdiet quam.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque libero tortor, tincidunt et, tincidunt eget, semper nec, quam. Etiam rhoncus. Vivamus in erat ut urna cursus vestibulum. Ut tincidunt tincidunt erat.&lt;/p&gt;
+
+&lt;p&gt;http://www.forbes.com/sites/kathryndill/2015/06/12/five-ways-to-stop-boring-people-to-death-with-your-data-presentations/#12b2539c78f2
+http://www.forbes.com/sites/kathryndill/2014/05/01/never-give-a-boring-presentation-again/#5e325e3523dc
+http://blog.hubspot.com/marketing/presentation-design-tips#sm.001lgooxy156fe6exog2a78qx0k6c&lt;/p&gt;
+
+&lt;h3 id=&quot;stop-thinking-you-cant-design&quot;&gt;Stop thinking you can’t design&lt;/h3&gt;
+
+&lt;p&gt;Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Cras dapibus. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Vivamus quis mi. Cras ultricies mi eu turpis hendrerit fringilla.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Nullam quis ante. Phasellus nec sem in justo pellentesque facilisis. Cras sagittis. Duis lobortis massa imperdiet quam.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque libero tortor, tincidunt et, tincidunt eget, semper nec, quam. Etiam rhoncus. Vivamus in erat ut urna cursus vestibulum. Ut tincidunt tincidunt erat.&lt;/p&gt;
+
+&lt;h3 id=&quot;tell-a-story-instead-of-regurgitating-information&quot;&gt;Tell a story instead of regurgitating information&lt;/h3&gt;
+
+&lt;p&gt;Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Cras dapibus. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Vivamus quis mi. Cras ultricies mi eu turpis hendrerit fringilla.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Nullam quis ante. Phasellus nec sem in justo pellentesque facilisis. Cras sagittis. Duis lobortis massa imperdiet quam.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque libero tortor, tincidunt et, tincidunt eget, semper nec, quam. Etiam rhoncus. Vivamus in erat ut urna cursus vestibulum. Ut tincidunt tincidunt erat.&lt;/p&gt;
+
+&lt;h3 id=&quot;times-new-roman-is-not-the-only-font&quot;&gt;Times New Roman is not the only font&lt;/h3&gt;
+
+&lt;p&gt;Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Cras dapibus. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Vivamus quis mi. Cras ultricies mi eu turpis hendrerit fringilla.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Nullam quis ante. Phasellus nec sem in justo pellentesque facilisis. Cras sagittis. Duis lobortis massa imperdiet quam.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-stock-photos-that-dont-suck&quot;&gt;Use stock photos that don’t suck&lt;/h3&gt;
+
+&lt;p&gt;Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Cras dapibus. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Vivamus quis mi. Cras ultricies mi eu turpis hendrerit fringilla.&lt;/p&gt;
+
+&lt;h3 id=&quot;bullet-points-trigger-daydreaming&quot;&gt;Bullet points trigger daydreaming&lt;/h3&gt;
+
+&lt;p&gt;Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Cras dapibus. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Vivamus quis mi. Cras ultricies mi eu turpis hendrerit fringilla.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 May 2016 19:28:25 +1000</pubDate>
+        <link>http://velvetsquid.com/blog/stop-boring-people-to-death.html</link>
+        <guid isPermaLink="true">http://velvetsquid.com/blog/stop-boring-people-to-death.html</guid>
+        
+        <category>presentations</category>
+        
+        <category>design</category>
+        
+        <category>powerpoint</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
+      <item>
+        <title>testing</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/1.jpg&quot; alt=&quot;Mobile usage infographic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae ut ratione similique temporibus tempora dicta soluta? Qui hic, voluptatem nemo quo corporis dignissimos voluptatum debitis cumque fugiat mollitia quasi quod. Repudiandae possimus quas odio nisi optio asperiores, vitae error laudantium, ratione odit ipsa obcaecati debitis deleniti minus, illo maiores placeat omnis magnam.&lt;/p&gt;
+
+&lt;p&gt;Modi perferendis ipsa, dolorum eaque accusantium! Velit libero fugit dolores repellendus consequatur nisi, deserunt aperiam a ea ex hic, iusto atque, quas. Aliquam rerum dolores saepe sunt, assumenda voluptas.&lt;/p&gt;
+
+&lt;p&gt;Ipsa in adipisci eius qui quos minima ratione velit reprehenderit fuga deleniti amet quidem commodi ducimus.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 May 2016 19:28:25 +1000</pubDate>
+        <link>http://velvetsquid.com/blog/testing.html</link>
+        <guid isPermaLink="true">http://velvetsquid.com/blog/testing.html</guid>
+        
+        <category>web</category>
+        
+        <category>design</category>
+        
+        <category>trends</category>
+        
+        <category>2016</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
+      <item>
+        <title>6 Reasons Your Website Needs to be Mobile Optimised</title>
+        <description>&lt;h3 id=&quot;everyone-is-on-mobile-now&quot;&gt;1. Everyone is on mobile now.&lt;/h3&gt;
+
+&lt;p&gt;1.2 billion people are accessing the web on mobile devices these days. An an incredible 80% of all internet users use a mobile device. So, in other words, it’s critical that your website is optimised for your potential visitors.&lt;/p&gt;
+
+&lt;p&gt;This trend is mobile use is snowballing too, so the sooner your get setup correctly for mobile users, the better your business will perform.&lt;/p&gt;
+
+&lt;h3 id=&quot;over-50-of-web-traffic-is-now-mobile&quot;&gt;2. Over 50% of web traffic is now mobile.&lt;/h3&gt;
+
+&lt;p&gt;You want to increase web traffic to your site right? Who doesn’t.&lt;/p&gt;
+
+&lt;p&gt;As of May 2014, mobile media consumption was 21% higher that that of desktop, accounting for 51% of all digital media consumption.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/mobile-infographic.jpg&quot; alt=&quot;Mobile usage infographic&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;responsive-design-is-preferred-for-seo&quot;&gt;3. Responsive design is preferred for SEO.&lt;/h3&gt;
+
+&lt;p&gt;In June 2012, at SMX Advanced, Google’s Pierre Farr went on the record to declare that Google prefers responsive web design over mobile templates. Having one single URL makes it easier for Google bot to crawl your site as well as reduces the chance of on-page SEO errors. For these reasons, responsive sites typically perform better and are easier to maintain than a separate, mobile-template site.&lt;/p&gt;
+
+&lt;h3 id=&quot;mobile-users-behave-a-bit-differently&quot;&gt;4. Mobile users behave a bit differently&lt;/h3&gt;
+
+&lt;p&gt;Mobile users tend to consume a disproportionately high amount of visual media, with a major focus of image and videos.&lt;/p&gt;
+
+&lt;p&gt;Making sure you capture this audience requires an optimsed design to engage these users.&lt;/p&gt;
+
+&lt;h3 id=&quot;mobile-users-buy-more&quot;&gt;5. Mobile users buy more.&lt;/h3&gt;
+
+&lt;p&gt;It’s a big call, but it’s completely true. Across devices, mobile users actually spend more than their desktop couterparts.&lt;/p&gt;
+
+&lt;p&gt;If you are attempting to sell something below $10, mobile users are your ideal audience.&lt;/p&gt;
+
+&lt;h3 id=&quot;google-rewards-mobile-responsiveness&quot;&gt;6. Google rewards mobile responsiveness&lt;/h3&gt;
+
+&lt;p&gt;For some time now, Google has rewarded sites that are mobile responsive.&lt;/p&gt;
+
+&lt;p&gt;With Google’s latest major algorithm update, the company enacted significant penalties for websites failing to meet its standards for mobile friendliness. While this change wasn’t quite the “mobile-geddon” SEO’s predicted, it did create some waves, with mobile friendly pages taking much less of a hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;its-time-to-get-mobile&quot;&gt;It’s time to get mobile&lt;/h3&gt;
+
+&lt;p&gt;If your website is not optimised for mobile, you are being punished by Google, you are losing valuable customer leads, and you are harming your business potential.&lt;/p&gt;
+
+&lt;p&gt;The best part is, optimising your website for mobile is very simple and there are countless resources out there for you to implement. If you need a little help, make sure to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#118;&amp;#101;&amp;#108;&amp;#118;&amp;#101;&amp;#116;&amp;#115;&amp;#113;&amp;#117;&amp;#105;&amp;#100;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;contact our team&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 May 2016 19:28:25 +1000</pubDate>
+        <link>http://velvetsquid.com/blog/6-reasons-website-needs-to-be-mobile-optimised.html</link>
+        <guid isPermaLink="true">http://velvetsquid.com/blog/6-reasons-website-needs-to-be-mobile-optimised.html</guid>
+        
+        <category>mobile</category>
+        
+        <category>web</category>
+        
+        <category>optimised</category>
+        
+        <category>seo</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
+      <item>
+        <title>Brand Identity</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/1.jpg&quot; alt=&quot;Mobile usage infographic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae ut ratione similique temporibus tempora dicta soluta? Qui hic, voluptatem nemo quo corporis dignissimos voluptatum debitis cumque fugiat mollitia quasi quod. Repudiandae possimus quas odio nisi optio asperiores, vitae error laudantium, ratione odit ipsa obcaecati debitis deleniti minus, illo maiores placeat omnis magnam.&lt;/p&gt;
+
+&lt;p&gt;Modi perferendis ipsa, dolorum eaque accusantium! Velit libero fugit dolores repellendus consequatur nisi, deserunt aperiam a ea ex hic, iusto atque, quas. Aliquam rerum dolores saepe sunt, assumenda voluptas.&lt;/p&gt;
+
+&lt;p&gt;Ipsa in adipisci eius qui quos minima ratione velit reprehenderit fuga deleniti amet quidem commodi ducimus.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 May 2016 19:28:25 +1000</pubDate>
+        <link>http://velvetsquid.com/services/brand-identity.html</link>
+        <guid isPermaLink="true">http://velvetsquid.com/services/brand-identity.html</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
     
+      <item>
+        <title>Wordpress Care</title>
+        <description>&lt;!-- Header --&gt;
+&lt;section class=&quot;page-title parallax&quot;&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/5.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+            &lt;div class=&quot;v-center&quot;&gt;
+                &lt;div class=&quot;container&quot;&gt;
+                    &lt;div class=&quot;title center&quot;&gt;
+                        &lt;h1 class=&quot;upper&quot;&gt;Wordpress Care&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                        &lt;h4&gt;Whether it&#39;s updates, security, performance problems, theme &amp; plugin issues, we&#39;re here to help.&lt;/h4&gt;
+                        &lt;hr&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;!-- end of container--&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section id=&quot;about&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h4 class=&quot;upper&quot;&gt;Start growing your business&lt;/h4&gt;
+          &lt;h2&gt;A team you can trust&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+              &lt;p class=&quot;lead-text serif text-center&quot;&gt;Stop worrying about your Wordpress site. You need to focus on your business instead of worrying about Wordpress updates, security, performance issues, and theme &amp; plugin bugs. &lt;p&gt;
+
+			&lt;p class=&quot;lead-text serif text-center&quot;&gt;Over the years our team have developed a range of in-house to make sure our client websites are safe, secure, optimised, and backed up perfectly. &lt;/p&gt;
+
+			&lt;p class=&quot;lead-text serif text-center&quot;&gt;If you want peace of mind, then simply select one of our Wordpress Care packages and stop adding to your workload and daily stress.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+
+&lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h4 class=&quot;upper&quot;&gt;The Ultimate Wordpress Care Package.&lt;/h4&gt;
+          &lt;h2&gt;Stress Free&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div id=&quot;care&quot; class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-layers&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;Automatic Backups&lt;/h4&gt;
+                &lt;p&gt;Lorem ipsum dolor sit amet, ete elit consectetur adipisicing. Omnis quae, ipsam impedit eius, vero.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-scissors&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;24/7 Monitoring&lt;/h4&gt;
+                &lt;p&gt;Lorem ipsum dolor sit amet, ete elit consectetur adipisicing. Omnis quae, ipsam impedit eius, vero.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-mobile&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;Optimisation&lt;/h4&gt;
+                &lt;p&gt;Web pages with ad servers and third party widgets load snappy on both mobile and computers.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-trophy&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;Security&lt;/h4&gt;
+                &lt;p&gt;Protect your website from online threats with our enterprise-grade Website Application Firewall (WAF).&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-hotairballoon&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;DDoS Protection&lt;/h4&gt;
+                &lt;p&gt;Ensure your website is protected against DDoS attacks using our advanced service.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-lock&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;DNS&lt;/h4&gt;
+                &lt;p&gt;We use one of the fastest DNS services. It is global, powerful, and always secure.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-lock&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;Time Machine&lt;/h4&gt;
+                &lt;p&gt;We use one of the fastest DNS services. It is global, powerful, and always secure.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-lock&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;Daily Monitoring&lt;/h4&gt;
+                &lt;p&gt;We use one of the fastest DNS services. It is global, powerful, and always secure.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-lock&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;Restore Site&lt;/h4&gt;
+                &lt;p&gt;We use one of the fastest DNS services. It is global, powerful, and always secure.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-lock&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;Wordpress Support&lt;/h4&gt;
+                &lt;p&gt;We use one of the fastest DNS services. It is global, powerful, and always secure.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-lock&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;Software Updates&lt;/h4&gt;
+                &lt;p&gt;We use one of the fastest DNS services. It is global, powerful, and always secure.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+              &lt;div class=&quot;icon-box-basic&quot;&gt;&lt;i class=&quot;icon-lock&quot;&gt;&lt;/i&gt;
+                &lt;h4&gt;Fast Support&lt;/h4&gt;
+                &lt;p&gt;We use one of the fastest DNS services. It is global, powerful, and always secure.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+&lt;section class=&quot;parallax&quot;&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;parallax-overlay pb-50 pt-50&quot;&gt;
+        &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;title center&quot;&gt;
+                &lt;h3&gt;What They Say&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+                &lt;hr&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;section-content&quot;&gt;
+                &lt;div id=&quot;testimonials-slider&quot; data-options=&quot;{&amp;quot;animation&amp;quot;: &amp;quot;slide&amp;quot;, &amp;quot;controlNav&amp;quot;: true}&quot; class=&quot;flexslider nav-outside&quot;&gt;
+                    &lt;div class=&quot;flex-viewport&quot; style=&quot;overflow: hidden; position: relative;&quot;&gt;
+                        &lt;ol class=&quot;slides&quot; style=&quot;width: 800%; transition-duration: 1s; transform: translate3d(-1400px, 0px, 0px);&quot;&gt;
+                            &lt;li class=&quot;&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
+                                &lt;blockquote&gt;
+                                    &lt;p&gt;&quot;Thanks to your help we made front page of the Sydney Morning Herald and it&#39;s been well received on twitter!&quot;&lt;/p&gt;
+                                    &lt;footer&gt;Melissa Fuller - Rice Warner.&lt;/footer&gt;
+                                &lt;/blockquote&gt;
+                            &lt;/li&gt;
+                            &lt;li class=&quot;&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
+                                &lt;blockquote&gt;
+                                    &lt;p&gt;&quot;The site looks so good! I think I&#39;m going to cry.&quot;&lt;/p&gt;
+                                    &lt;footer&gt;Karen Gregory - LJ Hooker&lt;/footer&gt;
+                                &lt;/blockquote&gt;
+                            &lt;/li&gt;
+                            &lt;li class=&quot;clone&quot; aria-hidden=&quot;true&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
+                                &lt;blockquote&gt;
+                                    &lt;p&gt;&quot;We could not be happier with the results of the iPad app.&quot;&lt;/p&gt;
+                                    &lt;footer&gt;Jay Macnish - Vanguard Investments&lt;/footer&gt;
+                                &lt;/blockquote&gt;
+                            &lt;/li&gt;
+                        &lt;/ol&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+        &lt;/div&gt;
+&lt;/section&gt;
+
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h4 class=&quot;upper&quot;&gt;We grow with your business.&lt;/h4&gt;
+          &lt;h2&gt;Prices&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-4&quot;&gt;
+              &lt;div class=&quot;pricing-table&quot;&gt;
+                &lt;div class=&quot;pricing-head&quot;&gt;&lt;i class=&quot;icon-lock&quot;&gt;&lt;/i&gt;
+                  &lt;h4 class=&quot;upper&quot;&gt;Starter&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;price&quot;&gt;
+                  &lt;h2&gt;&lt;span&gt;$&lt;/span&gt;59&lt;span&gt;/m&lt;/span&gt;&lt;/h2&gt;
+                &lt;/div&gt;
+                &lt;ul class=&quot;features nav&quot;&gt;
+                  &lt;li&gt;Cloud Backups&lt;/li&gt;
+                  &lt;li&gt;Wordpress Update Management&lt;/li&gt;
+                  &lt;li&gt;24/7 Monitoring&lt;/li&gt;
+                  &lt;li&gt;Hack Cleanups&lt;/li&gt;
+                  &lt;li&gt;Support Desk Access&lt;/li&gt;
+                  &lt;li&gt;Time Machine&lt;/li&gt;
+                &lt;/ul&gt;
+                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://velvetsquid.com/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;!-- end of pricing table--&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4&quot;&gt;
+              &lt;div class=&quot;pricing-table featured&quot;&gt;
+                &lt;div class=&quot;pricing-head&quot;&gt;&lt;i class=&quot;icon-globe&quot;&gt;&lt;/i&gt;
+                  &lt;h4 class=&quot;upper&quot;&gt;Professional&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;price&quot;&gt;
+                  &lt;h2&gt;&lt;span&gt;$&lt;/span&gt;250&lt;span&gt;/m&lt;/span&gt;&lt;/h2&gt;
+                &lt;/div&gt;
+                &lt;ul class=&quot;features nav&quot;&gt;
+                  &lt;li&gt;&lt;strong&gt;Starter Pack Plus:&lt;/strong&gt;&lt;/li&gt;
+                  &lt;li&gt;2 hours development per month&lt;/li&gt;
+                  &lt;li&gt;Performance Optimisation&lt;/li&gt;
+                  &lt;li&gt;Speed Boost&lt;/li&gt;
+                  &lt;li&gt;Priority Support&lt;/li&gt;
+                  &lt;li&gt;Uptime Monitoring&lt;/li&gt;
+                  &lt;li&gt;Staging Environment&lt;/li&gt;
+                &lt;/ul&gt;
+                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://velvetsquid.com/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;!-- end of pricing table--&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-4&quot;&gt;
+              &lt;div class=&quot;pricing-table&quot;&gt;
+                &lt;div class=&quot;pricing-head&quot;&gt;&lt;i class=&quot;icon-trophy&quot;&gt;&lt;/i&gt;
+                  &lt;h4 class=&quot;upper&quot;&gt;Premium&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;price&quot;&gt;
+                  &lt;h2&gt;&lt;span&gt;$&lt;/span&gt;960&lt;span&gt;+/m&lt;/span&gt;&lt;/h2&gt;
+                &lt;/div&gt;
+                &lt;ul class=&quot;features nav&quot;&gt;
+                  &lt;li&gt;&lt;strong&gt;Pro Pack Plus:&lt;/strong&gt;&lt;/li&gt;
+                  &lt;li&gt;Phone Support&lt;/li&gt;
+                  &lt;li&gt;Dedicated Development Hours&lt;/li&gt;
+                  &lt;li&gt;Professional Consultation&lt;/li&gt;
+                  &lt;li&gt;Version Control&lt;/li&gt;
+                  &lt;li&gt;Uptime Monitoring&lt;/li&gt;
+                  &lt;li&gt;Service Level Agreement&lt;/li&gt;
+                &lt;/ul&gt;
+                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://velvetsquid.com/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;!-- end of pricing table--&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
     
+   
+&lt;section&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;title center&quot;&gt;
+      &lt;h4 class=&quot;upper&quot;&gt;Let&#39;s work together.&lt;/h4&gt;
+      &lt;h2&gt;Contact Us&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+      &lt;hr&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;section-content&quot;&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2&quot;&gt;
+          &lt;div class=&quot;contact-form&quot;&gt;
+            &lt;form id=&quot;contact-form&quot; method=&quot;POST&quot; action=&quot;https://formspree.io/hello@velvetsquid.com&quot;&gt;
+              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;http://velvetsquid.com/thanks.html&quot; /&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;input name=&quot;fullname&quot; type=&quot;text&quot; placeholder=&quot;Your Name&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;input name=&quot;email&quot; type=&quot;email&quot; placeholder=&quot;Your Email&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;input name=&quot;phone&quot; type=&quot;text&quot; placeholder=&quot;Phone Number&quot; class=&quot;form-control&quot;&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;textarea name=&quot;message&quot; placeholder=&quot;Message&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;&lt;/textarea&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group text-center&quot;&gt;
+                &lt;button type=&quot;submit&quot; class=&quot;btn btn-color&quot;&gt;Send Message&lt;/button&gt;
+              &lt;/div&gt;
+            &lt;/form&gt;
+          &lt;/div&gt;
+          &lt;!-- end of contact form--&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;!-- end of row--&gt;
+    &lt;/div&gt;
+    &lt;!-- end of section content--&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+ &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/services/ecommerce.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;http://velvetsquid.com/services/&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/services/brand-identity.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Tue, 03 May 2016 19:28:25 +1000</pubDate>
+        <link>http://velvetsquid.com/services/wordpress-care.html</link>
+        <guid isPermaLink="true">http://velvetsquid.com/services/wordpress-care.html</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
     
+      <item>
+        <title>E-Commerce</title>
+        <description>&lt;!-- Header --&gt;
+&lt;section class=&quot;page-title parallax&quot;&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/5.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+            &lt;div class=&quot;v-center&quot;&gt;
+                &lt;div class=&quot;container&quot;&gt;
+                    &lt;div class=&quot;title center&quot;&gt;
+                        &lt;h1 class=&quot;upper&quot;&gt;E-Commerce&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                        &lt;h4&gt;We create custom ecommerce sites that will move your merchandise fast and effectively.&lt;/h4&gt;
+                        &lt;hr&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;!-- end of container--&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+            &lt;h4 class=&quot;upper&quot;&gt;We have the tools&lt;/h4&gt;
+            &lt;h2&gt;Start Selling&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+            &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+              &lt;p class=&quot;lead-text serif text-center&quot;&gt;Looking to sell and accept payments online? You&#39;ve come to the right place. Our team is based in Australia so you can be confident that you will receive the best service from a home grown team.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+                &lt;div class=&quot;col-sm-4&quot;&gt;
+                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-genius&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-genius&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+                        &lt;hr&gt;
+                        &lt;h4&gt;Custom Solutions&lt;/h4&gt;
+                        &lt;p class=&quot;alt-paragraph&quot;&gt;Our developers have experience with all the most popular payment processing systems, which makes us confident we can integrate with all of the third-party resources you know and love to sell your products. &lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;!-- end of icon box--&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-sm-4&quot;&gt;
+                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-gears&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-gears&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+                        &lt;hr&gt;
+                        &lt;h4&gt;Magneto&lt;/h4&gt;
+                        &lt;p class=&quot;alt-paragraph&quot;&gt;Magento tends to be popular with larger businesses or agencies who manage e-commerce sites on behalf of clients. Magento is scalable, so it’s perfect for those with grand plans or an existing successful online store.&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;!-- end of icon box--&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-sm-4&quot;&gt;
+                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-puzzle&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-puzzle&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+                        &lt;hr&gt;
+                        &lt;h4&gt;WooCommerce&lt;/h4&gt;
+                        &lt;p class=&quot;alt-paragraph&quot;&gt;WooCommerce through WordPress is perfect for smaller businesses. It does the job of selling your products and as you grow, you can add the many plugins available to build a better experience for your customer. &lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;!-- end of icon box--&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+    &lt;/div&gt;
+    &lt;!-- end of container--&gt;
+&lt;/section&gt;
+
+
+&lt;section class=&quot;parallax&quot;&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;parallax-overlay pb-50 pt-50&quot;&gt;
+        &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;title center&quot;&gt;
+                &lt;h3&gt;What They Say&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+                &lt;hr&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;section-content&quot;&gt;
+                &lt;div id=&quot;testimonials-slider&quot; data-options=&quot;{&amp;quot;animation&amp;quot;: &amp;quot;slide&amp;quot;, &amp;quot;controlNav&amp;quot;: true}&quot; class=&quot;flexslider nav-outside&quot;&gt;
+                    &lt;div class=&quot;flex-viewport&quot; style=&quot;overflow: hidden; position: relative;&quot;&gt;
+                        &lt;ol class=&quot;slides&quot; style=&quot;width: 800%; transition-duration: 1s; transform: translate3d(-1400px, 0px, 0px);&quot;&gt;
+                            &lt;li class=&quot;&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
+                                &lt;blockquote&gt;
+                                    &lt;p&gt;&quot;Thanks to your help we made front page of the Sydney Morning Herald and it&#39;s been well received on twitter!&quot;&lt;/p&gt;
+                                    &lt;footer&gt;Melissa Fuller - Rice Warner.&lt;/footer&gt;
+                                &lt;/blockquote&gt;
+                            &lt;/li&gt;
+                            &lt;li class=&quot;&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
+                                &lt;blockquote&gt;
+                                    &lt;p&gt;&quot;The site looks so good! I think I&#39;m going to cry.&quot;&lt;/p&gt;
+                                    &lt;footer&gt;Karen Gregory - LJ Hooker&lt;/footer&gt;
+                                &lt;/blockquote&gt;
+                            &lt;/li&gt;
+                            &lt;li class=&quot;clone&quot; aria-hidden=&quot;true&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
+                                &lt;blockquote&gt;
+                                    &lt;p&gt;&quot;We could not be happier with the results of the iPad app.&quot;&lt;/p&gt;
+                                    &lt;footer&gt;Jay Macnish - Vanguard Investments&lt;/footer&gt;
+                                &lt;/blockquote&gt;
+                            &lt;/li&gt;
+                        &lt;/ol&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+        &lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;title center&quot;&gt;
+      &lt;h4 class=&quot;upper&quot;&gt;Let&#39;s work together.&lt;/h4&gt;
+      &lt;h2&gt;Contact Us&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+      &lt;hr&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;section-content&quot;&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2&quot;&gt;
+          &lt;div class=&quot;contact-form&quot;&gt;
+            &lt;form id=&quot;contact-form&quot; method=&quot;POST&quot; action=&quot;https://formspree.io/hello@velvetsquid.com&quot;&gt;
+              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;http://velvetsquid.com/thanks.html&quot; /&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;input name=&quot;fullname&quot; type=&quot;text&quot; placeholder=&quot;Your Name&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;input name=&quot;email&quot; type=&quot;email&quot; placeholder=&quot;Your Email&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;input name=&quot;phone&quot; type=&quot;text&quot; placeholder=&quot;Phone Number&quot; class=&quot;form-control&quot;&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;textarea name=&quot;message&quot; placeholder=&quot;Message&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;&lt;/textarea&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group text-center&quot;&gt;
+                &lt;button type=&quot;submit&quot; class=&quot;btn btn-color&quot;&gt;Send Message&lt;/button&gt;
+              &lt;/div&gt;
+            &lt;/form&gt;
+          &lt;/div&gt;
+          &lt;!-- end of contact form--&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;!-- end of row--&gt;
+    &lt;/div&gt;
+    &lt;!-- end of section content--&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/services/web-mobile.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;http://velvetsquid.com/services/&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/services/wordpress-care.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+</description>
+        <pubDate>Mon, 02 May 2016 19:28:25 +1000</pubDate>
+        <link>http://velvetsquid.com/services/ecommerce.html</link>
+        <guid isPermaLink="true">http://velvetsquid.com/services/ecommerce.html</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
     
+      <item>
+        <title>Web and Mobile</title>
+        <description>&lt;!-- Header --&gt;
+&lt;section class=&quot;page-title parallax&quot;&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/5.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+            &lt;div class=&quot;v-center&quot;&gt;
+                &lt;div class=&quot;container&quot;&gt;
+                    &lt;div class=&quot;title center&quot;&gt;
+                        &lt;h1 class=&quot;upper&quot;&gt;Web and Mobile&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                        &lt;h4&gt;Our team are experts at creating everything from basic business websites to complex mobile apps.&lt;/h4&gt;
+                        &lt;hr&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;!-- end of container--&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+            &lt;h4 class=&quot;upper&quot;&gt;We speak your language.&lt;/h4&gt;
+            &lt;h2&gt;The Full Stack&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+            &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+                &lt;div class=&quot;col-sm-4&quot;&gt;
+                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+                        &lt;hr&gt;
+                        &lt;h4&gt;Websites&lt;/h4&gt;
+                        &lt;p class=&quot;alt-paragraph&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure pariatur ex rerum laudantium accusamus ab ut quidem ducimus veniam eveniet, voluptate.&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;!-- end of icon box--&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-sm-4&quot;&gt;
+                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-mobile&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-mobile&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+                        &lt;hr&gt;
+                        &lt;h4&gt;Mobile Apps&lt;/h4&gt;
+                        &lt;p class=&quot;alt-paragraph&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure pariatur ex rerum laudantium accusamus ab ut quidem ducimus veniam eveniet, voluptate.&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;!-- end of icon box--&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-sm-4&quot;&gt;
+                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-cloud&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-cloud&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+                        &lt;hr&gt;
+                        &lt;h4&gt;Hosting &amp; Support&lt;/h4&gt;
+                        &lt;p class=&quot;alt-paragraph&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure pariatur ex rerum laudantium accusamus ab ut quidem ducimus veniam eveniet, voluptate.&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;!-- end of icon box--&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+    &lt;/div&gt;
+    &lt;!-- end of container--&gt;
+&lt;/section&gt;
+&lt;section id=&quot;about&quot;&gt;
+    &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+                &lt;div class=&quot;title center mb-50&quot;&gt;
+                    &lt;h4 class=&quot;upper&quot;&gt;Built for you.&lt;/h4&gt;
+                    &lt;h2&gt;The Product&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+                    &lt;hr&gt;
+                    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum ut alias ullam tempore nobis asperiores corporis velit rem blanditiis! Ipsum facere, quae distinctio tempore, quas fugiat labore. Aliquid officiis, porro.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+                &lt;img src=&quot;http://velvetsquid.com/images/services/desktop.png&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+    &lt;/div&gt;
+    &lt;!-- end of container--&gt;
+&lt;/section&gt;
+&lt;section id=&quot;features&quot;&gt;
+    &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+            &lt;h4 class=&quot;upper&quot;&gt;The right mix.&lt;/h4&gt;
+            &lt;h2&gt;Features&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+            &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content mt-50&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+                &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
+                    &lt;div class=&quot;text-box txt-md-right txt-xs-center pr-15 pl-15&quot;&gt;
+                        &lt;h4&gt;Responsive&lt;/h4&gt;
+                        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolores. Eum laudantium.&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;text-box txt-md-right txt-xs-center pr-15 pl-15&quot;&gt;
+                        &lt;h4&gt;Cloud Server&lt;/h4&gt;
+                        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolores. Eum laudantium.&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;text-box txt-md-right txt-xs-center pr-15 pl-15&quot;&gt;
+                        &lt;h4&gt;Optimisation&lt;/h4&gt;
+                        &lt;p&gt;Web pages with ad servers and third party widgets load snappy on both mobile and computers.&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;text-box txt-md-right txt-xs-center pr-15 pl-15&quot;&gt;
+                        &lt;h4&gt;Performance Focused&lt;/h4&gt;
+                        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolores. Eum laudantium.&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-md-4 col-sm-6 text-center&quot;&gt;
+                    &lt;div class=&quot;row&quot;&gt;
+                        &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+                            &lt;img src=&quot;http://velvetsquid.com/images/services/iphone.png&quot; alt=&quot;&quot;&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;!-- end of row--&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-md-4 visible-md visible-lg&quot;&gt;
+                    &lt;div class=&quot;text-box pr-15 pl-15&quot;&gt;
+                        &lt;h4&gt;Security&lt;/h4&gt;
+                        &lt;p&gt;Protect your website from online threats with our enterprise-grade Website Application Firewall (WAF).&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;text-box pr-15 pl-15&quot;&gt;
+                        &lt;h4&gt;99.99% Uptime SLA&lt;/h4&gt;
+                        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolores. Eum laudantium.&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;text-box pr-15 pl-15&quot;&gt;
+                        &lt;h4&gt;Collaborative&lt;/h4&gt;
+                        &lt;p&gt;We work closely with all our clients making sure to keep them involved at every stage of the build process.&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;text-box pr-15 pl-15&quot;&gt;
+                        &lt;h4&gt;Production Ready&lt;/h4&gt;
+                        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolores. Eum laudantium.&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+    &lt;/div&gt;
+    &lt;!-- end of container            --&gt;
+&lt;/section&gt;
+&lt;section class=&quot;parallax&quot;&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;parallax-overlay pb-50 pt-50&quot;&gt;
+        &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;title center&quot;&gt;
+                &lt;h3&gt;What They Say&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+                &lt;hr&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;section-content&quot;&gt;
+                &lt;div id=&quot;testimonials-slider&quot; data-options=&quot;{&amp;quot;animation&amp;quot;: &amp;quot;slide&amp;quot;, &amp;quot;controlNav&amp;quot;: true}&quot; class=&quot;flexslider nav-outside&quot;&gt;
+                    &lt;div class=&quot;flex-viewport&quot; style=&quot;overflow: hidden; position: relative;&quot;&gt;
+                        &lt;ol class=&quot;slides&quot; style=&quot;width: 800%; transition-duration: 1s; transform: translate3d(-1400px, 0px, 0px);&quot;&gt;
+                            &lt;li class=&quot;&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
+                                &lt;blockquote&gt;
+                                    &lt;p&gt;&quot;Thanks to your help we made front page of the Sydney Morning Herald and it&#39;s been well received on twitter!&quot;&lt;/p&gt;
+                                    &lt;footer&gt;Melissa Fuller - Rice Warner.&lt;/footer&gt;
+                                &lt;/blockquote&gt;
+                            &lt;/li&gt;
+                            &lt;li class=&quot;&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
+                                &lt;blockquote&gt;
+                                    &lt;p&gt;&quot;The site looks so good! I think I&#39;m going to cry.&quot;&lt;/p&gt;
+                                    &lt;footer&gt;Karen Gregory - LJ Hooker&lt;/footer&gt;
+                                &lt;/blockquote&gt;
+                            &lt;/li&gt;
+                            &lt;li class=&quot;clone&quot; aria-hidden=&quot;true&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
+                                &lt;blockquote&gt;
+                                    &lt;p&gt;&quot;We could not be happier with the results of the iPad app.&quot;&lt;/p&gt;
+                                    &lt;footer&gt;Jay Macnish - Vanguard Investments&lt;/footer&gt;
+                                &lt;/blockquote&gt;
+                            &lt;/li&gt;
+                        &lt;/ol&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+        &lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;title center&quot;&gt;
+      &lt;h4 class=&quot;upper&quot;&gt;Let&#39;s work together.&lt;/h4&gt;
+      &lt;h2&gt;Contact Us&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+      &lt;hr&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;section-content&quot;&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2&quot;&gt;
+          &lt;div class=&quot;contact-form&quot;&gt;
+            &lt;form id=&quot;contact-form&quot; method=&quot;POST&quot; action=&quot;https://formspree.io/hello@velvetsquid.com&quot;&gt;
+              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;http://velvetsquid.com/thanks.html&quot; /&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;input name=&quot;fullname&quot; type=&quot;text&quot; placeholder=&quot;Your Name&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;input name=&quot;email&quot; type=&quot;email&quot; placeholder=&quot;Your Email&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;input name=&quot;phone&quot; type=&quot;text&quot; placeholder=&quot;Phone Number&quot; class=&quot;form-control&quot;&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group&quot;&gt;
+                &lt;textarea name=&quot;message&quot; placeholder=&quot;Message&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;&lt;/textarea&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;form-group text-center&quot;&gt;
+                &lt;button type=&quot;submit&quot; class=&quot;btn btn-color&quot;&gt;Send Message&lt;/button&gt;
+              &lt;/div&gt;
+            &lt;/form&gt;
+          &lt;/div&gt;
+          &lt;!-- end of contact form--&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;!-- end of row--&gt;
+    &lt;/div&gt;
+    &lt;!-- end of section content--&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+ &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;#&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;http://velvetsquid.com/services/&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/services/ecommerce.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Tue, 02 Feb 2016 20:28:25 +1100</pubDate>
+        <link>http://velvetsquid.com/services/web-mobile.html</link>
+        <guid isPermaLink="true">http://velvetsquid.com/services/web-mobile.html</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
     
+      <item>
+        <title>Tyroe - Marketing Landing Pages</title>
+        <description>&lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/tyroe-ipad.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;Tyroe - Marketing&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;Promotional landing page and videos, business cards, and branding.&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;about&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+              &lt;p class=&quot;lead-text serif text-center&quot;&gt;The client required a full suite of marketing material for their SAAS product. The landing pages were used to build their Mailchimp Newsletter. Two promotional videos were created in-house to drive traffic to the Tyroe website. Business cards, brochures, and stickers were designed and printed for use at various live events.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section style=&quot;background-color: #e8e8e8; padding-bottom: 120px;&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;media-video&quot;&gt;
+          &lt;iframe width=&quot;1140&quot; height=&quot;641&quot; src=&quot;https://www.youtube.com/embed/vXUy0cfiROU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+          &lt;div style=&quot;position: absolute; bottom: -57px;width: 100%;text-align: center;&quot;&gt;Promotional video used to showcase the benefits of the service and encourage pre-registrations.&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;b-1&quot;&gt;
+      &lt;div class=&quot;container stacked&quot;&gt;
+        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe-landing-01.png&quot; alt=&quot;&quot;&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;simple-parallax&quot; style=&quot;height:640px&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/tyroe-business-cards.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section style=&quot;background-color:#DEDEDE&quot;&gt;
+      &lt;div class=&quot;container stacked&quot;&gt;
+        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe-landing-02.png&quot; alt=&quot;&quot;&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+     &lt;section class=&quot;b-1&quot;&gt;
+      &lt;div class=&quot;container stacked&quot;&gt;
+        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe-brochure-01.jpg&quot; alt=&quot;&quot;&gt;
+        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe_mockup.jpg&quot; alt=&quot;&quot;&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+   
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/promo-video.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;#&quot; class=&quot;prev&quot;&gt;&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Thu, 14 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://velvetsquid.com/tyroe-marketing.html</link>
+        <guid isPermaLink="true">http://velvetsquid.com/tyroe-marketing.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
     
+      <item>
+        <title>Promotional Videos</title>
+        <description>    &lt;section class=&quot;page-title parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/promo-cover.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;parallax-overlay&quot;&gt;
+        &lt;div class=&quot;centrize&quot;&gt;
+          &lt;div class=&quot;v-center&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+              &lt;div class=&quot;title center&quot;&gt;
+                &lt;h1 class=&quot;upper&quot;&gt;Promo Video&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
+                &lt;h4&gt;Annual promotional videos to engage community.&lt;/h4&gt;
+                &lt;hr&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of container--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;intro&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;The Rookies&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+              &lt;p class=&quot;lead-text serif text-center&quot;&gt;The Rookies (formerly the CG Student Awards) use our team annually to get the word out to their fans and build some hype. Each year, the videos need to be fast paced, engaging, and informative.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- end of row--&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;media-video&quot;&gt;
+          &lt;iframe src=&quot;https://player.vimeo.com/video/153838098&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;media-video&quot;&gt;
+          &lt;iframe src=&quot;https://player.vimeo.com/video/88405518&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;simple-parallax&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/promo-parallax.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;controllers p-0&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;projects-controller&quot;&gt;
+		
+			&lt;a href=&quot;/ricewarner.html&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;/a&gt;
+		 
+			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
+				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		
+			&lt;a href=&quot;/tyroe-marketing.html&quot; class=&quot;next&quot;&gt;
+				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+			&lt;/a&gt;
+		 
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Mon, 11 Jan 2016 20:28:25 +1100</pubDate>
+        <link>http://velvetsquid.com/promo-video.html</link>
+        <guid isPermaLink="true">http://velvetsquid.com/promo-video.html</guid>
+        
+        
+        <category>Portfolio</category>
+        
+      </item>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-</feed>
+  </channel>
+</rss>
