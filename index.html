@@ -84,8 +84,8 @@
             </li>
             <li><a href="/#clients" data-scroll="true">Clients</a>
             </li>
-            <!-- <li><a href="blog-side" data-scroll="true">Blog</a>
-            </li> -->
+            <li><a href="/blog" data-scroll="true">Blog</a>
+            </li>
             <li><a href="/#contact" data-scroll="true">Contact</a>
             </li>
             <li id="menu-button"><a href="/get-started/" data-scroll="true">Get Started</a>
@@ -165,7 +165,7 @@
                   <div class="service"><i class="icon-mobile"></i><span class="back-icon"><i class="icon-mobile"></i></span>
                     <h4>Web & Mobile</h4>
                     <hr>
-                    <p class="alt-paragraph">Our team are experts are creating everything from basic business website to complex mobile apps.</p>
+                    <p class="alt-paragraph">Our team are experts at creating everything from basic business websites to complex mobile apps.</p>
                     <br>
                     <a href="#" class="btn btn-color btn-sm">Learn more</a>
                   </div>
@@ -493,6 +493,90 @@
       </div>
       <!-- end of container-->
     </section>
+    <section class="parallax">
+      <div data-parallax="scroll" data-image-src="images/bg/16.jpg" class="parallax-bg"></div>
+      <div class="parallax-overlay pb-50 pt-50">
+        <div class="container">
+          <div class="title center">
+            <h3>What They Say<span class="red-dot"></span></h3>
+            <hr>
+          </div>
+          <div class="section-content">
+            <div id="testimonials-slider" data-options="{&quot;animation&quot;: &quot;slide&quot;, &quot;controlNav&quot;: true}" class="flexslider nav-outside">
+                <div class="flex-viewport" style="overflow: hidden; position: relative;">
+                    <ol class="slides" style="width: 800%; transition-duration: 0s; transform: translate3d(-1400px, 0px, 0px);">
+                        <li class="" style="width: 700px; float: left; display: block;">
+                            <blockquote>
+                                <p>"Thanks to your help we made front page of the Sydney Morning Herald and it's been well received on twitter!"</p>
+                                <footer>Melissa Fuller - Rice Warner.</footer>
+                            </blockquote>
+                        </li>
+                        <li class="" style="width: 700px; float: left; display: block;">
+                            <blockquote>
+                                <p>"The site looks so good! I think I'm going to cry."</p>
+                                <footer>Karen Gregory - LJ Hooker</footer>
+                            </blockquote>
+                        </li>
+                        <li class="clone" aria-hidden="true" style="width: 700px; float: left; display: block;">
+                            <blockquote>
+                                <p>"We could not be happier with the results of the iPad app."</p>
+                                <footer>Jay Macnish - Vanguard Investments</footer>
+                            </blockquote>
+                        </li>
+                      </ol>
+                </div>
+            </div>
+        </div>
+        <!-- end of container-->
+      </div>
+    </section>
+    <section>
+      <div class="container">
+        <div class="title center">
+          <h4 class="upper">We have a few tips for you.</h4>
+          <h2>The Blog<span class="red-dot"></span></h2>
+          <hr>
+        </div>
+        <div class="section-content">
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+              
+                
+                  <div class="blog-post">
+                      <div class="post-body">
+                          <h3 class="serif"><a href="/blog/2016-web-design-trends.html">2016 Web Design Trends you need to consider for your site</a></h3>
+                          <hr>
+                          <p class="serif"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae ut ratione similique temporibus tempora dicta soluta? Qui hic, voluptatem nemo quo corporis dignissimos voluptatum debitis cumque fugiat mollitia quasi quod.... </p>
+                          <div class="post-info upper"><a href="/blog/2016-web-design-trends.html">Read More</a><span class="pull-right black-text">May 16, 2016</span>
+                          </div>
+                      </div>
+                      <!-- end of blog post-->
+                  </div>
+                
+                  <div class="blog-post">
+                      <div class="post-body">
+                          <h3 class="serif"><a href="/blog/stop-boring-people-to-death.html">Stop boring people to death with your presenatations</a></h3>
+                          <hr>
+                          <p class="serif"> You are using too much Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Cras dapibus. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Vivamus quis mi.... </p>
+                          <div class="post-info upper"><a href="/blog/stop-boring-people-to-death.html">Read More</a><span class="pull-right black-text">May 15, 2016</span>
+                          </div>
+                      </div>
+                      <!-- end of blog post-->
+                  </div>
+                
+              
+            </div>
+          </div>
+          <!-- end of row-->
+          <div class="clearfix"></div>
+          <div class="mt-25">
+            <p class="text-center"><a href="http://localhost:3000/blog/" class="btn btn-color-out">View Full Blog          </a>
+            </p>
+          </div>
+        </div>
+        <!-- end of container-->
+      </div>
+    </section>
     <section id="contact">
       <div class="container-fluid">
         <div class="row">
@@ -513,7 +597,8 @@
             </div>
             <div class="section-content">
               <div class="contact-form">
-                <form id="contact-form" method="POST" action="mail.php">
+                <form id="contact-form" method="POST" action="https://formspree.io/hello@velvetsquid.com">
+                <input type="hidden" name="_next" value="http://localhost:3000/thanks.html" />
                   <div class="form-group">
                     <input name="fullname" type="text" placeholder="Your Name" data-required="true" class="form-control">
                   </div>

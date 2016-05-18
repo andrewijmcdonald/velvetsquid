@@ -67,71 +67,61 @@
     <header id="topnav">
       <div class="container">
         <div class="logo">
-          <a href="/">
+          <a href="index.html">
             <img src="http://localhost:3000/images/logo_light-vs.png" alt="" class="logo-light">
             <img src="http://localhost:3000/images/logo_dark-vs.png" alt="" class="logo-dark">
           </a>
         </div>
-        <div class="menu-extras">
-          <div class="menu-item">
-            <a class="navbar-toggle">
-              <div class="lines"><span></span><span></span><span></span>
-              </div>
-            </a>
-          </div>  
-        </div>
         <div id="navigation" data-onepage="true">
           <ul class="navigation-menu nav">
-            <li><a href="http://localhost:3000/" data-scroll="true">Home</a>
+            <li><a href="/#home" data-scroll="true">Home</a>
             </li>
-            <li><a href="http://localhost:3000/#intro" data-scroll="true">About</a>
+            <li><a href="/#intro" data-scroll="true">About</a>
             </li>
-            <li><a href="http://localhost:3000/#services" data-scroll="true">Services</a>
+            <li><a href="/#services" data-scroll="true">Services</a>
             </li>
-            <li><a href="http://localhost:3000/#portfolio" data-scroll="true">Works</a>
+            <li><a href="/#portfolio" data-scroll="true">Works</a>
             </li>
-            <li><a href="http://localhost:3000/#clients" data-scroll="true">Clients</a>
+            <li><a href="/#clients" data-scroll="true">Clients</a>
             </li>
-            <!-- <li><a href="#" data-scroll="true">Blog</a>
-            </li> -->
-            <li><a href="http://localhost:3000/#contact" data-scroll="true">Contact</a>
+            <li><a href="/blog" data-scroll="true">Blog</a>
+            </li>
+            <li><a href="/#contact" data-scroll="true">Contact</a>
+            </li>
+            <li id="menu-button"><a href="/get-started/" data-scroll="true">Get Started</a>
             </li>
           </ul>
         </div>
       </div>
     </header>
   
-  <!-- Disqus code -->
-    
-
-    <script type="text/javascript" src="http://localhost:3000/js/jquery.js"></script>
 
   <body>
-
-        <!-- Home Section-->
-    <section id="home">
-      <!-- Home slider-->
-      <div id="home-slider" class="flexslider">
-        <ul class="slides">
-          <li>
-            <img src="images/bg/banner-home-3.jpg" alt="">
-            <div class="slide-wrap">
-              <div class="slide-content text-left bold-text">
+  
+    <section id="home" class="splash parallax">
+  <div data-parallax="scroll" data-image-src="images/bg/banner-home-3.jpg" class="parallax-bg"></div>
+    <div class="centrize">
+        <div class="v-center">
+            <div class="slide-content text-left bold-text">
                 <div class="container">
-                  <h1>Thanks for<br>contacting us!<span class="red-dot"></span></h1>
-                  <h6>We will get back to you promptly.</h6>
-                  <p><a href="/index.html" data-scroll="true" class="btn btn-color btn-full">Back Home</a>
-                  </p>
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <h1>Thanks for<br>contacting us!<span class="red-dot"></span></h1>
+                            <h6>We will get back to you promptly.</h6>
+                            <p><a href="http://localhost:3000" data-scroll="true" class="btn btn-color btn-full">Back Home</a>
+                            </p>
+                        </div>
+                    </div>
                 </div>
-              </div>
             </div>
-          </li>
-        </ul>
-      </div>
-      <!-- end of home slider-->
-    </section>
-    
-    
+            <!-- end of row-->
+        </div>
+        <!-- end of container-->
+    </div>
+  </div>
+</section>
+
+
     <!-- Footer-->
     <footer id="footer-widgets">
       <div class="container">
@@ -231,7 +221,6 @@
     </footer>
     <!-- end of footer-->
     
-
     <script type="text/javascript" src="http://localhost:3000/js/jquery.js"></script>
     <script type="text/javascript" src="http://localhost:3000/js/bundle.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
@@ -249,7 +238,6 @@
     ga('send', 'pageview');
   </script>
     
-
   </body>
 
 </html>

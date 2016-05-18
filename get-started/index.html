@@ -84,8 +84,8 @@
             </li>
             <li><a href="/#clients" data-scroll="true">Clients</a>
             </li>
-            <!-- <li><a href="blog-side" data-scroll="true">Blog</a>
-            </li> -->
+            <li><a href="/blog" data-scroll="true">Blog</a>
+            </li>
             <li><a href="/#contact" data-scroll="true">Contact</a>
             </li>
             <li id="menu-button"><a href="/get-started/" data-scroll="true">Get Started</a>
@@ -113,7 +113,7 @@
             <div class="row">
                 <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
                     <div class="contact-form">
-                        <form id="contact-form" method="POST" action="mail.php">
+                        <form id="contact-form" method="POST" action="https://formspree.io/hello@velvetsquid.com">
                             
                             <h4>Please tell us a little about yourself.</h4>
 
@@ -136,13 +136,13 @@
 
                             <div class="form-group">
                                 <label class="checkbox-inline">
-                                    <input type="checkbox" value="1">Website</label>
+                                    <input type="checkbox" name="build[]" value="build1">Website</label>
                                 <label class="checkbox-inline">
-                                    <input type="checkbox" value="2">Branding</label>
+                                    <input type="checkbox" name="build[]" value="build2">Branding</label>
                                 <label class="checkbox-inline">
-                                    <input type="checkbox" value="1">E-Commerce</label>
+                                    <input type="checkbox" name="build[]" value="build3">E-Commerce</label>
                                 <label class="checkbox-inline">
-                                    <input type="checkbox" value="2">Application</label>
+                                    <input type="checkbox" name="build[]" value="build4">Application</label>
                             </div>
 
                             <hr></br>
@@ -151,13 +151,13 @@
 
                             <div class="form-group">
                                 <label class="checkbox-inline">
-                                    <input type="checkbox" value="1">Design</label>
+                                    <input type="checkbox" name="service[]" value="service1">Design</label>
                                 <label class="checkbox-inline">
-                                    <input type="checkbox" value="2">Development</label>
+                                    <input type="checkbox" name="service[]" value="service2">Development</label>
                                 <label class="checkbox-inline">
-                                    <input type="checkbox" value="1">Writing & SEO</label>
+                                    <input type="checkbox" name="service[]" value="service3">Writing & SEO</label>
                                 <label class="checkbox-inline">
-                                    <input type="checkbox" value="2">Hosting & Maintenance</label>
+                                    <input type="checkbox" name="service[]" value="service4">Hosting & Maintenance</label>
                             </div>
                             
                             </br><hr>
@@ -200,7 +200,7 @@
     </div>
 </section>
 <section class="p-0">
-    <div id="map" data-lat="40.773328" data-lang="-73.960088" class="full-width"></div>
+    <div id="map" data-lat="-33.831606" data-lang="151.186326" class="full-width"></div>
 </section>
 <section>
     <div class="container">
@@ -209,7 +209,7 @@
                 <div class="icon-box-small"><i class="icon-map"></i>
                     <hr>
                     <h4>Address</h4>
-                    <p><span>Fourth Floor</span><span>76 Ninth Ave, New York</span>
+                    <p><span>Unit 5404</span><span>1 Nield Avenue, Greenwich NSW</span>
                     </p>
                 </div>
                 <!-- end of icon box-->
@@ -217,8 +217,8 @@
             <div class="col-sm-4">
                 <div class="icon-box-small"><i class="icon-phone"></i>
                     <hr>
-                    <h4>Phones</h4>
-                    <p><span>+12 212-568-999</span><span>+12 323-999-568</span>
+                    <h4>Phone</h4>
+                    <p><span>+61 (0) 410 75 6000</span>
                     </p>
                 </div>
                 <!-- end of icon box-->
@@ -227,7 +227,7 @@
                 <div class="icon-box-small"><i class="icon-envelope"></i>
                     <hr>
                     <h4>E-mail</h4>
-                    <p><span>hello@comet.com</span><span>business@comet.com</span>
+                    <p><span>hello@velvetsquid.com</span>
                     </p>
                 </div>
                 <!-- end of icon box-->
@@ -235,6 +235,7 @@
         </div>
     </div>
 </section>
+
 
 <!-- All JS -->
 <script src="http://localhost:3000/js/ion.rangeSlider.min.js"></script>
