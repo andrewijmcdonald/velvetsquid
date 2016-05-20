@@ -1,5 +1,5 @@
 #blog-post h3 {
-    padding-top: 80px;
+    padding-top: 40px;
 }
 
 #blog-post h3:first-child {
@@ -42,4 +42,9 @@ label.checkbox-inline {
 
 #care .col-md-4.col-sm-6 {
     min-height: 176px;
+}
+
+.blog-post {
+    position: relative;
+    margin-bottom: 60px;
 }
