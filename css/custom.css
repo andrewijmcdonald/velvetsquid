@@ -24,7 +24,19 @@ label.checkbox-inline {
     text-transform: uppercase;
     color: #555 padding: 18px 24px;
 }
+/* case study */
+section.splash.blue:after {
+    background-color: #18afd3;
+}
+.progress {
+    height: 5px;
+}
 
+.skill.scores{
+    width: 30%;
+    margin: 0 auto;
+}
+/* */
 .irs-min,
 .irs-max {
     font-size: 13px;
@@ -47,4 +59,10 @@ label.checkbox-inline {
 .blog-post {
     position: relative;
     margin-bottom: 60px;
+}
+
+@media (max-width: 991px) {
+    .page-title .title h1.upper {
+        font-size: 2em;
+    }
 }
