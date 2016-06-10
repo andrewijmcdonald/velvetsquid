@@ -4,11 +4,276 @@
     <title>Velvet Squid - Experts in web &amp; mobile, brand identity, creative direction, and innovation.</title>
     <description>Velvet Squid is a Sydney based design studio focusing on creating pixel perfect digital media. If you are a small business owner with a killer idea, or an established brand looking for creative direction, we can help you bring your ideas to life in print, web, and digital media.
 </description>
-    <link>http://velvetsquid.com/</link>
-    <atom:link href="http://velvetsquid.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jun 2016 15:05:44 +1000</pubDate>
-    <lastBuildDate>Wed, 01 Jun 2016 15:05:44 +1000</lastBuildDate>
+    <link>http://localhost:3000/</link>
+    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 10 Jun 2016 17:29:03 +1000</pubDate>
+    <lastBuildDate>Fri, 10 Jun 2016 17:29:03 +1000</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Casestudy - Designing a better small business website</title>
+        <description>    &lt;!-- Home Section--&gt;
+    &lt;section id=&quot;home&quot; class=&quot;splash parallax blue&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;centrize&quot;&gt;
+        &lt;div class=&quot;v-center&quot;&gt;
+          &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+              &lt;div class=&quot;col-md-8&quot;&gt;
+                &lt;div class=&quot;title&quot;&gt;
+                  &lt;h2 class=&quot;fw-400&quot;&gt;Casestudy - Designing a better small business website&lt;/h2&gt;
+                  &lt;p&gt;This month our design team reviews and overhauls a highly reputable Sydney based dentist at &lt;a href=&quot;http://www.dentistonpaxton.com.au&quot; target=&quot;_blank&quot; style=&quot;color:#fff; font-weight:600;&quot;&gt;http://www.dentistonpaxton.com.au&lt;/a&gt;&lt;/p&gt;
+                  &lt;p&gt;&lt;a href=&quot;#about&quot; data-scroll=&quot;true&quot; class=&quot;btn btn-light-out btn-round&quot;&gt;See more&lt;i class=&quot;ti-control-play&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of row--&gt;
+          &lt;/div&gt;
+          &lt;!-- end of container--&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- end of home section--&gt;
+    &lt;section id=&quot;about&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;div class=&quot;title center mb-50&quot;&gt;
+              &lt;h4 class=&quot;upper&quot;&gt;Team review and scores.&lt;/h4&gt;
+              &lt;h2&gt;First Impressions&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+              &lt;hr&gt;
+              &lt;p&gt;The user experience was outdated, a little confusing, and didn&#39;t reflect the same quality of service as presented at the surgery.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;experience&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+            &lt;ul class=&quot;timeline&quot;&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Design&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 10%;&quot;&gt;26&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;26&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Typical Layout and Design&lt;/h4&gt;
+                  &lt;p&gt;The design is &lt;stong&gt;very typical of a dentist website&lt;/stong&gt;. Standard menu items. Lack of clear call to actions. Lots of text and stock photos. &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Branding&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 20%;&quot;&gt;23&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;23&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Safe and Suitable&lt;/h4&gt;
+                  &lt;p&gt;The logo design and general branding of the business is actually &lt;strong&gt;quite suitable&lt;/strong&gt;. The logo can work at both small and large scale. The word &quot;dentist&quot; would benefit from standing out more from the curved shape to make it easier to read.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;User Experience&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 15%;&quot;&gt;29&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;29&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Confusing and Cluttered&lt;/h4&gt;
+                  &lt;p&gt;Customers have a goal when they find a website. They want to find out key information, determine if the service can be trusted, learn about the people behing the business, and make contact quickly and easily. This website attempts these goals, but &lt;strong&gt;makes a number of basic mistakes&lt;/strong&gt; that hinders this goal.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Technology&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 5%;&quot;&gt;28&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;28&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;PHP&lt;/h4&gt;
+                  &lt;p&gt;The website is built on a PHP framework which is a &lt;strong&gt;good solution&lt;/strong&gt;. However, it could benefit hugely from a Content Management System like Wordpress to really take thing to the next level. The server configurement and &lt;strong&gt;lack of a cloud-based server&lt;/strong&gt; is a concern. The speed is also a major concern.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Social&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 15%;&quot;&gt;56&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;56&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Facebook&lt;/h4&gt;
+                  &lt;p&gt;The Facebook page is a good decision for this company, and it &lt;strong&gt;makes a great first impression.&lt;/strong&gt; This is the most successful approach to contacting customers to offer deals and provide updates - excellent work.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;!-- end of timeline--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;Performance&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;h4&gt;Score 22/30&lt;/h4&gt;
+          &lt;div class=&quot;skill scores&quot;&gt;
+            &lt;div class=&quot;progress report perf-seo&quot;&gt;
+              &lt;div role=&quot;progressbar&quot; data-progress=&quot;73&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;Optimising your website&#39;s performance is crucial to increasing traffic, improving conversion rates, generating more leads, and increasing revenue.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/dentist-on-paxton-score.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+    
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;SEO&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;h4&gt;Score 25/30&lt;/h4&gt;
+          &lt;div class=&quot;skill scores&quot;&gt;
+            &lt;div class=&quot;progress report perf-seo&quot;&gt;
+              &lt;div role=&quot;progressbar&quot; data-progress=&quot;83&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;Making sure your website is easy for users to discover — and easy for search bots to understand—with better page titles, headings, and meta descriptions.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;services&quot; class=&quot;dark&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;&lt;i class=&quot;icon-linegraph&quot;&gt;&lt;/i&gt;
+          &lt;h3&gt;Recommended Improvements&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+
+                    &lt;div class=&quot;col-sm-4&quot;&gt;
+                        &lt;div class=&quot;item&quot;&gt;
+                            &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt;
+                                &lt;h4&gt;Web Development&lt;/h4&gt;
+                                &lt;p&gt;Revamp website to improve first impressions. With so many similar websites there is nothing making this site stand above the rest.&lt;/p&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;col-sm-4&quot;&gt;
+                        &lt;div class=&quot;item&quot;&gt;
+                            &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-newspaper&quot;&gt;&lt;/i&gt;
+                                &lt;h4&gt;Booking System&lt;/h4&gt;
+                                &lt;p&gt;Upgrade contact form technology and use an integrated booking system to help convert customer leads.&lt;/p&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;col-sm-4&quot;&gt;
+                        &lt;div class=&quot;item&quot;&gt;
+                            &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-facebook&quot;&gt;&lt;/i&gt;
+                                &lt;h4&gt;Content&lt;/h4&gt;
+                                &lt;p&gt;Add a simple blog to help improve SEO ranking and attract organic traffic. Use this to help show the staff are Key People of Influence.&lt;/p&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+               
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;b-1&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;Design Concept&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;The designs below show a concept design that we feel would dramatically improve the online sales lead generation of potential customers. The key features include obvious call-to-actions, an advanced booking system, featured services, customer testimonials, success stories, and a price list that get&#39;s straight to the point.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;div class=&quot;project-detail&quot;&gt;
+              &lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt;Casestudy - Designing a better small business website&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;30 May, 2016&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+              &lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;Having recently looked for a dentist in Sydney, I jumped online like everyone does. After a while I discoverd Casestudy - Designing a better small business website via a simple Google search. My first impressions were pretty typical of other competitor websites that I found. &lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;My goal for this challenge was to design a fresh and engaging website. More importantly I wanted to implement a booking system, powerful customer onboarding tools, and provide a clear marketing plan for the business to leverage off.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;</description>
+        <pubDate>Sat, 28 May 2016 19:28:25 +1000</pubDate>
+        <link>http://localhost:3000/blog/designing-a-better-small-business-website.html</link>
+        <guid isPermaLink="true">http://localhost:3000/blog/designing-a-better-small-business-website.html</guid>
+        
+        <category>web</category>
+        
+        <category>design</category>
+        
+        <category>trends</category>
+        
+        <category>2016</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>2016 Web Design Trends you need to consider for your site</title>
@@ -18,31 +283,31 @@
 
 &lt;h3 id=&quot;the-hamburger-menu&quot;&gt;The hamburger menu&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/hamburger.gif&quot; alt=&quot;Hamburge menu&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/hamburger.gif&quot; alt=&quot;Hamburge menu&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Love it or hate it, the hamburger menu is still going strong in 2016. It’s extremely recognisable and it’s clean. Users are more familiar with this little three lined icon and until a new solution gains momentum their will be hamburgers everywhere.&lt;/p&gt;
 
 &lt;h3 id=&quot;long-scroll&quot;&gt;Long Scroll&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/long-scroll.jpg&quot; alt=&quot;Long scroll websites&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/long-scroll.jpg&quot; alt=&quot;Long scroll websites&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Placing all your important elements above the fold is now a well-known myth. Furthermore, almost everyone is accustomed to long scrolls thanks to mobile devices. The technique works especially well for sites that want to lure users through storytelling, and you can still mimic a multi-page site by breaking the scroll into clear sections.&lt;/p&gt;
 
 &lt;h3 id=&quot;card-layouts&quot;&gt;Card layouts&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/card-layout.jpg&quot; alt=&quot;Card layouts&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/card-layout.jpg&quot; alt=&quot;Card layouts&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Those little rectangles full of inclusive images and text have been so successful in Web design that they’ve almost become a default option when it comes to balancing clear aesthetics with simple usability. But don’t mistake trendiness for usefulness – there’s a reason cards are so popular.&lt;/p&gt;
 
 &lt;h3 id=&quot;hero-video-headers&quot;&gt;Hero Video Headers&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/video.jpg&quot; alt=&quot;Hero Video Headers&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/video.jpg&quot; alt=&quot;Hero Video Headers&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Websites design is going to the movies. Higher speed Internet connections and better video plugin integration is making it easier for more websites to include an immersive movie-style experience. Video clips are growing from small snippets to almost full-length preview clips. The images are sharp, crisp and in high definition, creating a video experience online that is new to users, but familiar from other devices, such as televisions.&lt;/p&gt;
 
 &lt;h3 id=&quot;illustration-and-sketches&quot;&gt;Illustration and Sketches&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/sketch.jpg&quot; alt=&quot;Hero Video Headers&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/sketch.jpg&quot; alt=&quot;Hero Video Headers&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Illustrations and sketches bring a fun element of whimsy to a site design. They can work for sites of all types and aren’t just for children anymore. The illustration style has also started to grow in popularity when it comes to some of the smaller pieces of website design as well, such as icons and other user interface elements. What’s nice about this trend is that illustrations make a site feel a little more personal. Because an illustration or sketch style icon appears to be hand-drawn, it looks and feels personal for users. That can go a long way into creating a connection with them.&lt;/p&gt;
 
@@ -54,8 +319,8 @@
 
 </description>
         <pubDate>Mon, 16 May 2016 19:28:25 +1000</pubDate>
-        <link>http://velvetsquid.com/blog/2016-web-design-trends.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/blog/2016-web-design-trends.html</guid>
+        <link>http://localhost:3000/blog/2016-web-design-trends.html</link>
+        <guid isPermaLink="true">http://localhost:3000/blog/2016-web-design-trends.html</guid>
         
         <category>web</category>
         
@@ -72,7 +337,7 @@
     
       <item>
         <title>Stop boring people to death with your slide presenatations</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/BoredAudience.jpg&quot; alt=&quot;Bored audience&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/BoredAudience.jpg&quot; alt=&quot;Bored audience&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;you-are-using-too-much-text&quot;&gt;You are using too much text&lt;/h3&gt;
 
@@ -131,15 +396,15 @@
 
 &lt;p&gt;We know that not everyone is a designer, but this is where Velvet Squid can help. We have a few guru presentation designers in our team and they are truly “slide ninjas”. Below&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/slide-example.jpg&quot; alt=&quot;example slide presentation&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/slide-example.jpg&quot; alt=&quot;example slide presentation&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;its-time-to-call-in-the-experts&quot;&gt;It’s time to call in the experts&lt;/h3&gt;
 
-&lt;p&gt;Why not &lt;a href=&quot;http://velvetsquid.com/#contact&quot;&gt;contact us at Velvet Squid&lt;/a&gt; and we can convert an existing slide deck or help you with your next project. You will be amazed at the difference it can make.&lt;/p&gt;
+&lt;p&gt;Why not &lt;a href=&quot;http://localhost:3000/#contact&quot;&gt;contact us at Velvet Squid&lt;/a&gt; and we can convert an existing slide deck or help you with your next project. You will be amazed at the difference it can make.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 May 2016 19:28:25 +1000</pubDate>
-        <link>http://velvetsquid.com/blog/stop-boring-people-to-death-with-slide-presentations.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/blog/stop-boring-people-to-death-with-slide-presentations.html</guid>
+        <link>http://localhost:3000/blog/stop-boring-people-to-death-with-slide-presentations.html</link>
+        <guid isPermaLink="true">http://localhost:3000/blog/stop-boring-people-to-death-with-slide-presentations.html</guid>
         
         <category>presentations</category>
         
@@ -147,6 +412,545 @@
         
         
         <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>St Ives Dental Group</title>
+        <description>    &lt;!-- Home Section--&gt;
+    &lt;section id=&quot;home&quot; class=&quot;splash parallax blue&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;centrize&quot;&gt;
+        &lt;div class=&quot;v-center&quot;&gt;
+          &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+              &lt;div class=&quot;col-md-8&quot;&gt;
+                &lt;div class=&quot;title&quot;&gt;
+                  &lt;h2 class=&quot;fw-400&quot;&gt;St Ives Dental Group&lt;/h2&gt;
+                  &lt;p&gt;This month the creative team has selected a dental website from St Ives. &lt;/p&gt;
+                  &lt;p&gt;&lt;a href=&quot;#about&quot; data-scroll=&quot;true&quot; class=&quot;btn btn-light-out btn-round&quot;&gt;See more&lt;i class=&quot;ti-control-play&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of row--&gt;
+          &lt;/div&gt;
+          &lt;!-- end of container--&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- end of home section--&gt;
+    &lt;section id=&quot;about&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;div class=&quot;title center mb-50&quot;&gt;
+              &lt;h4 class=&quot;upper&quot;&gt;Team review and scores.&lt;/h4&gt;
+              &lt;h2&gt;First Impressions&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+              &lt;hr&gt;
+              &lt;p&gt;The user experience was very outdated, too simplistic, and performed very poorly with Google pange ranking. It&#39;s clear the site could have a much higher customer acquisition rate and benefit from some more recent advances in web design and development.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;experience&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+            &lt;ul class=&quot;timeline&quot;&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Design&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 10%;&quot;&gt;15&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;15&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Typical Layout and Design&lt;/h4&gt;
+                  &lt;p&gt;The design is &lt;strong&gt;very typical of an old dentist website&lt;/strong&gt;. Standard menu items. Basic formatting. Lack of call to actions. Cluttered and often confusing layout.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Branding&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 20%;&quot;&gt;12&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;12&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Stock Standard Logo&lt;/h4&gt;
+                  &lt;p&gt;The logo design and general branding of the business is actually &lt;strong&gt;very basic&lt;/strong&gt; and the design doesn&#39;t scale well or provide a strong recognisable silhouette.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;User Experience&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 15%;&quot;&gt;18&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;18&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Confusing and Cluttered&lt;/h4&gt;
+                  &lt;p&gt;Customers have a goal when they find a website. They want to find out key information, determine if the service can be trusted, learn about the people behing the business, and make contact quickly and easily. This website attempts these goals, but &lt;strong&gt;makes a number of basic mistakes&lt;/strong&gt; that hinders this goal.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Technology&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 5%;&quot;&gt;28&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;28&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Adobe Dreamweaver&lt;/h4&gt;
+                  &lt;p&gt;The website runs on JQuery and HTML which is a &lt;strong&gt;basic solution&lt;/strong&gt;. The site was built using Dreamweaver which is &lt;strong&gt;isn&#39;t available anymore, &lt;/strong&gt; and for good reason. There are much more powerful and simpler platforms to work with today.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Social&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;1&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Non Existent&lt;/h4&gt;
+                  &lt;p&gt;There is absolutely no social media precense at all. A Facebook page would be a good decision for this company, and it &lt;strong&gt;would grow their user base.&lt;/strong&gt; This is also the most successful approach to contacting customers to offer deals and provide updates - excellent work.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;!-- end of timeline--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;Performance&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;h4&gt;Score 22/30&lt;/h4&gt;
+          &lt;div class=&quot;skill scores&quot;&gt;
+            &lt;div class=&quot;progress report perf-seo&quot;&gt;
+              &lt;div role=&quot;progressbar&quot; data-progress=&quot;73&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;Optimising your website&#39;s performance is crucial to increasing traffic, improving conversion rates, generating more leads, and increasing revenue.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/stives-dental-performance.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+
+    
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;Mobile&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;h4&gt;Score 0/30&lt;/h4&gt;
+          &lt;div class=&quot;skill scores&quot;&gt;
+            &lt;div class=&quot;progress report perf-seo&quot;&gt;
+              &lt;div role=&quot;progressbar&quot; data-progress=&quot;1&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;Traffic from mobile devices is growing fast. Optimize your website for mobile or you&#39;ll miss out on valuable traffic, leads, and revenue.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+       &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/stives-dental-mobile.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot; &gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+    
+
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;SEO&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;h4&gt;Score 15/30&lt;/h4&gt;
+          &lt;div class=&quot;skill scores&quot;&gt;
+            &lt;div class=&quot;progress report perf-seo&quot;&gt;
+              &lt;div role=&quot;progressbar&quot; data-progress=&quot;50&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;Making sure your website is easy for users to discover — and easy for search bots to understand—with better page titles, headings, and meta descriptions.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/stives-dental-seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;services&quot; class=&quot;dark&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;&lt;i class=&quot;icon-linegraph&quot;&gt;&lt;/i&gt;
+          &lt;h3&gt;Recommended Improvements&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+
+              &lt;div class=&quot;col-sm-4&quot;&gt;
+                &lt;div class=&quot;item&quot;&gt;
+                    &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-mobile&quot;&gt;&lt;/i&gt;
+                        &lt;h4&gt;Mobile Opimisation&lt;/h4&gt;
+                        &lt;p&gt;Websites that are not optimised for mobile devices are severly penalised by Google SEO ranking. This is a critical step for all businesses.&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-sm-4&quot;&gt;
+                &lt;div class=&quot;item&quot;&gt;
+                    &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-newspaper&quot;&gt;&lt;/i&gt;
+                        &lt;h4&gt;Booking System&lt;/h4&gt;
+                        &lt;p&gt;Upgrade contact form technology and use an integrated booking system rather than a third party option.&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-sm-4&quot;&gt;
+                &lt;div class=&quot;item&quot;&gt;
+                    &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt;
+                        &lt;h4&gt;Web Development&lt;/h4&gt;
+                        &lt;p&gt;Revamp website to improve first impressions. The current site is doing a number of things correctly, but they just need a little advice.&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;b-1&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;Design Concept&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;The designs below show a concept design that we feel would dramatically improve online sales and lead generations of potential customers. The key features include obvious call-to-actions, an advanced booking system, highlighting featured services, adding customer testimonials and success stories, and including a price list that get&#39;s straight to the point.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;div class=&quot;project-detail&quot;&gt;
+              &lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt;St Ives Dental Group&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;30 May, 2016&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt;&lt;a href=&quot;http://www.stivesdental.com.au/&quot;&gt;http://www.stivesdental.com.au/&lt;/a&gt;
+              &lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;Having recently looked for a dentist in St Ives, I jumped online like everyone does. After a while I discoverd St Ives Dental Group after a bit of a Google search. My first impressions were pretty typical of other competitor websites that I found. &lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;My goal for this challenge was to design a fresh and engaging website. More importantly I wanted to implement a booking system, powerful customer onboarding tools, and provide a clear marketing plan for the business to leverage off.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;</description>
+        <pubDate>Thu, 05 May 2016 19:28:25 +1000</pubDate>
+        <link>http://localhost:3000/private/casestudy/stives-dental.html</link>
+        <guid isPermaLink="true">http://localhost:3000/private/casestudy/stives-dental.html</guid>
+        
+        
+        <category>casestudy</category>
+        
+      </item>
+    
+      <item>
+        <title>Diamond Care Dental</title>
+        <description>    &lt;!-- Home Section--&gt;
+    &lt;section id=&quot;home&quot; class=&quot;splash parallax blue&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;centrize&quot;&gt;
+        &lt;div class=&quot;v-center&quot;&gt;
+          &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+              &lt;div class=&quot;col-md-8&quot;&gt;
+                &lt;div class=&quot;title&quot;&gt;
+                  &lt;h2 class=&quot;fw-400&quot;&gt;Diamond Care Dental&lt;/h2&gt;
+                  &lt;p&gt;This month the creative team has selected a dental website from Sydney. &lt;/p&gt;
+                  &lt;p&gt;&lt;a href=&quot;#about&quot; data-scroll=&quot;true&quot; class=&quot;btn btn-light-out btn-round&quot;&gt;See more&lt;i class=&quot;ti-control-play&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of row--&gt;
+          &lt;/div&gt;
+          &lt;!-- end of container--&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- end of home section--&gt;
+    &lt;section id=&quot;about&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;div class=&quot;title center mb-50&quot;&gt;
+              &lt;h4 class=&quot;upper&quot;&gt;Team review and scores.&lt;/h4&gt;
+              &lt;h2&gt;First Impressions&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+              &lt;hr&gt;
+              &lt;p&gt;The user experience was outdated, a little confusing, and didn&#39;t reflect the same quality of service as presented at the surgery.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;experience&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+            &lt;ul class=&quot;timeline&quot;&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Design&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 10%;&quot;&gt;42&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;42&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Typical Layout and Design&lt;/h4&gt;
+                  &lt;p&gt;The design is &lt;stong&gt;very typical of a dentist website&lt;/stong&gt;. The colours were dark and hard to read. Adding a crisp and vibrant colour palette would help.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Branding&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 20%;&quot;&gt;54&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;54&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Safe and Suitable&lt;/h4&gt;
+                  &lt;p&gt;The logo design and general branding of the business is actually &lt;strong&gt;quite suitable&lt;/strong&gt;. There is room for improvement, but there are bigger issues to focus on right.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;User Experience&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 15%;&quot;&gt;38&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;38&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Confusing and Cluttered&lt;/h4&gt;
+                  &lt;p&gt;Customers have a goal when they find a website. They want to find out key information, determine if the service can be trusted, learn about the people behing the business, and make contact quickly and easily. This website attempts these goals, but &lt;strong&gt;makes a number of basic mistakes&lt;/strong&gt; that hinders this goal.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Technology&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 5%;&quot;&gt;64&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;64&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Wordpress and Apache&lt;/h4&gt;
+                  &lt;p&gt;The website runs on Wordpress which is an &lt;strong&gt;excellent solution&lt;/strong&gt; for this business. However, the server configurement and &lt;strong&gt;lack of a cloud-based server&lt;/strong&gt; is a concern. The speed is also a major concern.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Social&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 15%;&quot;&gt;32&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;32&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Facebook only&lt;/h4&gt;
+                  &lt;p&gt;The Facebook page is a good decision for this company, however they are &lt;strong&gt;lacking a newsletter&lt;/strong&gt; which is the most successful approach to contacting customers to offer deals and provide updates.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;!-- end of timeline--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;Performance&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;h4&gt;Score 9/30&lt;/h4&gt;
+          &lt;div class=&quot;skill scores&quot;&gt;
+            &lt;div class=&quot;progress report perf-seo&quot;&gt;
+              &lt;div role=&quot;progressbar&quot; data-progress=&quot;30&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;Optimising your website&#39;s performance is crucial to increasing traffic, improving conversion rates, generating more leads, and increasing revenue.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/reviews/dentist-score.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+    
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;SEO&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;h4&gt;Score 21/30&lt;/h4&gt;
+          &lt;div class=&quot;skill scores&quot;&gt;
+            &lt;div class=&quot;progress report perf-seo&quot;&gt;
+              &lt;div role=&quot;progressbar&quot; data-progress=&quot;70&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;Making sure your website is easy for users to discover — and easy for search bots to understand—with better page titles, headings, and meta descriptions.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;services&quot; class=&quot;dark&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;&lt;i class=&quot;icon-linegraph&quot;&gt;&lt;/i&gt;
+          &lt;h3&gt;Recommended Improvements&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+
+                    &lt;div class=&quot;col-sm-4&quot;&gt;
+                        &lt;div class=&quot;item&quot;&gt;
+                            &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt;
+                                &lt;h4&gt;Web Development&lt;/h4&gt;
+                                &lt;p&gt;Revamp website to improve first impressions. Upgrade contact form technology. Use integrated booking system instead of Centaur Portal.&lt;/p&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;col-sm-4&quot;&gt;
+                        &lt;div class=&quot;item&quot;&gt;
+                            &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-newspaper&quot;&gt;&lt;/i&gt;
+                                &lt;h4&gt;Marketing&lt;/h4&gt;
+                                &lt;p&gt;Current paid advertising is actually doing more harm than good. Showcase more about the staff and build their reputations on the website.&lt;/p&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;col-sm-4&quot;&gt;
+                        &lt;div class=&quot;item&quot;&gt;
+                            &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-facebook&quot;&gt;&lt;/i&gt;
+                                &lt;h4&gt;Social&lt;/h4&gt;
+                                &lt;p&gt;Use social media to showcase techniques and advanced technologies in the surgery. Show followers tips about hygiene, and provide discounts and advice.&lt;/p&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+               
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;b-1&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;Design Concept&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;The designs below show a concept design that we feel would dramatically improve the online sales lead generation of potential customers. The key features include obvious call-to-actions, an advanced booking system, featured services, customer testimonials, success stories, and a price list that get&#39;s straight to the point.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;div class=&quot;project-detail&quot;&gt;
+              &lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt;Diamond Care Dental&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;30 May, 2016&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt;&lt;a href=&quot;http://www.diamondcaredental.com.au&quot;&gt;diamondcaredental.com.au&lt;/a&gt;
+              &lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;Having recently looked for a dentist in Sydney, I jumped online like everyone does. After a while I discoverd Diamond Care Dental via a paid Google Advertisement. My first impressions were pretty typical of other competitor websites that I found. &lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;My goal for this challenge was to design a fresh and engaging website. More importantly I wanted to implement a booking system, powerful customer onboarding tools, and provide a clear marketing plan for the business to leverage off.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;</description>
+        <pubDate>Thu, 05 May 2016 19:28:25 +1000</pubDate>
+        <link>http://localhost:3000/private/casestudy/diamond-care-dental.html</link>
+        <guid isPermaLink="true">http://localhost:3000/private/casestudy/diamond-care-dental.html</guid>
+        
+        
+        <category>casestudy</category>
         
       </item>
     
@@ -164,7 +968,7 @@
 
 &lt;p&gt;As of May 2014, mobile media consumption was 21% higher that that of desktop, accounting for 51% of all digital media consumption.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/mobile-infographic.jpg&quot; alt=&quot;Mobile usage infographic&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/mobile-infographic.jpg&quot; alt=&quot;Mobile usage infographic&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;responsive-design-is-preferred-for-seo&quot;&gt;3. Responsive design is preferred for SEO.&lt;/h3&gt;
 
@@ -196,8 +1000,8 @@
 
 </description>
         <pubDate>Thu, 05 May 2016 19:28:25 +1000</pubDate>
-        <link>http://velvetsquid.com/blog/6-reasons-website-needs-to-be-mobile-optimised.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/blog/6-reasons-website-needs-to-be-mobile-optimised.html</guid>
+        <link>http://localhost:3000/blog/6-reasons-website-needs-to-be-mobile-optimised.html</link>
+        <guid isPermaLink="true">http://localhost:3000/blog/6-reasons-website-needs-to-be-mobile-optimised.html</guid>
         
         <category>mobile</category>
         
@@ -216,7 +1020,7 @@
         <title>Graphics</title>
         <description>&lt;!-- Header --&gt;
 &lt;section class=&quot;page-title parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/5.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/bg/5.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;parallax-overlay&quot;&gt;
         &lt;div class=&quot;centrize&quot;&gt;
             &lt;div class=&quot;v-center&quot;&gt;
@@ -259,7 +1063,7 @@
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-sm-6 img-side img-left&quot;&gt;
                 &lt;div class=&quot;img-holder&quot;&gt;
-                    &lt;img src=&quot;http://velvetsquid.com/images/services/logos.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
+                    &lt;img src=&quot;http://localhost:3000/images/services/logos.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -286,7 +1090,7 @@
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-sm-6 img-side img-right&quot;&gt;
                 &lt;div class=&quot;img-holder&quot;&gt;
-                    &lt;img src=&quot;http://velvetsquid.com/images/services/magazines.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
+                    &lt;img src=&quot;http://localhost:3000/images/services/magazines.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -312,7 +1116,7 @@
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-sm-6 img-side img-left&quot;&gt;
                 &lt;div class=&quot;img-holder&quot;&gt;
-                    &lt;img src=&quot;http://velvetsquid.com/images/services/stationary.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
+                    &lt;img src=&quot;http://localhost:3000/images/services/stationary.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -338,7 +1142,7 @@
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-sm-6 img-side img-right&quot;&gt;
                 &lt;div class=&quot;img-holder&quot;&gt;
-                    &lt;img src=&quot;http://velvetsquid.com/images/services/presentation.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
+                    &lt;img src=&quot;http://localhost:3000/images/services/presentation.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -360,7 +1164,7 @@
     &lt;!-- end of container--&gt;
 &lt;/section&gt;
 &lt;section class=&quot;parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;parallax-overlay pb-50 pt-50&quot;&gt;
         &lt;div class=&quot;container&quot;&gt;
             &lt;div class=&quot;title center&quot;&gt;
@@ -409,7 +1213,7 @@
         &lt;div class=&quot;col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2&quot;&gt;
           &lt;div class=&quot;contact-form&quot;&gt;
             &lt;form id=&quot;contact-form&quot; method=&quot;POST&quot; action=&quot;https://formspree.io/hello@velvetsquid.com&quot;&gt;
-              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;http://velvetsquid.com/thanks.html&quot; /&gt;
+              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;http://localhost:3000/thanks.html&quot; /&gt;
               &lt;div class=&quot;form-group&quot;&gt;
                 &lt;input name=&quot;fullname&quot; type=&quot;text&quot; placeholder=&quot;Your Name&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
               &lt;/div&gt;
@@ -440,11 +1244,11 @@
 	&lt;div class=&quot;container&quot;&gt;
 		&lt;div class=&quot;projects-controller&quot;&gt;
 		
-			&lt;a href=&quot;/services/wordpress-care.html&quot; class=&quot;prev&quot;&gt;
-				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;a href=&quot;#&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		 
-			&lt;a href=&quot;http://velvetsquid.com/services/&quot; class=&quot;all&quot;&gt;
+			&lt;a href=&quot;http://localhost:3000/services/&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -455,8 +1259,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Wed, 04 May 2016 19:28:25 +1000</pubDate>
-        <link>http://velvetsquid.com/services/graphics.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/services/graphics.html</guid>
+        <link>http://localhost:3000/services/graphics.html</link>
+        <guid isPermaLink="true">http://localhost:3000/services/graphics.html</guid>
         
         
         <category>services</category>
@@ -464,10 +1268,526 @@
       </item>
     
       <item>
+        <title>Sydney Smiles Dental</title>
+        <description>    &lt;!-- Home Section--&gt;
+    &lt;section id=&quot;home&quot; class=&quot;splash parallax blue&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;centrize&quot;&gt;
+        &lt;div class=&quot;v-center&quot;&gt;
+          &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+              &lt;div class=&quot;col-md-8&quot;&gt;
+                &lt;div class=&quot;title&quot;&gt;
+                  &lt;h2 class=&quot;fw-400&quot;&gt;Sydney Smiles Dental&lt;/h2&gt;
+                  &lt;p&gt;This month the creative team has selected a dental website from Chatswood. &lt;/p&gt;
+                  &lt;p&gt;&lt;a href=&quot;#about&quot; data-scroll=&quot;true&quot; class=&quot;btn btn-light-out btn-round&quot;&gt;See more&lt;i class=&quot;ti-control-play&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of row--&gt;
+          &lt;/div&gt;
+          &lt;!-- end of container--&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- end of home section--&gt;
+    &lt;section id=&quot;about&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;div class=&quot;title center mb-50&quot;&gt;
+              &lt;h4 class=&quot;upper&quot;&gt;Team review and scores.&lt;/h4&gt;
+              &lt;h2&gt;First Impressions&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+              &lt;hr&gt;
+              &lt;p&gt;The user experience was very outdated, too simplistic, and performed very poorly with Google pange ranking. It&#39;s clear the site could have a much higher customer acquisition rate and benefit from some more recent advances in web design and development.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;experience&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+            &lt;ul class=&quot;timeline&quot;&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Design&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 10%;&quot;&gt;19&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;19&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Typical Layout and Design&lt;/h4&gt;
+                  &lt;p&gt;The design is &lt;strong&gt;very typical of an old dentist website&lt;/strong&gt;. Standard menu items. Basic formatting. Lack of call to actions. Cluttered and often confusing layout.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Branding&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 20%;&quot;&gt;12&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;12&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Stock Logo&lt;/h4&gt;
+                  &lt;p&gt;The logo design and general branding of the business is actually &lt;strong&gt;very basic&lt;/strong&gt; and the design doesn&#39;t scale well or provide a strong recognisable silhouette.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;User Experience&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 15%;&quot;&gt;24&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;24&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Confusing and Cluttered&lt;/h4&gt;
+                  &lt;p&gt;Customers have a goal when they find a website. They want to find out key information, determine if the service can be trusted, learn about the people behing the business, and make contact quickly and easily. This website attempts these goals, but &lt;strong&gt;makes a number of basic mistakes&lt;/strong&gt; that hinders this goal.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Technology&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 5%;&quot;&gt;36&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;36&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Wordpress, but setup incorrectly&lt;/h4&gt;
+                  &lt;p&gt;The website runs on Wordpress which is an &lt;strong&gt;excellent solution&lt;/strong&gt; for this business. However, the server configurement and &lt;strong&gt;incorrectly setup cloud-based server&lt;/strong&gt; puts this at one of the slowest sites we have come across.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Social&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 15%;&quot;&gt;32&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;32&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Small traction&lt;/h4&gt;
+                  &lt;p&gt;The Facebook page is a good decision for this company, however they are &lt;strong&gt;lacking traction&lt;/strong&gt; which is quite easy to obtain once you know the right techniques.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;!-- end of timeline--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;Performance&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;h4&gt;Score 7/30&lt;/h4&gt;
+          &lt;div class=&quot;skill scores&quot;&gt;
+            &lt;div class=&quot;progress report perf-seo&quot;&gt;
+              &lt;div role=&quot;progressbar&quot; data-progress=&quot;24&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;Optimising your website&#39;s performance is crucial to increasing traffic, improving conversion rates, generating more leads, and increasing revenue.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/sydney-smiles-dental-performance.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+
+    
+
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;SEO&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;h4&gt;Score 20/30&lt;/h4&gt;
+          &lt;div class=&quot;skill scores&quot;&gt;
+            &lt;div class=&quot;progress report perf-seo&quot;&gt;
+              &lt;div role=&quot;progressbar&quot; data-progress=&quot;67&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;Making sure your website is easy for users to discover — and easy for search bots to understand—with better page titles, headings, and meta descriptions.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/sydney-smiles-dental-seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;services&quot; class=&quot;dark&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;&lt;i class=&quot;icon-linegraph&quot;&gt;&lt;/i&gt;
+          &lt;h3&gt;Recommended Improvements&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+
+              &lt;div class=&quot;col-sm-4&quot;&gt;
+                  &lt;div class=&quot;item&quot;&gt;
+                      &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt;
+                          &lt;h4&gt;Web Development&lt;/h4&gt;
+                          &lt;p&gt;Revamp website to improve first impressions. Upgrade contact form technology. Use integrated booking system to help convert more visitors.&lt;/p&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-sm-4&quot;&gt;
+                &lt;div class=&quot;item&quot;&gt;
+                  &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-newspaper&quot;&gt;&lt;/i&gt;
+                      &lt;h4&gt;Booking System&lt;/h4&gt;
+                      &lt;p&gt;Upgrade contact form technology and use an integrated booking system rather than a third party option.&lt;/p&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-sm-4&quot;&gt;
+                  &lt;div class=&quot;item&quot;&gt;
+                      &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-facebook&quot;&gt;&lt;/i&gt;
+                          &lt;h4&gt;New Content&lt;/h4&gt;
+                          &lt;p&gt;Updating the blog more frequently will help to improve SEO ranking and attract organic traffic. Use this to help show the staff are Key People of Influence.&lt;/p&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+               
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;b-1&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;Design Concept&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;The designs below show a concept design that we feel would dramatically improve online sales and lead generations of potential customers. The key features include obvious call-to-actions, an advanced booking system, highlighting featured services, adding customer testimonials and success stories, and including a price list that get&#39;s straight to the point.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;div class=&quot;project-detail&quot;&gt;
+              &lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt;Sydney Smiles Dental&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;30 May, 2016&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt;&lt;a href=&quot;http://sydneysmilesdental.com.au/&quot;&gt;http://sydneysmilesdental.com.au/&lt;/a&gt;
+              &lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;Having recently looked for a dentist in Chatswood, I jumped online like everyone does. After a while I discoverd Sydney Smiles Dental after a bit of a Google search. My first impressions were pretty typical of other competitor websites that I found. &lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;My goal for this challenge was to design a fresh and engaging website. More importantly I wanted to implement a booking system, powerful customer onboarding tools, and provide a clear marketing plan for the business to leverage off.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;</description>
+        <pubDate>Wed, 04 May 2016 19:28:25 +1000</pubDate>
+        <link>http://localhost:3000/private/casestudy/sydney-smiles-dental.html</link>
+        <guid isPermaLink="true">http://localhost:3000/private/casestudy/sydney-smiles-dental.html</guid>
+        
+        
+        <category>casestudy</category>
+        
+      </item>
+    
+      <item>
+        <title>Sydney Smiles Dental</title>
+        <description>    &lt;!-- Home Section--&gt;
+    &lt;section id=&quot;home&quot; class=&quot;splash parallax blue&quot;&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;centrize&quot;&gt;
+        &lt;div class=&quot;v-center&quot;&gt;
+          &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+              &lt;div class=&quot;col-md-8&quot;&gt;
+                &lt;div class=&quot;title&quot;&gt;
+                  &lt;h2 class=&quot;fw-400&quot;&gt;Sydney Smiles Dental&lt;/h2&gt;
+                  &lt;p&gt;This month the creative team has selected a dental website from Chatswood. &lt;/p&gt;
+                  &lt;p&gt;&lt;a href=&quot;#about&quot; data-scroll=&quot;true&quot; class=&quot;btn btn-light-out btn-round&quot;&gt;See more&lt;i class=&quot;ti-control-play&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- end of row--&gt;
+          &lt;/div&gt;
+          &lt;!-- end of container--&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- end of home section--&gt;
+    &lt;section id=&quot;about&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;div class=&quot;title center mb-50&quot;&gt;
+              &lt;h4 class=&quot;upper&quot;&gt;Team review and scores.&lt;/h4&gt;
+              &lt;h2&gt;First Impressions&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+              &lt;hr&gt;
+              &lt;p&gt;The user experience was very outdated, too simplistic, and performed very poorly with Google pange ranking. It&#39;s clear the site could have a much higher customer acquisition rate and benefit from some more recent advances in web design and development.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;experience&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+            &lt;ul class=&quot;timeline&quot;&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Design&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 10%;&quot;&gt;19&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;19&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Typical Layout and Design&lt;/h4&gt;
+                  &lt;p&gt;The design is &lt;strong&gt;very typical of an old dentist website&lt;/strong&gt;. Standard menu items. Basic formatting. Lack of call to actions. Cluttered and often confusing layout.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Branding&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 20%;&quot;&gt;12&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;12&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Stock Logo&lt;/h4&gt;
+                  &lt;p&gt;The logo design and general branding of the business is actually &lt;strong&gt;very basic&lt;/strong&gt; and the design doesn&#39;t scale well or provide a strong recognisable silhouette.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;User Experience&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 15%;&quot;&gt;24&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;24&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Confusing and Cluttered&lt;/h4&gt;
+                  &lt;p&gt;Customers have a goal when they find a website. They want to find out key information, determine if the service can be trusted, learn about the people behing the business, and make contact quickly and easily. This website attempts these goals, but &lt;strong&gt;makes a number of basic mistakes&lt;/strong&gt; that hinders this goal.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Technology&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 5%;&quot;&gt;36&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;36&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Wordpress, but setup incorrectly&lt;/h4&gt;
+                  &lt;p&gt;The website runs on Wordpress which is an &lt;strong&gt;excellent solution&lt;/strong&gt; for this business. However, the server configurement and &lt;strong&gt;incorrectly setup cloud-based server&lt;/strong&gt; puts this at one of the slowest sites we have come across.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;div class=&quot;timeline-item&quot;&gt;
+                  &lt;h4&gt;Social&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-description&quot;&gt;
+                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 15%;&quot;&gt;32&lt;/span&gt;
+                    &lt;div class=&quot;progress report&quot;&gt;
+                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;32&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;h4&gt;Small traction&lt;/h4&gt;
+                  &lt;p&gt;The Facebook page is a good decision for this company, however they are &lt;strong&gt;lacking traction&lt;/strong&gt; which is quite easy to obtain once you know the right techniques.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;!-- end of timeline--&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- end of row--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container--&gt;
+    &lt;/section&gt;
+    
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;Performance&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;h4&gt;Score 7/30&lt;/h4&gt;
+          &lt;div class=&quot;skill scores&quot;&gt;
+            &lt;div class=&quot;progress report perf-seo&quot;&gt;
+              &lt;div role=&quot;progressbar&quot; data-progress=&quot;24&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;Optimising your website&#39;s performance is crucial to increasing traffic, improving conversion rates, generating more leads, and increasing revenue.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/sydney-smiles-dental-performance.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+
+    
+
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;SEO&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;h4&gt;Score 20/30&lt;/h4&gt;
+          &lt;div class=&quot;skill scores&quot;&gt;
+            &lt;div class=&quot;progress report perf-seo&quot;&gt;
+              &lt;div role=&quot;progressbar&quot; data-progress=&quot;67&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;Making sure your website is easy for users to discover — and easy for search bots to understand—with better page titles, headings, and meta descriptions.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/sydney-smiles-dental-seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;!-- end of section content--&gt;
+      &lt;/div&gt;
+      &lt;!-- end of container            --&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;services&quot; class=&quot;dark&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;&lt;i class=&quot;icon-linegraph&quot;&gt;&lt;/i&gt;
+          &lt;h3&gt;Recommended Improvements&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
+          &lt;hr&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;section-content&quot;&gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
+
+              &lt;div class=&quot;col-sm-4&quot;&gt;
+                  &lt;div class=&quot;item&quot;&gt;
+                      &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt;
+                          &lt;h4&gt;Web Development&lt;/h4&gt;
+                          &lt;p&gt;Revamp website to improve first impressions. Upgrade contact form technology. Use integrated booking system to help convert more visitors.&lt;/p&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-sm-4&quot;&gt;
+                  &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-newspaper&quot;&gt;&lt;/i&gt;
+                      &lt;h4&gt;Booking System&lt;/h4&gt;
+                      &lt;p&gt;Upgrade contact form technology and use an integrated booking system rather than a third party option.&lt;/p&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-sm-4&quot;&gt;
+                  &lt;div class=&quot;item&quot;&gt;
+                      &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-facebook&quot;&gt;&lt;/i&gt;
+                          &lt;h4&gt;New Content&lt;/h4&gt;
+                          &lt;p&gt;Updating the blog more frequently will help to improve SEO ranking and attract organic traffic. Use this to help show the staff are Key People of Influence.&lt;/p&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+               
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;b-1&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;title center&quot;&gt;
+          &lt;h2&gt;Design Concept&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
+          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+            &lt;p&gt;The designs below show a concept design that we feel would dramatically improve online sales and lead generations of potential customers. The key features include obvious call-to-actions, an advanced booking system, highlighting featured services, adding customer testimonials and success stories, and including a price list that get&#39;s straight to the point.&lt;/p&gt;
+            &lt;hr&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
+          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id=&quot;features&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;div class=&quot;project-detail&quot;&gt;
+              &lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt;Sydney Smiles Dental&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;30 May, 2016&lt;/p&gt;
+              &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt;&lt;a href=&quot;http://sydneysmilesdental.com.au/&quot;&gt;http://sydneysmilesdental.com.au/&lt;/a&gt;
+              &lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;Having recently looked for a dentist in Chatswood, I jumped online like everyone does. After a while I discoverd Sydney Smiles Dental after a bit of a Google search. My first impressions were pretty typical of other competitor websites that I found. &lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-sm-4&quot;&gt;
+            &lt;p&gt;My goal for this challenge was to design a fresh and engaging website. More importantly I wanted to implement a booking system, powerful customer onboarding tools, and provide a clear marketing plan for the business to leverage off.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;</description>
+        <pubDate>Wed, 04 May 2016 19:28:25 +1000</pubDate>
+        <link>http://localhost:3000/private/casestudy/sydney-smiles-dental.html</link>
+        <guid isPermaLink="true">http://localhost:3000/private/casestudy/sydney-smiles-dental.html</guid>
+        
+        
+        <category>casestudy</category>
+        
+      </item>
+    
+      <item>
         <title>Wordpress Care</title>
         <description>&lt;!-- Header --&gt;
 &lt;section class=&quot;page-title parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/services/wordpress.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/services/wordpress.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;parallax-overlay&quot;&gt;
         &lt;div class=&quot;centrize&quot;&gt;
             &lt;div class=&quot;v-center&quot;&gt;
@@ -597,7 +1917,7 @@
       &lt;!-- end of container--&gt;
     &lt;/section&gt;
 &lt;section class=&quot;parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;parallax-overlay pb-50 pt-50&quot;&gt;
         &lt;div class=&quot;container&quot;&gt;
             &lt;div class=&quot;title center&quot;&gt;
@@ -659,7 +1979,7 @@
                   &lt;li&gt;Support Desk Access&lt;/li&gt;
                   &lt;li&gt;Time Machine&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://velvetsquid.com/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
+                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://localhost:3000/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
               &lt;!-- end of pricing table--&gt;
@@ -681,7 +2001,7 @@
                   &lt;li&gt;Uptime Monitoring&lt;/li&gt;
                   &lt;li&gt;Staging Environment&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://velvetsquid.com/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
+                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://localhost:3000/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
               &lt;!-- end of pricing table--&gt;
@@ -703,7 +2023,7 @@
                   &lt;li&gt;Uptime Monitoring&lt;/li&gt;
                   &lt;li&gt;Service Level Agreement&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://velvetsquid.com/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
+                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://localhost:3000/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
               &lt;!-- end of pricing table--&gt;
@@ -729,7 +2049,7 @@
         &lt;div class=&quot;col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2&quot;&gt;
           &lt;div class=&quot;contact-form&quot;&gt;
             &lt;form id=&quot;contact-form&quot; method=&quot;POST&quot; action=&quot;https://formspree.io/hello@velvetsquid.com&quot;&gt;
-              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;http://velvetsquid.com/thanks.html&quot; /&gt;
+              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;http://localhost:3000/thanks.html&quot; /&gt;
               &lt;div class=&quot;form-group&quot;&gt;
                 &lt;input name=&quot;fullname&quot; type=&quot;text&quot; placeholder=&quot;Your Name&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
               &lt;/div&gt;
@@ -760,824 +2080,26 @@
 	&lt;div class=&quot;container&quot;&gt;
 		&lt;div class=&quot;projects-controller&quot;&gt;
 		
-			&lt;a href=&quot;/services/ecommerce.html&quot; class=&quot;prev&quot;&gt;
-				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
+			&lt;a href=&quot;#&quot; class=&quot;prev&quot;&gt;
+				&lt;span&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		 
-			&lt;a href=&quot;http://velvetsquid.com/services/&quot; class=&quot;all&quot;&gt;
+			&lt;a href=&quot;http://localhost:3000/services/&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
-			&lt;a href=&quot;/services/graphics.html&quot; class=&quot;next&quot;&gt;
-				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-			&lt;/a&gt;
+			&lt;a href=&quot;#&quot; class=&quot;prev&quot;&gt;&lt;/a&gt;
 		 
 		&lt;/div&gt;
 	&lt;/div&gt;
 &lt;/section&gt;
 </description>
         <pubDate>Tue, 03 May 2016 19:28:25 +1000</pubDate>
-        <link>http://velvetsquid.com/services/wordpress-care.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/services/wordpress-care.html</guid>
+        <link>http://localhost:3000/services/wordpress-care.html</link>
+        <guid isPermaLink="true">http://localhost:3000/services/wordpress-care.html</guid>
         
         
         <category>services</category>
-        
-      </item>
-    
-      <item>
-        <title>E-Commerce</title>
-        <description>&lt;!-- Header --&gt;
-&lt;section class=&quot;page-title parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/5.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
-    &lt;div class=&quot;parallax-overlay&quot;&gt;
-        &lt;div class=&quot;centrize&quot;&gt;
-            &lt;div class=&quot;v-center&quot;&gt;
-                &lt;div class=&quot;container&quot;&gt;
-                    &lt;div class=&quot;title center&quot;&gt;
-                        &lt;h1 class=&quot;upper&quot;&gt;E-Commerce&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
-                        &lt;h4&gt;We create custom ecommerce sites that will move your merchandise fast and effectively.&lt;/h4&gt;
-                        &lt;hr&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;!-- end of container--&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;title center&quot;&gt;
-            &lt;h4 class=&quot;upper&quot;&gt;We have the tools&lt;/h4&gt;
-            &lt;h2&gt;Start Selling&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-            &lt;hr&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;section-content&quot;&gt;
-          &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
-              &lt;p class=&quot;lead-text serif text-center&quot;&gt;Looking to sell and accept payments online? You&#39;ve come to the right place. Our team is based in Australia so you can be confident that you will receive the best service from a home grown team.&lt;/p&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;!-- end of row--&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;section-content&quot;&gt;
-            &lt;div class=&quot;row&quot;&gt;
-                &lt;div class=&quot;col-sm-4&quot;&gt;
-                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-genius&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-genius&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-                        &lt;hr&gt;
-                        &lt;h4&gt;Custom Solutions&lt;/h4&gt;
-                        &lt;p class=&quot;alt-paragraph&quot;&gt;Our developers have experience with all the most popular payment processing systems, which makes us confident we can integrate with all of the third-party resources you know and love to sell your products. &lt;/p&gt;
-                    &lt;/div&gt;
-                    &lt;!-- end of icon box--&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-sm-4&quot;&gt;
-                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-gears&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-gears&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-                        &lt;hr&gt;
-                        &lt;h4&gt;Magneto&lt;/h4&gt;
-                        &lt;p class=&quot;alt-paragraph&quot;&gt;Magento tends to be popular with larger businesses or agencies who manage e-commerce sites on behalf of clients. Magento is scalable, so it’s perfect for those with grand plans or an existing successful online store.&lt;/p&gt;
-                    &lt;/div&gt;
-                    &lt;!-- end of icon box--&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-sm-4&quot;&gt;
-                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-puzzle&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-puzzle&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-                        &lt;hr&gt;
-                        &lt;h4&gt;WooCommerce&lt;/h4&gt;
-                        &lt;p class=&quot;alt-paragraph&quot;&gt;WooCommerce through WordPress is perfect for smaller businesses. It does the job of selling your products and as you grow, you can add the many plugins available to build a better experience for your customer. &lt;/p&gt;
-                    &lt;/div&gt;
-                    &lt;!-- end of icon box--&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;!-- end of row--&gt;
-        &lt;/div&gt;
-        &lt;!-- end of section content--&gt;
-    &lt;/div&gt;
-    &lt;!-- end of container--&gt;
-&lt;/section&gt;
-
-
-&lt;section class=&quot;parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
-    &lt;div class=&quot;parallax-overlay pb-50 pt-50&quot;&gt;
-        &lt;div class=&quot;container&quot;&gt;
-            &lt;div class=&quot;title center&quot;&gt;
-                &lt;h3&gt;What They Say&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
-                &lt;hr&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;section-content&quot;&gt;
-                &lt;div id=&quot;testimonials-slider&quot; data-options=&quot;{&amp;quot;animation&amp;quot;: &amp;quot;slide&amp;quot;, &amp;quot;controlNav&amp;quot;: true}&quot; class=&quot;flexslider nav-outside&quot;&gt;
-                    &lt;div class=&quot;flex-viewport&quot; style=&quot;overflow: hidden; position: relative;&quot;&gt;
-                        &lt;ol class=&quot;slides&quot; style=&quot;width: 800%; transition-duration: 1s; transform: translate3d(-1400px, 0px, 0px);&quot;&gt;
-                            &lt;li class=&quot;&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
-                                &lt;blockquote&gt;
-                                    &lt;p&gt;&quot;Thanks to your help we made front page of the Sydney Morning Herald and it&#39;s been well received on twitter!&quot;&lt;/p&gt;
-                                    &lt;footer&gt;Melissa Fuller - Rice Warner.&lt;/footer&gt;
-                                &lt;/blockquote&gt;
-                            &lt;/li&gt;
-                            &lt;li class=&quot;&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
-                                &lt;blockquote&gt;
-                                    &lt;p&gt;&quot;The site looks so good! I think I&#39;m going to cry.&quot;&lt;/p&gt;
-                                    &lt;footer&gt;Karen Gregory - LJ Hooker&lt;/footer&gt;
-                                &lt;/blockquote&gt;
-                            &lt;/li&gt;
-                            &lt;li class=&quot;clone&quot; aria-hidden=&quot;true&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
-                                &lt;blockquote&gt;
-                                    &lt;p&gt;&quot;We could not be happier with the results of the iPad app.&quot;&lt;/p&gt;
-                                    &lt;footer&gt;Jay Macnish - Vanguard Investments&lt;/footer&gt;
-                                &lt;/blockquote&gt;
-                            &lt;/li&gt;
-                        &lt;/ol&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;!-- end of container--&gt;
-        &lt;/div&gt;
-&lt;/section&gt;
-&lt;section&gt;
-  &lt;div class=&quot;container&quot;&gt;
-    &lt;div class=&quot;title center&quot;&gt;
-      &lt;h4 class=&quot;upper&quot;&gt;Let&#39;s work together.&lt;/h4&gt;
-      &lt;h2&gt;Contact Us&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-      &lt;hr&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;section-content&quot;&gt;
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2&quot;&gt;
-          &lt;div class=&quot;contact-form&quot;&gt;
-            &lt;form id=&quot;contact-form&quot; method=&quot;POST&quot; action=&quot;https://formspree.io/hello@velvetsquid.com&quot;&gt;
-              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;http://velvetsquid.com/thanks.html&quot; /&gt;
-              &lt;div class=&quot;form-group&quot;&gt;
-                &lt;input name=&quot;fullname&quot; type=&quot;text&quot; placeholder=&quot;Your Name&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
-              &lt;/div&gt;
-              &lt;div class=&quot;form-group&quot;&gt;
-                &lt;input name=&quot;email&quot; type=&quot;email&quot; placeholder=&quot;Your Email&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
-              &lt;/div&gt;
-              &lt;div class=&quot;form-group&quot;&gt;
-                &lt;input name=&quot;phone&quot; type=&quot;text&quot; placeholder=&quot;Phone Number&quot; class=&quot;form-control&quot;&gt;
-              &lt;/div&gt;
-              &lt;div class=&quot;form-group&quot;&gt;
-                &lt;textarea name=&quot;message&quot; placeholder=&quot;Message&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;&lt;/textarea&gt;
-              &lt;/div&gt;
-              &lt;div class=&quot;form-group text-center&quot;&gt;
-                &lt;button type=&quot;submit&quot; class=&quot;btn btn-color&quot;&gt;Send Message&lt;/button&gt;
-              &lt;/div&gt;
-            &lt;/form&gt;
-          &lt;/div&gt;
-          &lt;!-- end of contact form--&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;!-- end of row--&gt;
-    &lt;/div&gt;
-    &lt;!-- end of section content--&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;controllers p-0&quot;&gt;
-	&lt;div class=&quot;container&quot;&gt;
-		&lt;div class=&quot;projects-controller&quot;&gt;
-		
-			&lt;a href=&quot;#&quot; class=&quot;prev&quot;&gt;
-				&lt;span&gt;&lt;/span&gt;
-			&lt;/a&gt;
-		 
-			&lt;a href=&quot;http://velvetsquid.com/services/&quot; class=&quot;all&quot;&gt;
-				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-			&lt;/a&gt;
-		
-			&lt;a href=&quot;/services/wordpress-care.html&quot; class=&quot;next&quot;&gt;
-				&lt;span&gt;Next&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-			&lt;/a&gt;
-		 
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/section&gt;
-
-</description>
-        <pubDate>Mon, 02 May 2016 19:28:25 +1000</pubDate>
-        <link>http://velvetsquid.com/services/ecommerce.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/services/ecommerce.html</guid>
-        
-        
-        <category>services</category>
-        
-      </item>
-    
-      <item>
-        <title>Diamond Care Dental</title>
-        <description>    &lt;!-- Home Section--&gt;
-    &lt;section id=&quot;home&quot; class=&quot;splash parallax blue&quot;&gt;
-      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
-      &lt;div class=&quot;centrize&quot;&gt;
-        &lt;div class=&quot;v-center&quot;&gt;
-          &lt;div class=&quot;container&quot;&gt;
-            &lt;div class=&quot;row&quot;&gt;
-              &lt;div class=&quot;col-md-8&quot;&gt;
-                &lt;div class=&quot;title&quot;&gt;
-                  &lt;h2 class=&quot;fw-400&quot;&gt;Diamond Care Dental&lt;/h2&gt;
-                  &lt;p&gt;This month the creative team has selected a dental website from Sydney. &lt;/p&gt;
-                  &lt;p&gt;&lt;a href=&quot;#about&quot; data-scroll=&quot;true&quot; class=&quot;btn btn-light-out btn-round&quot;&gt;See more&lt;i class=&quot;ti-control-play&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-                  &lt;/p&gt;
-                &lt;/div&gt;
-              &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;!-- end of row--&gt;
-          &lt;/div&gt;
-          &lt;!-- end of container--&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/section&gt;
-    &lt;!-- end of home section--&gt;
-    &lt;section id=&quot;about&quot;&gt;
-      &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
-            &lt;div class=&quot;title center mb-50&quot;&gt;
-              &lt;h4 class=&quot;upper&quot;&gt;Team review and scores.&lt;/h4&gt;
-              &lt;h2&gt;First Impressions&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-              &lt;hr&gt;
-              &lt;p&gt;The user experience was outdated, a little confusing, and didn&#39;t reflect the same quality of service as presented at the surgery.&lt;/p&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;!-- end of row--&gt;
-      &lt;/div&gt;
-      &lt;!-- end of container--&gt;
-    &lt;/section&gt;
-    &lt;section id=&quot;experience&quot;&gt;
-      &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-          &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
-            &lt;ul class=&quot;timeline&quot;&gt;
-              &lt;li&gt;
-                &lt;div class=&quot;timeline-item&quot;&gt;
-                  &lt;h4&gt;Design&lt;/h4&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;timeline-description&quot;&gt;
-                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 10%;&quot;&gt;42&lt;/span&gt;
-                    &lt;div class=&quot;progress&quot;&gt;
-                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;42&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;
-                      &lt;/div&gt;
-                    &lt;/div&gt;
-                  &lt;/div&gt;
-                  &lt;h4&gt;Typical Layout and Design&lt;/h4&gt;
-                  &lt;p&gt;The design is &lt;stong&gt;very typical of a dentist website&lt;/stong&gt;. Blue and white colour theme, standard menu items. Lots of text and stock photos. &lt;/p&gt;
-                &lt;/div&gt;
-              &lt;/li&gt;
-              &lt;li&gt;
-                &lt;div class=&quot;timeline-item&quot;&gt;
-                  &lt;h4&gt;Branding&lt;/h4&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;timeline-description&quot;&gt;
-                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 20%;&quot;&gt;54&lt;/span&gt;
-                    &lt;div class=&quot;progress&quot;&gt;
-                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;54&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
-                    &lt;/div&gt;
-                  &lt;/div&gt;
-                  &lt;h4&gt;Safe and Suitable&lt;/h4&gt;
-                  &lt;p&gt;The logo design and general branding of the business is actually &lt;strong&gt;quite suitable&lt;/strong&gt;. The logo can work at both small and large scale. The name is clear, and the tooth design works.&lt;/p&gt;
-                &lt;/div&gt;
-              &lt;/li&gt;
-              &lt;li&gt;
-                &lt;div class=&quot;timeline-item&quot;&gt;
-                  &lt;h4&gt;User Experience&lt;/h4&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;timeline-description&quot;&gt;
-                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 15%;&quot;&gt;38&lt;/span&gt;
-                    &lt;div class=&quot;progress&quot;&gt;
-                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;38&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
-                    &lt;/div&gt;
-                  &lt;/div&gt;
-                  &lt;h4&gt;Confusing and Cluttered&lt;/h4&gt;
-                  &lt;p&gt;Customers have a goal when they find a website. They want to find out key information, determine if the service can be trusted, learn about the people behing the business, and make contact quickly and easily. This website attempts these goals, but &lt;strong&gt;makes a number of basic mistakes&lt;/strong&gt; that hinders this goal.&lt;/p&gt;
-                &lt;/div&gt;
-              &lt;/li&gt;
-              &lt;li&gt;
-                &lt;div class=&quot;timeline-item&quot;&gt;
-                  &lt;h4&gt;Technology&lt;/h4&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;timeline-description&quot;&gt;
-                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 5%;&quot;&gt;64&lt;/span&gt;
-                    &lt;div class=&quot;progress&quot;&gt;
-                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;64&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
-                    &lt;/div&gt;
-                  &lt;/div&gt;
-                  &lt;h4&gt;Wordpress and Apache&lt;/h4&gt;
-                  &lt;p&gt;The website runs on Wordpress which is an &lt;strong&gt;excellent solution&lt;/strong&gt; for this business. However, the server configurement and &lt;strong&gt;lack of a cloud-based server&lt;/strong&gt; is a concern. The speed is also a major concern.&lt;/p&gt;
-                &lt;/div&gt;
-              &lt;/li&gt;
-              &lt;li&gt;
-                &lt;div class=&quot;timeline-item&quot;&gt;
-                  &lt;h4&gt;Social&lt;/h4&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;timeline-description&quot;&gt;
-                  &lt;div class=&quot;skill&quot;&gt;&lt;span class=&quot;skill-name&quot;&gt;Score&lt;/span&gt;&lt;span class=&quot;skill-perc&quot; style=&quot;right: 15%;&quot;&gt;32&lt;/span&gt;
-                    &lt;div class=&quot;progress&quot;&gt;
-                      &lt;div role=&quot;progressbar&quot; data-progress=&quot;32&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 0%;&quot;&gt;&lt;/div&gt;
-                    &lt;/div&gt;
-                  &lt;/div&gt;
-                  &lt;h4&gt;Facebook only&lt;/h4&gt;
-                  &lt;p&gt;The Facebook page is a good decision for this company, however they are &lt;strong&gt;lacking a newsletter&lt;/strong&gt; which is the most successful approach to contacting customers to offer deals and provide updates.&lt;/p&gt;
-                &lt;/div&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;!-- end of timeline--&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;!-- end of row--&gt;
-      &lt;/div&gt;
-      &lt;!-- end of container--&gt;
-    &lt;/section&gt;
-    
-    &lt;section id=&quot;features&quot;&gt;
-      &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;title center&quot;&gt;
-          &lt;h2&gt;Performance&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-          &lt;h4&gt;Score 9/30&lt;/h4&gt;
-          &lt;div class=&quot;skill scores&quot;&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-              &lt;div role=&quot;progressbar&quot; data-progress=&quot;60&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 60%;&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
-            &lt;p&gt;Optimising your website&#39;s performance is crucial to increasing traffic, improving conversion rates, generating more leads, and increasing revenue.&lt;/p&gt;
-            &lt;hr&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
-          &lt;img src=&quot;http://velvetsquid.com/images/reviews/dentist-score.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
-        &lt;/div&gt;
-        &lt;!-- end of section content--&gt;
-      &lt;/div&gt;
-      &lt;!-- end of container            --&gt;
-    &lt;/section&gt;
-    
-    &lt;section id=&quot;features&quot;&gt;
-      &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;title center&quot;&gt;
-          &lt;h2&gt;SEO&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-          &lt;h4&gt;Score 21/30&lt;/h4&gt;
-          &lt;div class=&quot;skill scores&quot;&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-              &lt;div role=&quot;progressbar&quot; data-progress=&quot;60&quot; class=&quot;progress-bar colored&quot; style=&quot;width: 60%;&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
-            &lt;p&gt;Making sure your website is easy for users to discover — and easy for search bots to understand—with better page titles, headings, and meta descriptions.&lt;/p&gt;
-            &lt;hr&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
-          &lt;img src=&quot;http://velvetsquid.com/images/casestudy/diamond-care-dental/seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
-        &lt;/div&gt;
-        &lt;!-- end of section content--&gt;
-      &lt;/div&gt;
-      &lt;!-- end of container            --&gt;
-    &lt;/section&gt;
-    &lt;section id=&quot;services&quot; class=&quot;dark&quot;&gt;
-      &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;title center&quot;&gt;&lt;i class=&quot;icon-linegraph&quot;&gt;&lt;/i&gt;
-          &lt;h3&gt;Recommended Improvements&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
-          &lt;hr&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;section-content&quot;&gt;
-          &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
-
-                    &lt;div class=&quot;col-sm-4&quot;&gt;
-                        &lt;div class=&quot;item&quot;&gt;
-                            &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt;
-                                &lt;h4&gt;Web Development&lt;/h4&gt;
-                                &lt;p&gt;Revamp website to improve first impressions. Upgrade contact form technology. Use integrated booking system instead of Centaur Portal.&lt;/p&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;col-sm-4&quot;&gt;
-                        &lt;div class=&quot;item&quot;&gt;
-                            &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-newspaper&quot;&gt;&lt;/i&gt;
-                                &lt;h4&gt;Marketing&lt;/h4&gt;
-                                &lt;p&gt;Current paid advertising is actually doing more harm than good. Showcase more about the staff and build their reputations on the website.&lt;/p&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;col-sm-4&quot;&gt;
-                        &lt;div class=&quot;item&quot;&gt;
-                            &lt;div class=&quot;icon-box-small boxed mb-25 mt-25&quot;&gt;&lt;i class=&quot;icon-facebook&quot;&gt;&lt;/i&gt;
-                                &lt;h4&gt;Social&lt;/h4&gt;
-                                &lt;p&gt;Use social media to showcase techniques and advanced technologies in the surgery. Show followers tips about hygiene, and provide discounts and advice.&lt;/p&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-               
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/section&gt;
-    &lt;section class=&quot;b-1&quot;&gt;
-      &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;title center&quot;&gt;
-          &lt;h2&gt;Design Concept&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-          &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
-            &lt;p&gt;The designs below show a concept design that we feel would dramatically improve the online sales lead generation of potential customers. The key features include obvious call-to-actions, an advanced booking system, featured services, customer testimonials, success stories, and a price list that get&#39;s straight to the point.&lt;/p&gt;
-            &lt;hr&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-12&quot;&gt;
-          &lt;img src=&quot;http://velvetsquid.com/images/casestudy/diamond-care-dental/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
-          &lt;img src=&quot;http://velvetsquid.com/images/casestudy/diamond-care-dental/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/section&gt;
-    &lt;section id=&quot;features&quot;&gt;
-      &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-          &lt;div class=&quot;col-sm-4&quot;&gt;
-            &lt;div class=&quot;project-detail&quot;&gt;
-              &lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt;Diamond Care Dental&lt;/p&gt;
-              &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;30 May, 2016&lt;/p&gt;
-              &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt;&lt;a href=&quot;http://www.diamondcaredental.com.au&quot;&gt;diamondcaredental.com.au&lt;/a&gt;
-              &lt;/p&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;col-sm-4&quot;&gt;
-            &lt;p&gt;Having recently looked for a dentist in Sydney, I jumped online like everyone does. After a while I discoverd Diamond Care Dental via a paid Google Advertisement. My first impressions where pretty typical of other competitor websites that I found. &lt;/p&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;col-sm-4&quot;&gt;
-            &lt;p&gt;My goal for this challenge was to design a fresh and engaging website. More importantly I wanted to implement a booking system, powerful customer onboarding tools, and provide a clear marketing plan for the business to leverage off.&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/section&gt;</description>
-        <pubDate>Wed, 20 Apr 2016 19:28:25 +1000</pubDate>
-        <link>http://velvetsquid.com/private/casestudy/diamond-care-dental.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/private/casestudy/diamond-care-dental.html</guid>
-        
-        
-        <category>casestudy</category>
-        
-      </item>
-    
-      <item>
-        <title>Prevent your Wordpress site from being hacked</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://velvetsquid.com/images/blog/hacked.jpg&quot; alt=&quot;Mobile usage infographic&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;WordPress, the best welcomed blogging tool and content management system(CMS), has been used by about 25% new websites all over the world. With the increasing usage of WordPress, its security and reliability has been one of the most important issues. In 2011, around 144,000 WordPress sites were hacked, and this number has increased to 170,000 in 2012, of course, the number continues to increase.&lt;/p&gt;
-
-&lt;p&gt;The reasons of hacks are various. According to statistics, nearly 40% hacks come from the hosting, about 30% hacks are from themes, 8% hacks happen because of the weak password and 22% hacks are owing to plugins.&lt;/p&gt;
-
-&lt;p&gt;The best efficient method is to avoid the WordPress sites from being backed from the sources. Taking the following tips to prevent your WordPress site, you can get safe website easily.&lt;/p&gt;
-
-&lt;h3 id=&quot;backup-your-database-and-files&quot;&gt;Backup your database and files&lt;/h3&gt;
-
-&lt;p&gt;It’s sounds simple, but it’s amazing how many new clients we meet that don’t already do this simple step. You can do this manually or use an available plugin. For simple sites, we recommend backup buddy which backs up your entire wordpress site. Unlike free plugins which only backup your database, backup buddy exports your entire database with images, files and whatever you have in your blog’s content folder.&lt;/p&gt;
-
-&lt;p&gt;We take this one step further for our clients and backup all our sites on a cloud distributed network. Snapshots are taken every day and all changes are logged and monitored for security.&lt;/p&gt;
-
-&lt;h3 id=&quot;keep-wordpress-updated&quot;&gt;Keep Wordpress Updated&lt;/h3&gt;
-
-&lt;p&gt;The websites using old WordPress core are more likely to suffer from hacks and attacks. And the latest WordPress has fixed many security holes. So, you should keep your WordPress installation up to date. Besides, we also suggest you hide the WordPress version in the header tag.&lt;/p&gt;
-
-&lt;h3 id=&quot;change-the-login-username-and-passwords&quot;&gt;Change the Login Username and Passwords&lt;/h3&gt;
-
-&lt;p&gt;The default WordPress login username and password are both “admin”, and almost all hackers know that. You should change them to others which are difficult to guess. The strong password should contain characters, numbers and hyphens. And do not use your birthdays or names as passwords as your acquaintances may know it. Eventually, the best is to create a custom new login and delete the default login.&lt;/p&gt;
-
-&lt;h3 id=&quot;lock-down-your-file-permission&quot;&gt;Lock down Your File Permission&lt;/h3&gt;
-
-&lt;p&gt;Your site can be boiled down with a series of files and folders, which have been assigned a set of permissions to be read, written, and executed. Thus, the file that has been locked down is undoubtedly much more secure than the one that allows anyone to write and execute.&lt;/p&gt;
-
-&lt;h3 id=&quot;use-ssl&quot;&gt;Use SSL&lt;/h3&gt;
-
-&lt;p&gt;SSL is the short name for Secure Sockets Layer that can build a bond between browsers and servers. In the whole process, it encrypts and hides data when they are transferring on the internet. There is only one unique key to decipher the encrypted information. In this way, data of your website can keep safe in the transmission process.&lt;/p&gt;
-
-&lt;h3 id=&quot;limit-the-number-of-failed-login&quot;&gt;Limit the Number of Failed Login&lt;/h3&gt;
-
-&lt;p&gt;It is effective for increasing WordPress security by limiting the failed login attempts. By default, WordPress allows users unlimited login attempts, with which the hackers can try to crack the password again and again. So, you can prevent this case by limiting the failed login attempts.&lt;/p&gt;
-
-&lt;h3 id=&quot;protect-wordpress-admin-files&quot;&gt;Protect WordPress Admin Files&lt;/h3&gt;
-
-&lt;p&gt;WordPress admin files should be accessed only by you and the person your designated. So you can restrict access by using .htaccess to allow specific IP addresses to this directory.&lt;/p&gt;
-
-&lt;p&gt;It’s a good option to have a static IP address and blog from your own computer. On the other hand, if you have a multi-user website, then you can use this or you can allow access from a range of IPs. Copy and paste the following code to the .htaccess in the wp-admin folder.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# deny access to wp admin
-order deny,allow
-allow from xx.xx.xx.xx # This is your static IP
-deny from all
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
-
-&lt;p&gt;Prevention is better than cure. No one can guarantee that your website will not get hacked, but we are sure the chances of getting attacked will be very less. There are many more steps involved to fully protect your site from hackers and it’s something we take very seriously here at Velvet Squid.&lt;/p&gt;
-
-&lt;p&gt;If you need a bit of help with securing your Wordpress blog, make sure to check out our &lt;a href=&quot;http://velvetsquid.com/services/wordpress-care.html&quot;&gt;Wordpress Site Care Packages&lt;/a&gt;. We can handle everything for you and you can stop worrying about your Wordpress site. We are certain you would prefer to focus on your business instead.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 20 Apr 2016 19:28:25 +1000</pubDate>
-        <link>http://velvetsquid.com/blog/prevent-your-wordpress-site-from-being-hacked.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/blog/prevent-your-wordpress-site-from-being-hacked.html</guid>
-        
-        <category>wordpress</category>
-        
-        <category>security</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Web and Mobile</title>
-        <description>&lt;!-- Header --&gt;
-&lt;section class=&quot;page-title parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/services/webmobile.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
-    &lt;div class=&quot;parallax-overlay&quot;&gt;
-        &lt;div class=&quot;centrize&quot;&gt;
-            &lt;div class=&quot;v-center&quot;&gt;
-                &lt;div class=&quot;container&quot;&gt;
-                    &lt;div class=&quot;title center&quot;&gt;
-                        &lt;h1 class=&quot;upper&quot;&gt;Web and Mobile&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
-                        &lt;h4&gt;Our team are experts at creating everything from basic business websites to complex mobile apps.&lt;/h4&gt;
-                        &lt;hr&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;!-- end of container--&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;title center&quot;&gt;
-            &lt;h4 class=&quot;upper&quot;&gt;We speak your language.&lt;/h4&gt;
-            &lt;h2&gt;The Full Stack&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-            &lt;hr&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;section-content&quot;&gt;
-            &lt;div class=&quot;row&quot;&gt;
-                &lt;div class=&quot;col-sm-4&quot;&gt;
-                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-                        &lt;hr&gt;
-                        &lt;h4&gt;Websites&lt;/h4&gt;
-                        &lt;p class=&quot;alt-paragraph&quot;&gt;Our team are experts at PHP, HTML, CSS, Javascript, and about another 100 terms that you don&#39;t need to understand. Short answer is that we know the web. &lt;/p&gt;
-                    &lt;/div&gt;
-                    &lt;!-- end of icon box--&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-sm-4&quot;&gt;
-                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-mobile&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-mobile&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-                        &lt;hr&gt;
-                        &lt;h4&gt;Mobile Apps&lt;/h4&gt;
-                        &lt;p class=&quot;alt-paragraph&quot;&gt;1.2 billion people are accessing the web on mobile devices these days. That is over 80% of users. It&#39;s time you got optimised for mobile today.&lt;/p&gt;
-                    &lt;/div&gt;
-                    &lt;!-- end of icon box--&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-sm-4&quot;&gt;
-                    &lt;div class=&quot;icon-box-small outlined mb-25&quot;&gt;&lt;i class=&quot;icon-cloud&quot;&gt;&lt;/i&gt;&lt;span class=&quot;back-icon&quot;&gt;&lt;i class=&quot;icon-cloud&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-                        &lt;hr&gt;
-                        &lt;h4&gt;Hosting &amp; Support&lt;/h4&gt;
-                        &lt;p class=&quot;alt-paragraph&quot;&gt;An incredible website is no good to anyone if it&#39;s hosted on a poor server. This is why we choose to work with the worlds fastest cloud based server network.&lt;/p&gt;
-                    &lt;/div&gt;
-                    &lt;!-- end of icon box--&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;!-- end of row--&gt;
-        &lt;/div&gt;
-        &lt;!-- end of section content--&gt;
-    &lt;/div&gt;
-    &lt;!-- end of container--&gt;
-&lt;/section&gt;
-&lt;section class=&quot;p-0 b-0&quot;&gt;
-    &lt;div class=&quot;boxes&quot;&gt;
-        &lt;div class=&quot;container-fluid&quot;&gt;
-            &lt;div class=&quot;row&quot;&gt;
-                &lt;div data-bg-color=&quot;#eee&quot; class=&quot;col-md-3 col-sm-6&quot; style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;
-                    &lt;div class=&quot;number-box&quot;&gt;&lt;span&gt;Item No.&lt;/span&gt;
-                        &lt;h2&gt;01&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-                        &lt;h4&gt;Discover.&lt;/h4&gt;
-                        &lt;p&gt;Before any project starts we make it a priority to get to know you, your goals, and your audience.&lt;/p&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div data-bg-color=&quot;#f2f2f2&quot; class=&quot;col-md-3 col-sm-6&quot; style=&quot;background-color: rgb(242, 242, 242);&quot;&gt;
-                    &lt;div class=&quot;number-box&quot;&gt;&lt;span&gt;Item No.&lt;/span&gt;
-                        &lt;h2&gt;02&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-                        &lt;h4&gt;Design.&lt;/h4&gt;
-                        &lt;p&gt;Our team work fast, and they iterate designs collaboratively with you the client. This way their are no nasty surprises.&lt;/p&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div data-bg-color=&quot;#f6f6f6&quot; class=&quot;col-md-3 col-sm-6&quot; style=&quot;background-color: rgb(246, 246, 246);&quot;&gt;
-                    &lt;div class=&quot;number-box&quot;&gt;&lt;span&gt;Item No.&lt;/span&gt;
-                        &lt;h2&gt;03&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-                        &lt;h4&gt;Development.&lt;/h4&gt;
-                        &lt;p&gt;This is where we get nerdy. Our developers write thousands of lines or perfect code to bring your design to life.&lt;/p&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div data-bg-color=&quot;#f9f9f9&quot; class=&quot;col-md-3 col-sm-6&quot; style=&quot;background-color: rgb(249, 249, 249);&quot;&gt;
-                    &lt;div class=&quot;number-box&quot;&gt;&lt;span&gt;Item No.&lt;/span&gt;
-                        &lt;h2&gt;04&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-                        &lt;h4&gt;Deploy.&lt;/h4&gt;
-                        &lt;p&gt;All sites are deployed using our network of cloud based servers. We manage backups, security, so you don&#39;t have to.&lt;/p&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;!-- end of row--&gt;
-        &lt;/div&gt;
-        &lt;!-- end of container--&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-
-
-&lt;section class=&quot;parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://velvetsquid.com/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
-    &lt;div class=&quot;parallax-overlay pb-50 pt-50&quot;&gt;
-        &lt;div class=&quot;container&quot;&gt;
-            &lt;div class=&quot;title center&quot;&gt;
-                &lt;h3&gt;What They Say&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
-                &lt;hr&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;section-content&quot;&gt;
-                &lt;div id=&quot;testimonials-slider&quot; data-options=&quot;{&amp;quot;animation&amp;quot;: &amp;quot;slide&amp;quot;, &amp;quot;controlNav&amp;quot;: true}&quot; class=&quot;flexslider nav-outside&quot;&gt;
-                    &lt;div class=&quot;flex-viewport&quot; style=&quot;overflow: hidden; position: relative;&quot;&gt;
-                        &lt;ol class=&quot;slides&quot; style=&quot;width: 800%; transition-duration: 1s; transform: translate3d(-1400px, 0px, 0px);&quot;&gt;
-                            &lt;li class=&quot;&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
-                                &lt;blockquote&gt;
-                                    &lt;p&gt;&quot;Thanks to your help we made front page of the Sydney Morning Herald and it&#39;s been well received on twitter!&quot;&lt;/p&gt;
-                                    &lt;footer&gt;Melissa Fuller - Rice Warner.&lt;/footer&gt;
-                                &lt;/blockquote&gt;
-                            &lt;/li&gt;
-                            &lt;li class=&quot;&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
-                                &lt;blockquote&gt;
-                                    &lt;p&gt;&quot;The site looks so good! I think I&#39;m going to cry.&quot;&lt;/p&gt;
-                                    &lt;footer&gt;Karen Gregory - LJ Hooker&lt;/footer&gt;
-                                &lt;/blockquote&gt;
-                            &lt;/li&gt;
-                            &lt;li class=&quot;clone&quot; aria-hidden=&quot;true&quot; style=&quot;width: 700px; float: left; display: block;&quot;&gt;
-                                &lt;blockquote&gt;
-                                    &lt;p&gt;&quot;We could not be happier with the results of the iPad app.&quot;&lt;/p&gt;
-                                    &lt;footer&gt;Jay Macnish - Vanguard Investments&lt;/footer&gt;
-                                &lt;/blockquote&gt;
-                            &lt;/li&gt;
-                        &lt;/ol&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;!-- end of container--&gt;
-        &lt;/div&gt;
-&lt;/section&gt;
-
-
-&lt;section&gt;
-
-  &lt;div class=&quot;container&quot;&gt;
-    &lt;div class=&quot;title center&quot;&gt;
-      &lt;h4 class=&quot;upper&quot;&gt;Let&#39;s work together.&lt;/h4&gt;
-      &lt;h2&gt;Contact Us&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h2&gt;
-      &lt;hr&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;section-content&quot;&gt;
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2&quot;&gt;
-          &lt;div class=&quot;contact-form&quot;&gt;
-            &lt;form id=&quot;contact-form&quot; method=&quot;POST&quot; action=&quot;https://formspree.io/hello@velvetsquid.com&quot;&gt;
-              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;http://velvetsquid.com/thanks.html&quot; /&gt;
-              &lt;div class=&quot;form-group&quot;&gt;
-                &lt;input name=&quot;fullname&quot; type=&quot;text&quot; placeholder=&quot;Your Name&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
-              &lt;/div&gt;
-              &lt;div class=&quot;form-group&quot;&gt;
-                &lt;input name=&quot;email&quot; type=&quot;email&quot; placeholder=&quot;Your Email&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
-              &lt;/div&gt;
-              &lt;div class=&quot;form-group&quot;&gt;
-                &lt;input name=&quot;phone&quot; type=&quot;text&quot; placeholder=&quot;Phone Number&quot; class=&quot;form-control&quot;&gt;
-              &lt;/div&gt;
-              &lt;div class=&quot;form-group&quot;&gt;
-                &lt;textarea name=&quot;message&quot; placeholder=&quot;Message&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;&lt;/textarea&gt;
-              &lt;/div&gt;
-              &lt;div class=&quot;form-group text-center&quot;&gt;
-                &lt;button type=&quot;submit&quot; class=&quot;btn btn-color&quot;&gt;Send Message&lt;/button&gt;
-              &lt;/div&gt;
-            &lt;/form&gt;
-          &lt;/div&gt;
-          &lt;!-- end of contact form--&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;!-- end of row--&gt;
-    &lt;/div&gt;
-    &lt;!-- end of section content--&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-
- &lt;section class=&quot;controllers p-0&quot;&gt;
-	&lt;div class=&quot;container&quot;&gt;
-		&lt;div class=&quot;projects-controller&quot;&gt;
-		
-			&lt;a href=&quot;#&quot; class=&quot;prev&quot;&gt;
-				&lt;span&gt;&lt;/span&gt;
-			&lt;/a&gt;
-		 
-			&lt;a href=&quot;http://velvetsquid.com/services/&quot; class=&quot;all&quot;&gt;
-				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-			&lt;/a&gt;
-		
-			&lt;a href=&quot;#&quot; class=&quot;prev&quot;&gt;&lt;/a&gt;
-		 
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/section&gt;
-</description>
-        <pubDate>Tue, 02 Feb 2016 20:28:25 +1100</pubDate>
-        <link>http://velvetsquid.com/services/web-mobile.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/services/web-mobile.html</guid>
-        
-        
-        <category>services</category>
-        
-      </item>
-    
-      <item>
-        <title>Tyroe - Marketing Landing Pages</title>
-        <description>&lt;section class=&quot;page-title parallax&quot;&gt;
-      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/tyroe-ipad.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
-      &lt;div class=&quot;parallax-overlay&quot;&gt;
-        &lt;div class=&quot;centrize&quot;&gt;
-          &lt;div class=&quot;v-center&quot;&gt;
-            &lt;div class=&quot;container&quot;&gt;
-              &lt;div class=&quot;title center&quot;&gt;
-                &lt;h1 class=&quot;upper&quot;&gt;Tyroe - Marketing&lt;span class=&quot;red-dot&quot;&gt;&lt;/span&gt;&lt;/h1&gt;
-                &lt;h4&gt;Promotional landing page and videos, business cards, and branding.&lt;/h4&gt;
-                &lt;hr&gt;
-              &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;!-- end of container--&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/section&gt;
-    &lt;section id=&quot;about&quot;&gt;
-      &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;section-content&quot;&gt;
-          &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
-              &lt;p class=&quot;lead-text serif text-center&quot;&gt;The client required a full suite of marketing material for their SAAS product. The landing pages were used to build their Mailchimp Newsletter. Two promotional videos were created in-house to drive traffic to the Tyroe website. Business cards, brochures, and stickers were designed and printed for use at various live events.&lt;/p&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;!-- end of row--&gt;
-        &lt;/div&gt;
-        &lt;!-- end of section content--&gt;
-      &lt;/div&gt;
-      &lt;!-- end of container--&gt;
-    &lt;/section&gt;
-    &lt;section style=&quot;background-color: #e8e8e8; padding-bottom: 120px;&quot;&gt;
-      &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;media-video&quot;&gt;
-          &lt;iframe width=&quot;1140&quot; height=&quot;641&quot; src=&quot;https://www.youtube.com/embed/vXUy0cfiROU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-          &lt;div style=&quot;position: absolute; bottom: -57px;width: 100%;text-align: center;&quot;&gt;Promotional video used to showcase the benefits of the service and encourage pre-registrations.&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/section&gt;
-    &lt;section class=&quot;b-1&quot;&gt;
-      &lt;div class=&quot;container stacked&quot;&gt;
-        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe-landing-01.png&quot; alt=&quot;&quot;&gt;
-      &lt;/div&gt;
-    &lt;/section&gt;
-    &lt;section class=&quot;simple-parallax&quot; style=&quot;height:640px&quot;&gt;
-      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;images/portfolio/tyroe-business-cards.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
-    &lt;/section&gt;
-    &lt;section style=&quot;background-color:#DEDEDE&quot;&gt;
-      &lt;div class=&quot;container stacked&quot;&gt;
-        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe-landing-02.png&quot; alt=&quot;&quot;&gt;
-      &lt;/div&gt;
-    &lt;/section&gt;
-     &lt;section class=&quot;b-1&quot;&gt;
-      &lt;div class=&quot;container stacked&quot;&gt;
-        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe-brochure-01.jpg&quot; alt=&quot;&quot;&gt;
-        &lt;img class=&quot;img-border&quot; src=&quot;images/portfolio/tyroe_mockup.jpg&quot; alt=&quot;&quot;&gt;
-      &lt;/div&gt;
-    &lt;/section&gt;
-   
-    &lt;section class=&quot;controllers p-0&quot;&gt;
-	&lt;div class=&quot;container&quot;&gt;
-		&lt;div class=&quot;projects-controller&quot;&gt;
-		
-			&lt;a href=&quot;/promo-video.html&quot; class=&quot;prev&quot;&gt;
-				&lt;span&gt;&lt;i class=&quot;ti-arrow-left&quot;&gt;&lt;/i&gt;Previous&lt;/span&gt;
-			&lt;/a&gt;
-		 
-			&lt;a href=&quot;http://velvetsquid.com/#portfolio&quot; class=&quot;all&quot;&gt;
-				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-			&lt;/a&gt;
-		
-			&lt;a href=&quot;#&quot; class=&quot;prev&quot;&gt;&lt;/a&gt;
-		 
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/section&gt;
-</description>
-        <pubDate>Thu, 14 Jan 2016 20:28:25 +1100</pubDate>
-        <link>http://velvetsquid.com/tyroe-marketing.html</link>
-        <guid isPermaLink="true">http://velvetsquid.com/tyroe-marketing.html</guid>
-        
-        
-        <category>Portfolio</category>
         
       </item>
     

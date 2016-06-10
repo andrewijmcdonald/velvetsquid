@@ -28,8 +28,8 @@ label.checkbox-inline {
 section.splash.blue:after {
     background-color: #18afd3;
 }
-.progress {
-    height: 5px;
+.progress.report {
+    height: 5px!important;
 }
 
 .skill.scores{

@@ -2,12 +2,12 @@
 <html lang="en">
   <head>
 	
-		<title>Thanks</title>
+		<title>Reports</title>
 	
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	
-		<meta name="description" content="Thanks for contacting us, we will be in touch shortly.">
+		<meta name="description" content="Rantings and Ramblings from Velvet Squid">
 	
 	
 		<meta name="keywords" content="web, design, wordpress, creative director, innovation, brand identity, web design, web development, mobile apps">
@@ -40,23 +40,23 @@
 	<![endif]-->
 	<meta content="Velvet Squid - Experts in web & mobile, brand identity, creative direction, and innovation." property="og:site_name">
 	
-	  <meta content="Thanks" property="og:title">
+	  <meta content="Reports" property="og:title">
 	
 	
 	  <meta content="article" property="og:type">
 	
 	
-	  <meta content="Thanks for contacting us, we will be in touch shortly." property="og:description">
+	  <meta content="Rantings and Ramblings from Velvet Squid" property="og:description">
 	
 	
-	  <meta content="http://localhost:3000/images/bg/tyroe-block.jpg" property="og:image">
+	  <meta content="http://localhost:3000/images/bg/services.jpg" property="og:image">
 	
 	
-	  <meta content="http://localhost:3000/thanks.html" property="og:url">
+	  <meta content="http://localhost:3000/reports/" property="og:url">
 	
 	
 	
-	  <meta content="http://localhost:3000/images/bg/tyroe-block.jpg" property="og:image">
+	  <meta content="http://localhost:3000/images/portfolio/logo-high-resolution.png" property="og:image">
 	
 	
 	
@@ -113,29 +113,94 @@
 
   <body>
   
-    <section id="home" class="splash parallax">
-  <div data-parallax="scroll" data-image-src="images/bg/banner-home-3.jpg" class="parallax-bg"></div>
-    <div class="centrize">
-        <div class="v-center">
-            <div class="slide-content text-left bold-text">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8 col-md-offset-2">
-                            <h1>Thanks for<br>contacting us!<span class="red-dot"></span></h1>
-                            <h6>We will get back to you promptly.</h6>
-                            <p><a href="http://localhost:3000" data-scroll="true" class="btn btn-color btn-full">Back Home</a>
-                            </p>
-                        </div>
-                    </div>
+    <?php
+// MUST be using composer
+require_once '/Users/andrew/Work/Velvet\ Squid/Website/VS-Development/vendor/autoload.php';
+session_start();	 	
+
+$client = new Google_Client();	 	
+// Name of proj in GoogleDeveloperConsole
+$client->setApplicationName("Connekt Local");
+
+// Generated in GoogleDeveloperConsole --> Credentials --> Service Accounts
+$client->setAuthConfig('/Users/andrew/Work/Velvet\ Squid/Website/VS-Development/Connekt\ Local-0a03a5d84af8.json');
+$client->addScope(Google_Service_Analytics::ANALYTICS_READONLY);
+
+// Grab token if it's set
+if (isset($_SESSION['service_token'])) {
+ 	$client->setAccessToken($_SESSION['service_token']);
+}
+
+// Refresh if expired
+if ($client->isAccessTokenExpired()) {
+	$client->refreshTokenWithAssertion();
+}
+
+// Pin to Session
+$_SESSION['service_token'] = $client->getAccessToken();
+
+$myToken = $client->getAccessToken();
+?>
+
+<script>
+(function(w,d,s,g,js,fs){
+g=w.gapi||(w.gapi={});g.analytics={q:[],ready:function(f){this.q.push(f);}};
+js=d.createElement(s);fs=d.getElementsByTagName(s)[0];
+js.src='https://apis.google.com/js/platform.js';
+fs.parentNode.insertBefore(js,fs);js.onload=function(){g.load('analytics');};
+}(window,document,'script'));
+</script>
+<section>
+    <div class="container">
+        <div class="section-content">
+            <div class="row">
+                <div>
+					<div id="chart-1-container"></div>
                 </div>
             </div>
-            <!-- end of row-->
         </div>
         <!-- end of container-->
     </div>
-  </div>
 </section>
+<script>
+gapi.analytics.ready(function() {
 
+  /**
+   * Authorize the user with an access token obtained server side.
+   */
+  gapi.analytics.auth.authorize({
+    'serverAuth': {
+      'access_token': '<?php print_r($myToken["access_token"]); ?>'
+    }
+  });
+
+  /**
+   * Creates a new DataChart instance showing sessions over the past 30 days.
+   * It will be rendered inside an element with the id "chart-1-container".
+   */
+  var dataChart1 = new gapi.analytics.googleCharts.DataChart({
+    query: {
+      'ids': 'ga:122049873', 			// THIS NEEDS TO BE A VIEW
+      'start-date': '30daysAgo',		// THAT YOUR SERVICE ACCOUNT HAS
+      'end-date': 'yesterday',			// ACCESS TO
+      'metrics': 'ga:sessions,ga:users',
+      'dimensions': 'ga:date'
+    },
+    chart: {
+      'container': 'chart-1-container',
+      'type': 'LINE',
+      'options': {
+        'width': '100%'
+      }
+    }
+  });
+  dataChart1.execute();
+});
+</script>
+
+
+</body>
+</html>
 
     <!-- Footer-->
     <footer id="footer-widgets">
