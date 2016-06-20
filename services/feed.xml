@@ -4,17 +4,17 @@
     <title>Velvet Squid - Experts in web &amp; mobile, brand identity, creative direction, and innovation.</title>
     <description>Velvet Squid is a Sydney based design studio focusing on creating pixel perfect digital media. If you are a small business owner with a killer idea, or an established brand looking for creative direction, we can help you bring your ideas to life in print, web, and digital media.
 </description>
-    <link>http://localhost:3000/</link>
-    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Jun 2016 17:29:03 +1000</pubDate>
-    <lastBuildDate>Fri, 10 Jun 2016 17:29:03 +1000</lastBuildDate>
+    <link>https://velvetsquid.com/</link>
+    <atom:link href="https://velvetsquid.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 20 Jun 2016 10:27:01 +1000</pubDate>
+    <lastBuildDate>Mon, 20 Jun 2016 10:27:01 +1000</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Casestudy - Designing a better small business website</title>
         <description>    &lt;!-- Home Section--&gt;
     &lt;section id=&quot;home&quot; class=&quot;splash parallax blue&quot;&gt;
-      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;https://velvetsquid.com/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
       &lt;div class=&quot;centrize&quot;&gt;
         &lt;div class=&quot;v-center&quot;&gt;
           &lt;div class=&quot;container&quot;&gt;
@@ -152,7 +152,7 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/dentist-on-paxton-score.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/dentist-on-paxton-score.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;!-- end of section content--&gt;
       &lt;/div&gt;
@@ -175,7 +175,7 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/diamond-care-dental/seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;!-- end of section content--&gt;
       &lt;/div&gt;
@@ -231,10 +231,10 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/section&gt;
@@ -259,8 +259,8 @@
       &lt;/div&gt;
     &lt;/section&gt;</description>
         <pubDate>Sat, 28 May 2016 19:28:25 +1000</pubDate>
-        <link>http://localhost:3000/blog/designing-a-better-small-business-website.html</link>
-        <guid isPermaLink="true">http://localhost:3000/blog/designing-a-better-small-business-website.html</guid>
+        <link>https://velvetsquid.com/blog/designing-a-better-small-business-website.html</link>
+        <guid isPermaLink="true">https://velvetsquid.com/blog/designing-a-better-small-business-website.html</guid>
         
         <category>web</category>
         
@@ -283,31 +283,31 @@
 
 &lt;h3 id=&quot;the-hamburger-menu&quot;&gt;The hamburger menu&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/hamburger.gif&quot; alt=&quot;Hamburge menu&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://velvetsquid.com/images/blog/hamburger.gif&quot; alt=&quot;Hamburge menu&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Love it or hate it, the hamburger menu is still going strong in 2016. It’s extremely recognisable and it’s clean. Users are more familiar with this little three lined icon and until a new solution gains momentum their will be hamburgers everywhere.&lt;/p&gt;
 
 &lt;h3 id=&quot;long-scroll&quot;&gt;Long Scroll&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/long-scroll.jpg&quot; alt=&quot;Long scroll websites&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://velvetsquid.com/images/blog/long-scroll.jpg&quot; alt=&quot;Long scroll websites&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Placing all your important elements above the fold is now a well-known myth. Furthermore, almost everyone is accustomed to long scrolls thanks to mobile devices. The technique works especially well for sites that want to lure users through storytelling, and you can still mimic a multi-page site by breaking the scroll into clear sections.&lt;/p&gt;
 
 &lt;h3 id=&quot;card-layouts&quot;&gt;Card layouts&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/card-layout.jpg&quot; alt=&quot;Card layouts&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://velvetsquid.com/images/blog/card-layout.jpg&quot; alt=&quot;Card layouts&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Those little rectangles full of inclusive images and text have been so successful in Web design that they’ve almost become a default option when it comes to balancing clear aesthetics with simple usability. But don’t mistake trendiness for usefulness – there’s a reason cards are so popular.&lt;/p&gt;
 
 &lt;h3 id=&quot;hero-video-headers&quot;&gt;Hero Video Headers&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/video.jpg&quot; alt=&quot;Hero Video Headers&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://velvetsquid.com/images/blog/video.jpg&quot; alt=&quot;Hero Video Headers&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Websites design is going to the movies. Higher speed Internet connections and better video plugin integration is making it easier for more websites to include an immersive movie-style experience. Video clips are growing from small snippets to almost full-length preview clips. The images are sharp, crisp and in high definition, creating a video experience online that is new to users, but familiar from other devices, such as televisions.&lt;/p&gt;
 
 &lt;h3 id=&quot;illustration-and-sketches&quot;&gt;Illustration and Sketches&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/sketch.jpg&quot; alt=&quot;Hero Video Headers&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://velvetsquid.com/images/blog/sketch.jpg&quot; alt=&quot;Hero Video Headers&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Illustrations and sketches bring a fun element of whimsy to a site design. They can work for sites of all types and aren’t just for children anymore. The illustration style has also started to grow in popularity when it comes to some of the smaller pieces of website design as well, such as icons and other user interface elements. What’s nice about this trend is that illustrations make a site feel a little more personal. Because an illustration or sketch style icon appears to be hand-drawn, it looks and feels personal for users. That can go a long way into creating a connection with them.&lt;/p&gt;
 
@@ -319,8 +319,8 @@
 
 </description>
         <pubDate>Mon, 16 May 2016 19:28:25 +1000</pubDate>
-        <link>http://localhost:3000/blog/2016-web-design-trends.html</link>
-        <guid isPermaLink="true">http://localhost:3000/blog/2016-web-design-trends.html</guid>
+        <link>https://velvetsquid.com/blog/2016-web-design-trends.html</link>
+        <guid isPermaLink="true">https://velvetsquid.com/blog/2016-web-design-trends.html</guid>
         
         <category>web</category>
         
@@ -337,7 +337,7 @@
     
       <item>
         <title>Stop boring people to death with your slide presenatations</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/BoredAudience.jpg&quot; alt=&quot;Bored audience&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://velvetsquid.com/images/blog/BoredAudience.jpg&quot; alt=&quot;Bored audience&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;you-are-using-too-much-text&quot;&gt;You are using too much text&lt;/h3&gt;
 
@@ -396,15 +396,15 @@
 
 &lt;p&gt;We know that not everyone is a designer, but this is where Velvet Squid can help. We have a few guru presentation designers in our team and they are truly “slide ninjas”. Below&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/slide-example.jpg&quot; alt=&quot;example slide presentation&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://velvetsquid.com/images/blog/slide-example.jpg&quot; alt=&quot;example slide presentation&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;its-time-to-call-in-the-experts&quot;&gt;It’s time to call in the experts&lt;/h3&gt;
 
-&lt;p&gt;Why not &lt;a href=&quot;http://localhost:3000/#contact&quot;&gt;contact us at Velvet Squid&lt;/a&gt; and we can convert an existing slide deck or help you with your next project. You will be amazed at the difference it can make.&lt;/p&gt;
+&lt;p&gt;Why not &lt;a href=&quot;https://velvetsquid.com/#contact&quot;&gt;contact us at Velvet Squid&lt;/a&gt; and we can convert an existing slide deck or help you with your next project. You will be amazed at the difference it can make.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 May 2016 19:28:25 +1000</pubDate>
-        <link>http://localhost:3000/blog/stop-boring-people-to-death-with-slide-presentations.html</link>
-        <guid isPermaLink="true">http://localhost:3000/blog/stop-boring-people-to-death-with-slide-presentations.html</guid>
+        <link>https://velvetsquid.com/blog/stop-boring-people-to-death-with-slide-presentations.html</link>
+        <guid isPermaLink="true">https://velvetsquid.com/blog/stop-boring-people-to-death-with-slide-presentations.html</guid>
         
         <category>presentations</category>
         
@@ -419,7 +419,7 @@
         <title>St Ives Dental Group</title>
         <description>    &lt;!-- Home Section--&gt;
     &lt;section id=&quot;home&quot; class=&quot;splash parallax blue&quot;&gt;
-      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;https://velvetsquid.com/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
       &lt;div class=&quot;centrize&quot;&gt;
         &lt;div class=&quot;v-center&quot;&gt;
           &lt;div class=&quot;container&quot;&gt;
@@ -557,7 +557,7 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/stives-dental-performance.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/stives-dental-performance.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;!-- end of section content--&gt;
       &lt;/div&gt;
@@ -581,7 +581,7 @@
           &lt;/div&gt;
         &lt;/div&gt;
        &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/stives-dental-mobile.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot; &gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/stives-dental-mobile.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot; &gt;
         &lt;/div&gt;
         &lt;!-- end of section content--&gt;
       &lt;/div&gt;
@@ -605,7 +605,7 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/stives-dental-seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/stives-dental-seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;!-- end of section content--&gt;
       &lt;/div&gt;
@@ -661,10 +661,10 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/section&gt;
@@ -689,8 +689,8 @@
       &lt;/div&gt;
     &lt;/section&gt;</description>
         <pubDate>Thu, 05 May 2016 19:28:25 +1000</pubDate>
-        <link>http://localhost:3000/private/casestudy/stives-dental.html</link>
-        <guid isPermaLink="true">http://localhost:3000/private/casestudy/stives-dental.html</guid>
+        <link>https://velvetsquid.com/private/casestudy/stives-dental.html</link>
+        <guid isPermaLink="true">https://velvetsquid.com/private/casestudy/stives-dental.html</guid>
         
         
         <category>casestudy</category>
@@ -701,7 +701,7 @@
         <title>Diamond Care Dental</title>
         <description>    &lt;!-- Home Section--&gt;
     &lt;section id=&quot;home&quot; class=&quot;splash parallax blue&quot;&gt;
-      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;https://velvetsquid.com/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
       &lt;div class=&quot;centrize&quot;&gt;
         &lt;div class=&quot;v-center&quot;&gt;
           &lt;div class=&quot;container&quot;&gt;
@@ -839,7 +839,7 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/reviews/dentist-score.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/reviews/dentist-score.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;!-- end of section content--&gt;
       &lt;/div&gt;
@@ -862,7 +862,7 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-10 col-md-offset-1&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/diamond-care-dental/seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;!-- end of section content--&gt;
       &lt;/div&gt;
@@ -918,10 +918,10 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/diamond-care-dental/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/diamond-care-dental/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/section&gt;
@@ -946,8 +946,8 @@
       &lt;/div&gt;
     &lt;/section&gt;</description>
         <pubDate>Thu, 05 May 2016 19:28:25 +1000</pubDate>
-        <link>http://localhost:3000/private/casestudy/diamond-care-dental.html</link>
-        <guid isPermaLink="true">http://localhost:3000/private/casestudy/diamond-care-dental.html</guid>
+        <link>https://velvetsquid.com/private/casestudy/diamond-care-dental.html</link>
+        <guid isPermaLink="true">https://velvetsquid.com/private/casestudy/diamond-care-dental.html</guid>
         
         
         <category>casestudy</category>
@@ -968,7 +968,7 @@
 
 &lt;p&gt;As of May 2014, mobile media consumption was 21% higher that that of desktop, accounting for 51% of all digital media consumption.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:3000/images/blog/mobile-infographic.jpg&quot; alt=&quot;Mobile usage infographic&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://velvetsquid.com/images/blog/mobile-infographic.jpg&quot; alt=&quot;Mobile usage infographic&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;responsive-design-is-preferred-for-seo&quot;&gt;3. Responsive design is preferred for SEO.&lt;/h3&gt;
 
@@ -1000,8 +1000,8 @@
 
 </description>
         <pubDate>Thu, 05 May 2016 19:28:25 +1000</pubDate>
-        <link>http://localhost:3000/blog/6-reasons-website-needs-to-be-mobile-optimised.html</link>
-        <guid isPermaLink="true">http://localhost:3000/blog/6-reasons-website-needs-to-be-mobile-optimised.html</guid>
+        <link>https://velvetsquid.com/blog/6-reasons-website-needs-to-be-mobile-optimised.html</link>
+        <guid isPermaLink="true">https://velvetsquid.com/blog/6-reasons-website-needs-to-be-mobile-optimised.html</guid>
         
         <category>mobile</category>
         
@@ -1020,7 +1020,7 @@
         <title>Graphics</title>
         <description>&lt;!-- Header --&gt;
 &lt;section class=&quot;page-title parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/bg/5.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;https://velvetsquid.com/images/bg/5.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;parallax-overlay&quot;&gt;
         &lt;div class=&quot;centrize&quot;&gt;
             &lt;div class=&quot;v-center&quot;&gt;
@@ -1063,7 +1063,7 @@
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-sm-6 img-side img-left&quot;&gt;
                 &lt;div class=&quot;img-holder&quot;&gt;
-                    &lt;img src=&quot;http://localhost:3000/images/services/logos.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
+                    &lt;img src=&quot;https://velvetsquid.com/images/services/logos.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -1090,7 +1090,7 @@
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-sm-6 img-side img-right&quot;&gt;
                 &lt;div class=&quot;img-holder&quot;&gt;
-                    &lt;img src=&quot;http://localhost:3000/images/services/magazines.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
+                    &lt;img src=&quot;https://velvetsquid.com/images/services/magazines.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -1116,7 +1116,7 @@
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-sm-6 img-side img-left&quot;&gt;
                 &lt;div class=&quot;img-holder&quot;&gt;
-                    &lt;img src=&quot;http://localhost:3000/images/services/stationary.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
+                    &lt;img src=&quot;https://velvetsquid.com/images/services/stationary.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -1142,7 +1142,7 @@
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-sm-6 img-side img-right&quot;&gt;
                 &lt;div class=&quot;img-holder&quot;&gt;
-                    &lt;img src=&quot;http://localhost:3000/images/services/presentation.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
+                    &lt;img src=&quot;https://velvetsquid.com/images/services/presentation.jpg&quot; alt=&quot;&quot; class=&quot;bg-img&quot;&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -1164,7 +1164,7 @@
     &lt;!-- end of container--&gt;
 &lt;/section&gt;
 &lt;section class=&quot;parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;https://velvetsquid.com/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;parallax-overlay pb-50 pt-50&quot;&gt;
         &lt;div class=&quot;container&quot;&gt;
             &lt;div class=&quot;title center&quot;&gt;
@@ -1213,7 +1213,7 @@
         &lt;div class=&quot;col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2&quot;&gt;
           &lt;div class=&quot;contact-form&quot;&gt;
             &lt;form id=&quot;contact-form&quot; method=&quot;POST&quot; action=&quot;https://formspree.io/hello@velvetsquid.com&quot;&gt;
-              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;http://localhost:3000/thanks.html&quot; /&gt;
+              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;https://velvetsquid.com/thanks.html&quot; /&gt;
               &lt;div class=&quot;form-group&quot;&gt;
                 &lt;input name=&quot;fullname&quot; type=&quot;text&quot; placeholder=&quot;Your Name&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
               &lt;/div&gt;
@@ -1248,7 +1248,7 @@
 				&lt;span&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		 
-			&lt;a href=&quot;http://localhost:3000/services/&quot; class=&quot;all&quot;&gt;
+			&lt;a href=&quot;https://velvetsquid.com/services/&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -1259,8 +1259,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Wed, 04 May 2016 19:28:25 +1000</pubDate>
-        <link>http://localhost:3000/services/graphics.html</link>
-        <guid isPermaLink="true">http://localhost:3000/services/graphics.html</guid>
+        <link>https://velvetsquid.com/services/graphics.html</link>
+        <guid isPermaLink="true">https://velvetsquid.com/services/graphics.html</guid>
         
         
         <category>services</category>
@@ -1271,7 +1271,7 @@
         <title>Sydney Smiles Dental</title>
         <description>    &lt;!-- Home Section--&gt;
     &lt;section id=&quot;home&quot; class=&quot;splash parallax blue&quot;&gt;
-      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;https://velvetsquid.com/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
       &lt;div class=&quot;centrize&quot;&gt;
         &lt;div class=&quot;v-center&quot;&gt;
           &lt;div class=&quot;container&quot;&gt;
@@ -1409,7 +1409,7 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/sydney-smiles-dental-performance.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/sydney-smiles-dental-performance.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;!-- end of section content--&gt;
       &lt;/div&gt;
@@ -1434,7 +1434,7 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/sydney-smiles-dental-seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/sydney-smiles-dental-seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;!-- end of section content--&gt;
       &lt;/div&gt;
@@ -1490,10 +1490,10 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/section&gt;
@@ -1518,8 +1518,8 @@
       &lt;/div&gt;
     &lt;/section&gt;</description>
         <pubDate>Wed, 04 May 2016 19:28:25 +1000</pubDate>
-        <link>http://localhost:3000/private/casestudy/sydney-smiles-dental.html</link>
-        <guid isPermaLink="true">http://localhost:3000/private/casestudy/sydney-smiles-dental.html</guid>
+        <link>https://velvetsquid.com/private/casestudy/sydney-smiles-dental.html</link>
+        <guid isPermaLink="true">https://velvetsquid.com/private/casestudy/sydney-smiles-dental.html</guid>
         
         
         <category>casestudy</category>
@@ -1530,7 +1530,7 @@
         <title>Sydney Smiles Dental</title>
         <description>    &lt;!-- Home Section--&gt;
     &lt;section id=&quot;home&quot; class=&quot;splash parallax blue&quot;&gt;
-      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+      &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;https://velvetsquid.com/images/casestudy/diamond-care-dental/featured.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
       &lt;div class=&quot;centrize&quot;&gt;
         &lt;div class=&quot;v-center&quot;&gt;
           &lt;div class=&quot;container&quot;&gt;
@@ -1668,7 +1668,7 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/sydney-smiles-dental-performance.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/sydney-smiles-dental-performance.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;!-- end of section content--&gt;
       &lt;/div&gt;
@@ -1693,7 +1693,7 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/sydney-smiles-dental-seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/sydney-smiles-dental-seo.gif&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;!-- end of section content--&gt;
       &lt;/div&gt;
@@ -1747,10 +1747,10 @@
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/devices-concept-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-12&quot; style=&quot;text-align:center;&quot;&gt;
-          &lt;img src=&quot;http://localhost:3000/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
+          &lt;img src=&quot;https://velvetsquid.com/images/casestudy/dentists/concept-waterfall-01.jpg&quot; alt=&quot;&quot; class=&quot;mt-50&quot;&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/section&gt;
@@ -1775,8 +1775,8 @@
       &lt;/div&gt;
     &lt;/section&gt;</description>
         <pubDate>Wed, 04 May 2016 19:28:25 +1000</pubDate>
-        <link>http://localhost:3000/private/casestudy/sydney-smiles-dental.html</link>
-        <guid isPermaLink="true">http://localhost:3000/private/casestudy/sydney-smiles-dental.html</guid>
+        <link>https://velvetsquid.com/private/casestudy/sydney-smiles-dental.html</link>
+        <guid isPermaLink="true">https://velvetsquid.com/private/casestudy/sydney-smiles-dental.html</guid>
         
         
         <category>casestudy</category>
@@ -1787,7 +1787,7 @@
         <title>Wordpress Care</title>
         <description>&lt;!-- Header --&gt;
 &lt;section class=&quot;page-title parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/services/wordpress.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;https://velvetsquid.com/images/services/wordpress.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;parallax-overlay&quot;&gt;
         &lt;div class=&quot;centrize&quot;&gt;
             &lt;div class=&quot;v-center&quot;&gt;
@@ -1917,7 +1917,7 @@
       &lt;!-- end of container--&gt;
     &lt;/section&gt;
 &lt;section class=&quot;parallax&quot;&gt;
-    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;http://localhost:3000/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
+    &lt;div data-parallax=&quot;scroll&quot; data-image-src=&quot;https://velvetsquid.com/images/bg/16.jpg&quot; class=&quot;parallax-bg&quot;&gt;&lt;/div&gt;
     &lt;div class=&quot;parallax-overlay pb-50 pt-50&quot;&gt;
         &lt;div class=&quot;container&quot;&gt;
             &lt;div class=&quot;title center&quot;&gt;
@@ -1979,8 +1979,23 @@
                   &lt;li&gt;Support Desk Access&lt;/li&gt;
                   &lt;li&gt;Time Machine&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://localhost:3000/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
+                &lt;div class=&quot;pricing-footer&quot;&gt;
+                  
+                  &lt;form action=&quot;https://velvetsquid.com/create_subscription.php&quot; method=&quot;POST&quot;&gt;
+                    &lt;script
+                      src=&quot;https://checkout.stripe.com/checkout.js&quot; class=&quot;stripe-button&quot;
+                      data-key=&quot;pk_live_6Mu19y1PM96iHc7g4dKchjWe&quot;
+                      data-image=&quot;https://velvetsquid.com/images/logo-stripe.png&quot;
+                      data-name=&quot;Starter Package&quot;
+                      data-description=&quot;Monthly Wordpress Care Package&quot;
+                      data-amount=&quot;5600&quot;
+                      data-label=&quot;Get Started&quot; &gt;
+                    &lt;/script&gt;
+                  &lt;/form&gt;
+
+                &lt;!-- &lt;a href=&quot;https://velvetsquid.com/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt; --&gt;
                 &lt;/div&gt;
+
               &lt;/div&gt;
               &lt;!-- end of pricing table--&gt;
             &lt;/div&gt;
@@ -2001,7 +2016,18 @@
                   &lt;li&gt;Uptime Monitoring&lt;/li&gt;
                   &lt;li&gt;Staging Environment&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://localhost:3000/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
+                &lt;div class=&quot;pricing-footer&quot;&gt;  
+                  &lt;form action=&quot;https://velvetsquid.com/create_subscription_pro.php&quot; method=&quot;POST&quot;&gt;
+                    &lt;script
+                      src=&quot;https://checkout.stripe.com/checkout.js&quot; class=&quot;stripe-button&quot;
+                      data-key=&quot;pk_live_6Mu19y1PM96iHc7g4dKchjWe&quot;
+                      data-image=&quot;https://velvetsquid.com/images/logo-stripe.png&quot;
+                      data-name=&quot;Professional Package&quot;
+                      data-description=&quot;Monthly Wordpress Care Package&quot;
+                      data-amount=&quot;25000&quot;
+                      data-label=&quot;Get Started&quot; &gt;
+                    &lt;/script&gt;
+                  &lt;/form&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
               &lt;!-- end of pricing table--&gt;
@@ -2023,7 +2049,18 @@
                   &lt;li&gt;Uptime Monitoring&lt;/li&gt;
                   &lt;li&gt;Service Level Agreement&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;pricing-footer&quot;&gt;&lt;a href=&quot;http://localhost:3000/#contact&quot; class=&quot;btn btn-color&quot;&gt;Order Now&lt;/a&gt;
+                 &lt;div class=&quot;pricing-footer&quot;&gt;  
+                  &lt;form action=&quot;https://velvetsquid.com/create_subscription_premium.php&quot; method=&quot;POST&quot;&gt;
+                    &lt;script
+                      src=&quot;https://checkout.stripe.com/checkout.js&quot; class=&quot;stripe-button&quot;
+                      data-key=&quot;pk_live_6Mu19y1PM96iHc7g4dKchjWe&quot;
+                      data-image=&quot;https://velvetsquid.com/images/logo-stripe.png&quot;
+                      data-name=&quot;Premium Package&quot;
+                      data-description=&quot;Monthly Wordpress Care Package&quot;
+                      data-amount=&quot;96000&quot;
+                      data-label=&quot;Get Started&quot; &gt;
+                    &lt;/script&gt;
+                  &lt;/form&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
               &lt;!-- end of pricing table--&gt;
@@ -2049,7 +2086,7 @@
         &lt;div class=&quot;col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2&quot;&gt;
           &lt;div class=&quot;contact-form&quot;&gt;
             &lt;form id=&quot;contact-form&quot; method=&quot;POST&quot; action=&quot;https://formspree.io/hello@velvetsquid.com&quot;&gt;
-              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;http://localhost:3000/thanks.html&quot; /&gt;
+              &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;https://velvetsquid.com/thanks.html&quot; /&gt;
               &lt;div class=&quot;form-group&quot;&gt;
                 &lt;input name=&quot;fullname&quot; type=&quot;text&quot; placeholder=&quot;Your Name&quot; data-required=&quot;true&quot; class=&quot;form-control&quot;&gt;
               &lt;/div&gt;
@@ -2084,7 +2121,7 @@
 				&lt;span&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		 
-			&lt;a href=&quot;http://localhost:3000/services/&quot; class=&quot;all&quot;&gt;
+			&lt;a href=&quot;https://velvetsquid.com/services/&quot; class=&quot;all&quot;&gt;
 				&lt;span&gt;&lt;i class=&quot;ti-layout-grid2&quot;&gt;&lt;/i&gt;&lt;/span&gt;
 			&lt;/a&gt;
 		
@@ -2095,8 +2132,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Tue, 03 May 2016 19:28:25 +1000</pubDate>
-        <link>http://localhost:3000/services/wordpress-care.html</link>
-        <guid isPermaLink="true">http://localhost:3000/services/wordpress-care.html</guid>
+        <link>https://velvetsquid.com/services/wordpress-care.html</link>
+        <guid isPermaLink="true">https://velvetsquid.com/services/wordpress-care.html</guid>
         
         
         <category>services</category>

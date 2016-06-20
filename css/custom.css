@@ -1,3 +1,24 @@
+.stripe-button-el span {
+    border-color: #EF2D56;
+    background-color: #EF2D56;
+    background-image:none;
+    padding: 0 28px;
+    height: 55px;
+    line-height: 53px;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.stripe-button-el span:hover { 
+    background-color: #f25375;
+    border-color: #f25375;
+}
 #blog-post h3 {
     padding-top: 40px;
 }
